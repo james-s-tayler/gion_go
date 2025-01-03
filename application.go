@@ -17,7 +17,7 @@ type Example struct {
 }
 
 type application struct {
-	llm        *LLM
+	llm        LLMInterface
 	giongo     []string
 	examples   []Example
 	outputFile *os.File

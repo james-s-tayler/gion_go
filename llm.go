@@ -8,6 +8,10 @@ import (
 	"github.com/openai/openai-go"
 )
 
+type LLMInterface interface {
+	GenerateExample(giongo string) (Example, error)
+}
+
 type LLM struct {
 	client      *openai.Client
 	ctx         context.Context
