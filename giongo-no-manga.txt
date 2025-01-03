@@ -1,0 +1,2351 @@
+hiragana	katakana	translation	applies to	more specifically
+あーあー	アーアー	yawning	onomatopoeia	human noises
+あーん	アーン	crying with the mouth open	emotions	crying
+あーん	アーン	crying	onomatopoeia	human noises
+あーんあーん	アーンアーン	crying	onomatopoeia	human noises
+あくせく	アクセク	"toil, drudge, restlessly"	work attitude
+あたふた	アタフタ	hurriedly	action
+あたふた	アタフタ	"flustered, panicky"	mental state
+あっ	アッ	in the blink of an eye	temporal aspect
+あっけらかん	アッケラカン	"indifference, calmth"	mental actions
+あっさり	アッサリ	"light, plain, simple"	flavour
+あっさり	アッサリ	without second thought	performing an action
+あっさり	アッサリ	"simple and plain, light yet delicate"	to appear to be
+あっぷあっぷ	アップアップ	to struggle to stay afloat	money issues
+あっぷあっぷ	アップアップ	gasping for air	onomatopoeia	human noises
+あっぷあっぷ	アップアップ	gasping for air	performing an action
+あっぷあっぷ	アップアップ	to struggle to stay afloat	work pressure
+ありあり	アリアリ	to clearly see in one's mind's eye	mental actions	recollection
+あんぐり	アングリ	"gazing open-mouthed, stunned"	facial expression	surprise
+あんぐり	アングリ	dumbfounded with the mouth wide open	mental state
+いざこざ	イザコザ	"confused, in a state of turmoil"	resultant state
+いじいじ	イジイジ	paranoid	eye expressions
+いじいじ	イジイジ	down	mood	down
+いじいじ	イジイジ	"introvert, timid"	personal traits
+いそいそ	イソイソ	"eager, cheerful, lighthearted"	mood	happy
+いちゃいちゃ	イチャイチャ	"flirting, publically showing affection"	personal attitude	undesirable
+いらいら	イライラ	"an irritating, irksome feeling (such as something stuck in the throat)"	feelings
+いらいら	イライラ	"fret, irritated, edgy"	mood	nervous
+うーっ	ウーッ	growling	onomatopoeia	dog
+うぉーん	ウォーン	howling	onomatopoeia	wolf
+うかうか	ウカウカ	"be off guard, dreaming "	mental state	not with it
+うきうき	ウキウキ	"waiting cheerfully, expectantly, happy as a lark"	mood	happy
+うじうじ	ウジウジ	"hesitating, waveringly"	mood	down
+うじうじ	ウジウジ	indecisive	personal traits
+うじゃうじゃ	ウジャウジャ	swarming	performing an action
+うずうず	ウズウズ	a burning desire to do something	emotions	urge
+うっ	ウッ	holding one's breath in	onomatopoeia	human noises
+うっ	ウッ	"short groan, growl, expression of repulsion"	performing an action
+うっかり	ウッカリ	inadvertently	action
+うっかり	ウッカリ	carelessly	mental state	not with it
+うっさら	ウッサラ	faint tears	crying
+うっすら	ウッスラ	faintly	mental actions	recollection
+うっすら	ウッスラ	"faintly, thinly"	resultant state
+うっすり	ウッスリ	"faintly, thinly"	resultant state
+うっとり	ウットリ	"rapt stare, captivated, enthralled"	eye expressions
+うっとり	ウットリ	"in rapture, in extacy"	mental state
+うつらうつら	ウツラウツラ	"drowsy, half asleep, dazed"	body function	sleep
+うとうと	ウトウト	"to doze off, nod off"	body function	sleep
+うねうね	ウネウネ	"winding, meandering"	shape
+うふふ	ウフフ	"involuntary, subdued chuckle"	laughter
+うまうま	ウマウマ	to be completely taken in 	mental state	not with it
+うようよ	ウヨウヨ	a squirming mass	performing an action
+うらうら	ウラウラ	refreshingly bright	weather	sunlight
+うろうろ	ウロウロ	loitering	performing an action
+うわーん	ウワーン	crying	onomatopoeia	human noises
+うん	ウン	nodding in understanding	performing an action
+うんうん	ウンウン	"groaning with pain, to agonise"	body function
+うんうん	ウンウン	groaning	onomatopoeia	human noises
+うんうん	ウンウン	nodding in agreement repeatedly	performing an action
+うんぎり	ウンギリ	"fed up, tired of"	mental state
+うんざり	ウンザリ	be weary of something	mental state
+ええ	エエ	yes (less formal version of はい)	speech
+えっちゃらおちゃら	エッチャラオチャラ	unsteady	performing an action	walking
+えっちらおっちら	エッチラオッチラ	"laborious, struggling against something"	action
+えっちらおっちら	エッチラオッチラ	unsteady	performing an action	walking
+えへん	エヘン	clearing the throat	onomatopoeia	human noises
+おいおい	オイオイ	"wailing, blubbering"	emotions	crying
+おいおい	オイオイ	crying	onomatopoeia	human noises
+おぎゃーおぎゃー	オギャーオギャー	crying	onomatopoeia	human noises
+おずおず	オズオズ	"timid, hesitant"	mental state
+おたおた	オタオタ	"disconcerted, flurried, confused"	mental state
+おちおち	オチオチ	"unable to sleep due to worries, used with a negative verb"	mood	nervous
+おっとり	オットリ	"calm, poised"	facial expression
+おっとり	オットリ	"dignified, even-tempered, stoic"	personal traits
+おどおど	オドオド	"timorous, at a loss (through insecurity)"	mental state
+おめおめ	オメオメ	"unbearable disgrace, unbearable shame"	emotions	shame
+おろおろ	オロオロ	"confused, worried, not knowing what to do"	mental state
+おんおん	オンオン	cry loudly	emotions	crying
+おんおん	オンオン	crying	onomatopoeia	human noises
+かーかー	カーカー	caw	onomatopoeia	crow
+がーがー	ガーガー	quack	onomatopoeia	duck
+かーっ	カーッ	to completely blow one's top	emotions	anger
+かーっ	カーッ	hot (spicy)	flavour
+かーん	カーン	"""clang"""	onomatopoeia	bells
+かーん	カーン	clanging	onomatopoeia
+がーん	ガーン	hit in like an anvil	mental state
+がくがく	ガクガク	"shiver, shake"	feelings
+がくがく	ガクガク	"wobbly, loose"	structure
+がくっ	ガクッ	twist/bend with a jerk	motions
+がくり	ガクリ	to lose heart	mood	down
+がくり	ガクリ	drooping	performing an action	eating
+がくり	ガクリ	"abruptly, suddenly"	performing an action	falling
+かくん	カクン	"jolting, jerking"	motions
+がくん	ガクン	to lose heart	mood	down
+がくん	ガクン	fall apart	motions	desintegrate
+がくん	ガクン	twist/bend with a jerk	motions
+がくん	ガクン	suddenly decline	motions
+がくん	ガクン	jolt strongly	motions
+がくん	ガクン	"abruptly, suddenly"	performing an action	falling
+かさかさ	カサカサ	"a coarse, dried out feeling"	feelings
+かさかさ	カサカサ	crumble	motions	desintegrate
+かさかさ	カサカサ	rumbling	onomatopoeia
+かさかさ	カサカサ	"dull, harsh"	personal attitude
+かさかさ	カサカサ	"dry, rough"	physical state	dry
+がさがさ	ガサガサ	"a coarse, dried out feeling, coarse than かさかさ"	feelings
+がさがさ	ガサガサ	crumble	motions	desintegrate
+がさがさ	ガサガサ	rumbling	onomatopoeia
+がさがさ	ガサガサ	"unsophisticated, ill-mannered"	personal traits	undesirable
+がさがさ	ガサガサ	"dried out, coarse"	physical state	dry
+かさこそ	カサコソ	rumbling	onomatopoeia
+がさごそ	ガサゴソ	rumbling	onomatopoeia
+かさっ	カサッ	falling off by crumbling	motions	desintegrate
+がさっ	ガサッ	falling off by crumbling (with a thud)	motions	desintegrate
+がさっ	ガサッ	thudding	onomatopoeia
+がさっ	ガサッ	to move (not per se literally) in large numbers	quantity
+がし	ガシ	"to hold tightly, to hug tightly"	performing an action
+がしっ	ガシッ	strongly built	resultant state
+がしっ	ガシッ	strongly built	the body
+かしゃっ	カシャッ	clicking	onomatopoeia
+がしゃっ	ガシャッ	crunching	onomatopoeia
+かすかす	カスカス	"dry, lacking moisture"	physical state	dry
+かすかす	カスカス	barely	quantity
+かすかす	カスカス	barely in time	temporal aspect
+かすかす	カスカス	"dry, tasteless"	texture
+かたかた	カタカタ	clattering	onomatopoeia
+かたかた	カタカタ	rattling	onomatopoeia
+がたがた	ガタガタ	shake life a leaf	feelings
+がたがた	ガタガタ	suddenly decline	motions
+がたがた	ガタガタ	clattering	onomatopoeia
+がたがた	ガタガタ	rattling	onomatopoeia
+がたがた	ガタガタ	"complaining, rattling, giving unwanted advice"	speech
+がたがた	ガタガタ	"shaky, ill-balanced"	structure
+かたこと	カタコト	clattering	onomatopoeia
+がたっ	ガタッ	suddden decline	motions
+がたっ	ガタッ	clattering	onomatopoeia
+がたっ	ガタッ	a sudden decline in health	physical health	poor
+がたぴし	ガタピシ	falling apart	form
+がたぴし	ガタピシ	rattling	onomatopoeia
+がたぴし	ガタピシ	"disorderly, lacking smoothness"	personal relations
+がたぴし	ガタピシ	"to fall apart, to move less easy"	physical health	poor
+がたぴし	ガタピシ	a human relation (or system) going to shambles	resultant state
+がたぴし	ガタピシ	poor	structure
+がたん	ガタン	clattering	onomatopoeia
+かたんかたん	カタンカタン	that sound trains make on tracks	onomatopoeia	train
+かちかち	カチカチ	"stiff, frozen up"	mood	nervous
+かちかち	カチカチ	clicking	onomatopoeia
+かちかち	カチカチ	"""tick tock"""	onomatopoeia
+かちかち	カチカチ	"inflexible, stubborn"	personal traits	undesirable
+かちかち	カチカチ	"dried, frozen hard"	physical state	stiff
+がちがち	ガチガチ	to be tight-fisted	money issues
+がちがち	ガチガチ	clicking	onomatopoeia
+がちがち	ガチガチ	greedy	personal traits	undesirable
+がちがち	ガチガチ	"dried, frozen hard"	physical state	stiff
+かちっ	カチッ	the sound of something clicking open	onomatopoeia
+かちっ	カチッ	"secure, solid"	resultant state
+かちゃかちゃ	カチャカチャ	clicking	onomatopoeia
+がちゃがちゃ	ガチャガチャ	clicking	onomatopoeia
+がちゃがちゃ	ガチャガチャ	jangling	onomatopoeia
+かちゃっ	カチャッ	clicking	onomatopoeia
+がちゃん	ガチャン	clanging	onomatopoeia
+がちゃん	ガチャン	slamming	onomatopoeia
+かちん	カチン	to take offense	mood	nervous
+かちん	カチン	"""kapwing"""	onomatopoeia	bouncing bullet
+かちん	カチン	clinking	onomatopoeia
+かちん	カチン	cracking	onomatopoeia
+がちん	ガチン	clunking	onomatopoeia
+かっ	カッ	"excited, infatuated, flaring up"	emotions	affection
+かっ	カッ	"be enraged, to burst into anger"	emotions	anger
+かっ	カッ	stern	eye expressions
+かっ	カッ	flashing ones eyes open in rage	facial expression
+かっ	カッ	a sudden and strong sensation of heat	feelings	temperature
+かっ	カッ	with a bang	onomatopoeia
+かっ	カッ	overwhelmingly stuffy	weather	temperature
+がっ	ガッ	crunching (on impact)	action	colliding
+がっ	ガッ	crunching	onomatopoeia
+かっか	カッカ	"extremely excited, having a fit of passion"	emotions	affection
+かっか	カッカ	fuming with anger	emotions	anger
+かっか	カッカ	to fluster (either from shyness or anger)	facial expression
+かっか	カッカ	a burning sensation	feelings	temperature
+かっか	カッカ	hot (spicy)	flavour
+かっか	カッカ	"red-hot, brightly"	state	fire
+かっか	カッカ	"blazing, blinding"	weather	sunlight
+かっかっ	カッカッ	trotting	onomatopoeia
+かつがつ	カツガツ	barely in time	temporal aspect
+がつがつ	ガツガツ	"to devour, to eat like a pig"	performing an action	eating
+がっかり	ガッカリ	disappointed	emotions	unease
+かっきり	カッキリ	"exact, precise"	quantity
+かっきり	カッキリ	"exactly, precisely"	temporal aspect
+がっくり	ガックリ	downhearted	mood	down
+がっくり	ガックリ	drooping	performing an action	eating
+がっくり	ガックリ	a drastic decline	physical health	poor
+がっしり	ガッシリ	solidly built	resultant state
+がっしり	ガッシリ	"well-built, solid, muscular"	the body
+かっちり	カッチリ	"well-built, tight-fitting"	resultant state
+がっちり	ガッチリ	"shred, careful with spending"	money issues
+がっちり	ガッチリ	to hold firmly	performing an action
+がっちり	ガッチリ	"firm, strong"	resultant state
+がっちり	ガッチリ	strongly built	the body
+かっちんかっちん	カッチンカッチン	"slow ""tick tock"""	onomatopoeia
+かっちんかっちん	カッチンカッチン	frozen solid	physical state	stiff
+がつっ	ガツッ	something heavy hitting something hard accidentally	action	hitting something
+がつっ	ガツッ	crunching	onomatopoeia
+がつっがつっ	ガツッガツッ	with a sharp heavy object	performing an action	stabbing
+かっ	カッ	"blazing, blinding"	weather	sunlight
+がっぷり	ガップリ	grip tighly	action
+がっぷり	ガップリ	to bite down	performing an action
+かっぽかっぽ	カッポカッポ	trotting	onomatopoeia
+がっぽがっぽ	ガッポガッポ	making a large amount of money	quantity
+がっぽり	ガッポリ	making a large amount of money	quantity
+がつん	ガツン	head-on	action	colliding
+がつん	ガツン	the impact of something heavy hitting something hard accidentally	action	hitting something
+がば	ガバ	"sudden, forceful"	action
+がば	ガバ	jumping up (from stationary position)	performing an action
+がばがば	ガバガバ	"large, ill-fitting"	form
+がばがば	ガバガバ	flapping	onomatopoeia
+がばがば	ガバガバ	gurgling	onomatopoeia
+がばがば	ガバガバ	"hard and stiff, frozen hard"	physical state	stiff
+がばがば	ガバガバ	to make lots of money	quantity
+がばがば	ガバガバ	"large, ill-fitting"	size
+がばっ	ガバッ	forceful	action	sudden
+がばっ	ガバッ	jumping up (from stationary position)	performing an action
+がばっ	ガバッ	to make lots of money	quantity
+がぶがぶ	ガブガブ	gulp down	performing an action	drinking
+がぶっ	ガブッ	swallow in one gulp	performing an action	drinking
+がぶっ	ガブッ	bite something in one chomp (focus on the in-the-mouth aspect)	performing an action
+がぶり	ガブリ	swallow in one gulp (slower than がぶっ)	performing an action	drinking
+がぶり	ガブリ	bite something in one chomp (focus on the biting aspect)	performing an action
+かぽかぽ	カポカポ	trotting	onomatopoeia
+がぼがぼ	ガボガボ	"loose, baggy"	form
+がぼがぼ	ガボガボ	gurgling	onomatopoeia
+がぼがぼ	ガボガボ	"loose, baggy"	size
+がぼっ	ガボッ	large profit/loss	quantity
+がみがみ	ガミガミ	"snarl, crabby, snapping"	speech
+がやがや	ガヤガヤ	"noisy, clamorous"	perceived sound
+からから	カラカラ	"empty, vacant"	available space
+からから	カラカラ	"parched, dry throat"	body function
+からから	カラカラ	a good laugh (masculine type of laugh)	laughter
+からから	カラカラ	empty [purse]	money issues
+からから	カラカラ	clattering	onomatopoeia
+からから	カラカラ	"dried up, parched"	physical state	dry
+からから	カラカラ	dry	weather	climate
+がらがら	ガラガラ	empty (moved out of)	available space
+がらがら	ガラガラ	gargling	onomatopoeia
+がらがら	ガラガラ	rattling	onomatopoeia
+からころ	カラコロ	clattering	onomatopoeia
+からっ	カラッ	"crispy dry, pleasant"	weather	clear
+がらっ	ガラッ	completely change	action	sudden
+がらっ	ガラッ	rattling	onomatopoeia
+からっぽ	カラッポ	"empty, vacant"	available space
+からっぽ	カラッポ	to be all out	money issues
+からり	カラリ	"straightforward, cheerful"	personal traits
+からり	カラリ	pleasantly dry	physical state	dry
+からり	カラリ	"open, clear, unobstructed"	sight
+からり	カラリ	"pleasantly dry, clearing up"	weather	clear
+がらり	ガラリ	completely change	action	sudden
+がらり	ガラリ	clattering	onomatopoeia
+がらり	ガラリ	rattling	onomatopoeia
+がらり	ガラリ	completely (suddenly)	resultant state
+がらん	ガラン	empty (moved out of)	available space
+がらん	ガラン	clanging	onomatopoeia
+からんからん	カランカラン	"hollow ""clang"""	onomatopoeia	bells
+からんからん	カランカラン	clattering	onomatopoeia
+かりかり	カリカリ	"irritated, uptight, nervously excited"	mood	nervous
+かりかり	カリカリ	"nervous, excited, worked up"	mood	nervous
+かりかり	カリカリ	scraping	onomatopoeia
+かりかり	カリカリ	hard	physical state	stiff
+かりかり	カリカリ	crisp	texture
+かりかり	カリカリ	hard	texture	surface
+がりがり	ガリガリ	"possessed, obsessed"	mental state
+がりがり	ガリガリ	nibbling	onomatopoeia
+がりがり	ガリガリ	scratching	onomatopoeia
+がりがり	ガリガリ	extremely hard	physical state	stiff
+がりがり	ガリガリ	extremely hard and coarse	texture
+がりがり	ガリガリ	overly thin	the body
+がん	ガン	receiving a strong blow	action	hitting something
+がん	ガン	slap	action	striking
+がん	ガン	impacting	onomatopoeia
+がん	ガン	thundering	onomatopoeia
+がん	ガン	"""pow!"""	onomatopoeia
+かんかん	カンカン	boil with rage	emotions	anger
+かんかん	カンカン	"clear ""clang"""	onomatopoeia	bells
+かんかん	カンカン	"blazing, blinding"	weather	sunlight
+がんがん	ガンガン	having a pounding heart	body function
+がんがん	ガンガン	a throbbing sensation in the head (like it's being pounded)	feelings	pain
+がんがん	ガンガン	clanging	onomatopoeia
+がんがん	ガンガン	hammering	onomatopoeia
+がんがん	ガンガン	pounding	onomatopoeia
+がんがん	ガンガン	irritating	perceived sound
+がんがん	ガンガン	vigorously	performing an action
+きー	キー	screeching	onomatopoeia
+きーきー	キーキー	high pitched crying	onomatopoeia	human noises
+きーきー	キーキー	screeching	onomatopoeia	human noises
+きーきー	キーキー	squeak	onomatopoeia	monkey
+きーきー	キーキー	squeak	onomatopoeia	rodent
+きーきー	キーキー	screetching	onomatopoeia
+ぎーぎー	ギーギー	creaking	onomatopoeia
+きーっ	キーッ	screetching	onomatopoeia
+ぎーっ	ギーッ	creaking	onomatopoeia
+ぎくぎく	ギクギク	twisted	form
+ぎくぎく	ギクギク	awkward	motions
+ぎくしゃく	ギクシャク	"clumsy, awkward"	motions
+ぎくしゃく	ギクシャク	clumsy	performing an action
+ぎくしゃく	ギクシャク	"clumsy, stiff and unnatural"	personal relations
+ぎくっ	ギクッ	sharp startlement	mental state	scared
+ぎくっ	ギクッ	twist/bend suddenly in an awkward manner	motions
+ぎくり	ギクリ	"startled, frightened, stopped one breath short"	mental state	scared
+ぎくん	ギクン	"startled, frightened, stopped one breath short"	mental state	scared
+ぎこぎこ	ギコギコ	creaking	onomatopoeia
+ぎこぎこ	ギコギコ	sawing	onomatopoeia
+ぎざぎざ	ギザギザ	indented	form
+ぎしぎし	ギシギシ	jam-packed	available space
+ぎしぎし	ギシギシ	creaking	onomatopoeia
+ぎすぎす	ギスギス	lack of gentleness / warmth	personal attitude
+ぎすぎす	ギスギス	"skinny, thin"	the body
+きちきち	キチキチ	"regularly, punctual"	action
+きちきち	キチキチ	jam-packed	available space
+きちきち	キチキチ	not letting [someone] down	personal traits
+きちきち	キチキチ	(pure) exact	quantity
+きちきち	キチキチ	"tight, exact"	size
+きちきち	キチキチ	"exactly, just in time"	temporal aspect
+きちきち	キチキチ	"regularly, punctualy"	work attitude
+きちっ	キチッ	"reliably, strict"	action
+きちっ	キチッ	reliable and strict	money issues
+きちっ	キチッ	"properly, neat"	personal attire
+きちっ	キチッ	reliable	personal traits
+きちっ	キチッ	"exactly, precisely"	quantity
+きちっ	キチッ	"properly, orderly, neatly"	resultant state
+きちっ	キチッ	"tightly, properly"	resultant state
+きちっ	キチッ	"tight, like clockwork"	temporal aspect
+きちっ	キチッ	reliable and strict	work attitude
+きちっきちっ	キチッキチッ	"reliably, strict, completing all actions"	action
+きちっきちっ	キチッキチッ	"exactly, precisely"	quantity
+ぎちゃんぎちゃん	ギチャンギチャン	"""clang clang"""	onomatopoeia
+きちん	キチン	"precisely, properly"	action
+きちん	キチン	sitting properly	performing an action	sitting
+きちん	キチン	"properly, neat"	personal attire
+きちん	キチン	"properly, orderly, neatly"	resultant state
+きちんきちん	キチンキチン	"precisely, properly"	action
+きちんきちん	キチンキチン	"precisely, regularly"	money issues
+きっ	キッ	stern	facial expression
+きっかり	キッカリ	"exactly, precisely"	temporal aspect
+ぎっくり	ギックリ	"startled, frightened, stopped one breath short (emphatic form of ぎくん)"	mental state	scared
+ぎっしり	ギッシリ	compact	available space
+ぎっちら	ギッチラ	rowing a small boat	performing an action
+きっちり	キッチリ	"exact (round number, not a fraction)"	quantity
+きっちり	キッチリ	"tightly, exactly"	resultant state
+きっちり	キッチリ	exact	size
+きっちり	キッチリ	"exactly, precisely"	temporal aspect
+ぎっちり	ギッチリ	compact	available space
+きっぱい	キッパイ	"fresh, clean"	personal attire
+きっぱり	キッパリ	"frankly, flat out"	performing an action
+きっぱり	キッパリ	"plain, frank, candid, rejecting flattery"	speech
+ぎとぎと	ギトギト	feeling sticky and greasy from oil	feelings
+ぎとぎと	ギトギト	"sticky, greasy"	physical state	sticky
+きびきび	キビキビ	"energetic, spirited"	facial expression
+きびきび	キビキビ	"clear, crisp"	speech
+きびきび	キビキビ	"energetic, brisk, lively"	work attitude
+きゃーきゃー	キャーキャー	"""eeeeeeeeeeek!"""	onomatopoeia	human noises
+ぎゃーぎゃー	ギャーギャー	gaggling	onomatopoeia	duck
+ぎゃーぎゃー	ギャーギャー	high pitched crying	onomatopoeia	human noises
+ぎゃーぎゃー	ギャーギャー	"""aaaaaaaaaaa!"""	onomatopoeia	human noises
+きゃっ	キャッ	"""eek!"""	onomatopoeia	human noises
+ぎゃっ	ギャッ	"""eek!"""	onomatopoeia	human noises
+きゃっきゃっ	キャッキャッ	merriment	onomatopoeia	human noises
+きゃっきゃっ	キャッキャッ	gibbering	onomatopoeia	monkey
+ぎゃふん	ギャフン	"rendered speechless, dumbfounded"	mental state
+きゃんきゃん	キャンキャン	yelp	onomatopoeia	dog
+きゅー	キュー	"a squeezing, clamping pain"	feelings	pain
+きゅーきゅー	キューキュー	squeeze lightly	action
+きゅーきゅー	キューキュー	creaking	onomatopoeia
+きゅうきゅう	キュウキュウ	to be short on money	money issues
+ぎゅーぎゅー	ギューギュー	"squash, pack/stuff/cram something "	action
+ぎゅーぎゅー	ギューギュー	jam-packed	available space
+ぎゅーぎゅー	ギューギュー	creaking	onomatopoeia
+きゅーっ	キューッ	"a squeezing, clamping pain"	feelings	pain
+きゅーん	キューン	a strong emotion set off by a touching scene or pathetic sight	emotions
+きゅっ	キュッ	pinch	action
+きゅっ	キュッ	squeeze strongly	action
+きゅっ	キュッ	tighten	action
+きゅっ	キュッ	"getting choked up, a poignant feeling as if something is tightening"	emotions
+きゅっ	キュッ	pressed/pursed lips	facial expression
+きゅっ	キュッ	hastily drink down in one gulp	performing an action	drinking
+きゅっ	キュッ	shrugging	performing an action
+ぎゅっ	ギュッ	"forcefully push, press, squeeze"	action
+ぎゅっ	ギュッ	"giving a big squeeze, giving a big hug"	performing an action
+ぎょっ	ギョッ	"shocked, aghast"	mental state	scared
+きょときょと	キョトキョト	looking around nervously	eye expressions
+きょとん	キョトン	"stupified, dumbfounded"	facial expression
+きょとん	キョトン	"dazed, blank"	mental state	not with it
+きょろきょろ	キョロキョロ	looking around restlessly	eye expressions
+ぎょろぎょろ	ギョロギョロ	"goggle, glare frightened"	eye expressions	glaring
+ぎょろり	ギョロリ	giving a single piercing glare	eye expressions	glaring
+きらきら	キラキラ	"glittering, twinkling"	eye expressions
+きらきら	キラキラ	"sharp, searching"	eye expressions
+きらきら	キラキラ	"twinkle, glitter"	state	light
+ぎらぎら	ギラギラ	strongly glare	eye expressions	glaring
+ぎらぎら	ギラギラ	"glitter, glare"	state	light
+ぎらぎら	ギラギラ	glaring	weather	sunlight
+きらっ	キラッ	"sharp, momentary glint, sharper version of きらっ"	eye expressions
+きらっ	キラッ	a sudden glitter	state	light
+ぎらっ	ギラッ	"momentary glare, stronger than ぎらり"	eye expressions	glaring
+ぎらっ	ギラッ	a momentary glitter	state	light
+きらり	キラリ	"sharp, momentary glint"	eye expressions
+きらり	キラリ	a sudden glitter	state	light
+ぎらり	ギラリ	momentary glare	eye expressions	glaring
+ぎらり	ギラリ	a momentary glitter	state	light
+きらりきらり	キラリキラリ	"intermittently twinkling, glittering"	state	light
+ぎらりぎらり	ギラリギラリ	"slow gleam, glare"	state	light
+きりきり	キリキリ	drill through	action
+きりきり	キリキリ	"a splitting pain, a sharp drilling pain"	feelings	pain
+きりきり	キリキリ	spin around	motions	rotation
+きりきり	キリキリ	to become swamped with work	work attitude
+きりきり	キリキリ	frightfully busy	work pressure
+ぎりぎり	ギリギリ	barely containing	available space
+ぎりぎり	ギリギリ	grating	onomatopoeia
+ぎりぎり	ギリギリ	grinding the teeth	performing an action
+ぎりぎり	ギリギリ	"barely, just in time"	temporal aspect
+きりっ	キリッ	a momentary sharp pain (stronger than きりきり)	feelings	pain
+きりっ	キリッ	"spruce, smart"	personal attire
+きんきらきん	キンキラキン	"gaudy, flashy"	to appear to be
+くあくあ	クアクア	quak	onomatopoeia	duck
+ぐい	グイ	jerk up	performing an action
+ぐい	グイ	to jerk	performing an action
+ぐいぐい	グイグイ	vigorous	action
+ぐいぐい	グイグイ	gulping	onomatopoeia	human noises
+ぐいぐい	グイグイ	"guzzle, that noise made when drinking large gulps"	performing an action	drinking
+ぐいぐい	グイグイ	to pull ahead	performing an action	swimming
+ぐいぐい	グイグイ	jerk up	performing an action
+ぐいぐい	グイグイ	pulling with all one's might	performing an action
+ぐいぐい	グイグイ	push with force	performing an action
+ぐいぐい	グイグイ	to push [others]	work attitude
+ぐいっ	グイッ	"a single, pulling action"	performing an action
+ぐいっ	グイッ	to jerk (stronger than ぐい)	performing an action
+くーくー	クークー	coo coo	onomatopoeia	dove
+ぐーぐー	グーグー	snoring	body function	sleep
+ぐーぐー	グーグー	growling stomach	onomatopoeia	human noises
+ぐーぐー	グーグー	sleeping noise	onomatopoeia	human noises
+ぐーぐー	グーグー	rumbling	onomatopoeia
+ぐーすか	グースカ	to sleep (between snoring and breathing)	body function	sleep
+ぐーすか	グースカ	sleeping noise	onomatopoeia	human noises
+くくーっ	ククーッ	with gusto	performing an action	drinking
+くくっ	ククッ	laughing but trying to supress it (more drawn out than くっくっ)	laughter
+くさくさ	クサクサ	"blue, wretched"	mood	down
+くさくさ	クサクサ	"blue, wretched"	mood	down
+くしゃくしゃ	クシャクシャ	"wrinkle, crumple"	action
+くしゃくしゃ	クシャクシャ	contorted	facial expression
+くしゃくしゃ	クシャクシャ	"crumpled, wrinkled"	form
+くしゃくしゃ	クシャクシャ	"wretched, frustrated"	mood	down
+くしゃくしゃ	クシャクシャ	crumpled	resultant state
+くしゃくしゃ	クシャクシャ	mumbling against reason	speech
+くしゃくしゃ	クシャクシャ	mumur under one's breath	speech
+ぐしゃぐしゃ	グシャグシャ	"smash, mash"	action
+ぐしゃぐしゃ	グシャグシャ	"crushed, smashed"	resultant state
+ぐじゃぐじゃ	グジャグジャ	soggy	resultant state
+ぐしゃり	グシャリ	"crushed, smashed"	resultant state
+くしゃん	クシャン	"""achoo"""	onomatopoeia	human noises
+ぐしょぐしょ	グショグショ	extremely wet	physical state	wet
+くすくす	クスクス	snickering	laughter
+ぐすぐす	グスグス	sniffling	onomatopoeia	human noises
+ぐずぐず	グズグズ	"grumble, complaining about everything"	speech
+ぐずぐず	グズグズ	hestitating	work attitude
+くすんくすん	クスンクスン	sniffing	onomatopoeia	human noises
+くたくた	クタクタ	"totally exhausted, worn out, solf, pulpy"	physical health	bad
+くたくた	クタクタ	"soft, mushy"	texture
+ぐたぐた	グタグタ	dead drunk	body function	drunk
+ぐたぐた	グタグタ	more emphatic than くたくた	physical health	bad
+ぐたぐた	グタグタ	soft and pulpy	texture
+ぐだぐだ	グダグダ	"tedious, wordy"	speech
+ぐたり	グタリ	more emphatic than くたくた	physical health	bad
+くちゃくちゃ	クチャクチャ	"wrinkle, crumple"	action
+くちゃくちゃ	クチャクチャ	"squelch, press hard"	action
+くちゃくちゃ	クチャクチャ	crumpled	form
+くちゃくちゃ	クチャクチャ	chewing	onomatopoeia
+くちゃくちゃ	クチャクチャ	squelching	onomatopoeia
+くちゃくちゃ	クチャクチャ	the sound of chewing	performing an action	eating
+くちゃくちゃ	クチャクチャ	"out of shape, crumpled"	resultant state
+ぐちゃぐちゃ	グチャグチャ	soggy	form
+ぐちゃぐちゃ	グチャグチャ	chewing	onomatopoeia
+ぐちゃぐちゃ	グチャグチャ	squelching	onomatopoeia
+ぐちゃぐちゃ	グチャグチャ	the sound of heavy chewing	performing an action	eating
+ぐちゃぐちゃ	グチャグチャ	soggy	resultant state
+ぐちゃぐちゃ	グチャグチャ	"complaining endlessly, griping"	speech
+ぐちゃぐちゃ	グチャグチャ	"mushy, pulpy"	texture
+くっ	クッ	suddenly bend	motions
+くっ	クッ	"noticably, markedly"	resultant state
+ぐっ	グッ	"grab, pull with a jerk"	action
+ぐっ	グッ	to feel / be choked	body function
+ぐっ	グッ	feeling a lump in one's throat	emotions	being moved
+ぐっ	グッ	looking with a penetrating glare	eye expressions	glaring
+ぐっ	グッ	stuck for words	mental state
+ぐっ	グッ	strong indignation welling up	mood	nervous
+ぐっ	グッ	taking a gulp	performing an action	drinking
+ぐっ	グッ	to force something to a sudden halt	performing an action
+ぐっ	グッ	"noticably, markedly"	resultant state
+ぐっ	グッ	markedly	resultant state
+くっきり	クッキリ	"distinct, clearly"	resultant state
+くっきり	クッキリ	distinctive	sight
+くっきり	クッキリ	standing out	state
+くっくっ	クックッ	laughing but trying to supress it.	laughter
+くっくっ	クックッ	coo	onomatopoeia	dove
+ぐつぐつ	グツグツ	boiling	onomatopoeia
+ぐつぐつ	グツグツ	simmering	state	liquids
+ぐっしょり	グッショリ	dripping wet	physical state	wet
+ぐっすり	グッスリ	to sleep soundly	body function	sleep
+ぐったり	グッタリ	lacking strength	performing an action	sitting
+ぐったり	グッタリ	"to lie sprawled, dead tired, withered"	physical health	bad
+ぐったり	グッタリ	"wilted, drooping"	resultant state
+ぐでんぐでん	グデングデン	drunk and passing out	body function	drunk
+くどくど	クドクド	hammering on something	speech
+くにゃ	クニャ	to suddenly bend (once)	performing an action
+くにゃくにゃ	クニャクニャ	"soft, flexible, supple"	form
+くにゃくにゃ	クニャクニャ	bending while flexing the body	performing an action
+くにゃくにゃ	クニャクニャ	wiggling	performing an action
+くにゃくにゃ	クニャクニャ	"fickle, irresolute"	personal traits	undesirable
+ぐにゃぐにゃ	グニャグニャ	soft	form
+ぐにゃぐにゃ	グニャグニャ	"soft, disfigured"	resultant state
+くにゃっ	クニャッ	to suddenly bend (once)	performing an action
+ぐにゃっ	グニャッ	the first impression of touching something squishy	feelings
+くにゃり	クニャリ	"bending slowly, gently"	performing an action
+ぐにゃり	グニャリ	the feeling of touching something squishy	feelings
+ぐにゃり	グニャリ	"bending slowly, gently (for bigger things than くにゃり)"	performing an action
+ぐにゃり	グニャリ	"soft, lacking tension"	physical health	poor
+ぐにゃり	グニャリ	"bent, distorted"	resultant state
+くねくね	クネクネ	wriggling	performing an action
+くねくね	クネクネ	"winding, meandering"	shape
+くよくよ	クヨクヨ	"concerned with something insignificant, mope"	mood	down
+くらくら	クラクラ	dizzy	body function
+くらくら	クラクラ	boiling up	state	liquids
+ぐらぐら	グラグラ	"shaking, unstable"	motions	swinging
+ぐらぐら	グラグラ	boiling intensely	state	liquids
+ぐらぐら	グラグラ	shaky	structure
+くらっ	クラッ	momentary dizziness	body function
+ぐらり	グラリ	in a big swaying motion	performing an action	falling
+くりくり	クリクリ	"large rolling movement of eyes, very round eyes"	eye expressions
+くりくり	クリクリ	"short, cropped, but smooth looking cut. Also used for a shaven head"	hair
+ぐりぐり	グリグリ	press and turn	action
+ぐりぐり	グリグリ	"round, closecut but rough looking haircut"	hair
+くるくる	クルクル	"wind, coil, wrapped around"	action
+くるくる	クルクル	"rotating, winding"	motions	rotation
+くるくる	クルクル	spin around	motions	rotation
+くるくる	クルクル	"to toil, to run around the place"	work attitude
+ぐるぐる	グルグル	to roll up	action
+ぐるぐる	グルグル	to spin	body function
+ぐるぐる	グルグル	"rotating, winding"	motions	rotation
+ぐるぐるっ	グルグルッ	"rotating, winding, picking up pace while doing so"	motions	rotation
+くるっ	クルッ	to suddenly rotate	motions	rotation
+くるっ	クルッ	a quick single tumble	performing an action
+ぐるっ	グルッ	"surround, encircle"	motions	rotation
+くるり	クルリ	a single rotation	motions	rotation
+ぐるり	グルリ	looking around	eye expressions
+ぐるり	グルリ	"surround, encircle"	motions	rotation
+ぐるりぐるり	グルリグルリ	twirl	action
+ぐるりぐるり	グルリグルリ	"slowly rotating, winding"	motions	rotation
+くるん	クルン	a single rotation	motions	rotation
+ぐるん	グルン	"surround, encircle"	motions	rotation
+ぐるん	グルン	tumbling	performing an action
+ぐるんぐるん	グルングルン	swing around	action
+くわっ	クワッ	suddenly opening the eyes with an angry look	eye expressions
+くん	クン	"noticably, markedly"	resultant state
+ぐん	グン	straining the body 	performing an action
+ぐん	グン	to force something to a sudden halt	performing an action
+ぐん	グン	to grow rapidly (growth spurt)	physical health	good
+ぐん	グン	"noticably, markedly, drasticaly changing"	resultant state
+ぐん	グン	markedly	resultant state
+ぐんあり	グンアリ	"weak, enfeebled, wilted"	physical health	poor
+くんくん	クンクン	whining	onomatopoeia	dog
+くんくん	クンクン	sniff sniff	onomatopoeia	human noises
+くんくん	クンクン	sniff	performing an action
+ぐんぐん	グングン	vigorous	action
+ぐんぐん	グングン	"distinguishing, outclassing"	resultant state
+ぐんなり	グンナリ	wearily	physical health	poor
+ぐんなり	グンナリ	"wilter, withering"	resultant state
+ぐんにゃり	グンニャリ	"soft, lacking tension (more emphatc than ぐにゃり)"	physical health	poor
+げ	ゲ	the momentary sensation of (wanting to) vomit	body function
+げーげー	ゲーゲー	vomitting	body function
+けたけた	ケタケタ	an out of place burly laugh	laughter
+げたげた	ゲタゲタ	"an out of place burly laugh, more vulgar than けたけた"	laughter
+けちょんけちょん	ケチョンケチョン	to take a beating	mental state
+げっ	ゲッ	the momentary sensation of (wanting to) vomit	body function
+げっそり	ゲッソリ	"disappoined, colloquailly interchanged with がっかり"	emotions	unease
+げっそり	ゲッソリ	"emaciated, haggard"	physical health	poor
+げっそり	ゲッソリ	to look haggard	the body
+けばけば	ケバケバ	"lavish, gaudy, garish"	to appear to be
+けらけら	ケラケラ	"cackle, frivolous"	laughter
+げらげら	ゲラゲラ	boisterous	laughter
+げるげるげる	ゲルゲルゲル	purrrr	onomatopoeia	cat
+けろけろ	ケロケロ	laughing as if nothing happened	laughter
+けろけろ	ケロケロ	"calm, act like nothing happened, remaining cool"	mental actions
+けろけろ	ケロケロ	ribbit	onomatopoeia	frog
+げろげろ	ゲロゲロ	to continuously throw up	body function
+けろっ	ケロッ	"calm, act like nothing happened, remaining cool"	mental actions
+けろり	ケロリ	"calm, act like nothing happened, remaining cool"	mental actions
+けろり	ケロリ	sudden disappearance of some state	resultant state
+げわっげわっ	ゲワッゲワッ	quack	onomatopoeia	duck
+げんなり	ゲンナリ	to be tired	mental state
+ごーごー	ゴーゴー	roaring	onomatopoeia	fire
+ごーごー	ゴーゴー	heavy rumbling	onomatopoeia	train
+ごーごー	ゴーゴー	roaring	onomatopoeia	water
+ごーごー	ゴーゴー	roaring	onomatopoeia
+ごーん	ゴーン	"""gong"""	onomatopoeia	bells
+こーんこーん	コーンコーン	barking	onomatopoeia	fox
+ごくごく	ゴクゴク	gulping	onomatopoeia
+ごくごく	ゴクゴク	that noise made when drinking large gulps one after another	performing an action	drinking
+ごくっ	ゴクッ	downing a mouthful quickly	performing an action	drinking
+こくり	コクリ	nodding sharply	performing an action
+ごくり	ゴクリ	in a gulp	performing an action	drinking
+ごくりごくり	ゴクリゴクリ	gulping	onomatopoeia
+こくん	コクン	to drop one's head (as a nod)	performing an action
+ごくん	ゴクン	in a gulp	performing an action	drinking
+ごくんごくん	ゴクンゴクン	drinking	onomatopoeia	human noises
+こけこっこー	コケコッコー	cock-a-doodle-doo	onomatopoeia	male chicken
+ごしごし	ゴシゴシ	"rub, scrub hard"	performing an action
+ごしっごしっ	ゴシッゴシッ	sawing	onomatopoeia
+ごしゃどしゃ	ゴシャドシャ	jumbled	spacial orientation
+こせこせ	コセコセ	confined	available space
+こせこせ	コセコセ	"fussy, make a big deal out of nothing"	personal traits
+こそこそ	コソコソ	stealthily	action
+ごそごそ	ゴソゴソ	rumbling	onomatopoeia
+ごそっ	ゴソッ	rumbling	onomatopoeia
+ごそっ	ゴソッ	to move (not per se literally) in large numbers	quantity
+ごたごた	ゴタゴタ	"mix, jumble"	action
+ごたごた	ゴタゴタ	"confused, disordered, troubled"	personal relations
+ごたごた	ゴタゴタ	"confused, in a state of turmoil"	resultant state
+ごたごた	ゴタゴタ	mixed up	spacial orientation
+ごたごた	ゴタゴタ	talking disorderly about ones grievances	speech
+こちこち	コチコチ	sore and stiff	feelings
+こちこち	コチコチ	ticking	onomatopoeia
+こちこち	コチコチ	"strict, rigid"	personal traits
+こちこち	コチコチ	dry and hard	physical state	stiff
+こちこち	コチコチ	dry and hard	texture
+ごちごち	ゴチゴチ	hard to bite on	physical state	stiff
+ごちごち	ゴチゴチ	particularly hard	texture
+ごちゃごちゃ	ゴチャゴチャ	"mix, jumble"	action
+ごちゃごちゃ	ゴチャゴチャ	"be a mess, be confused"	mental state	not with it
+ごちゃごちゃ	ゴチャゴチャ	"disordered, mixed up, confused"	personal relations
+ごちゃごちゃ	ゴチャゴチャ	"confused, in disorder"	resultant state
+ごちゃごちゃ	ゴチャゴチャ	"mixed up, jumbled"	spacial orientation
+ごちゃごちゃ	ゴチャゴチャ	griping about trifling matters	speech
+こちょこちょ	コチョコチョ	tickle	action
+こちん	コチン	"irritated, getting mad"	mood	nervous
+こちん	コチン	clunking	onomatopoeia
+こちんこちん	コチンコチン	dry and hard	physical state	stiff
+こちんこちん	コチンコチン	"dry and hard, emphatic"	texture
+こっくり	コックリ	to nod off	body function	sleep
+こっくり	コックリ	nodding sharply	performing an action
+こっくりこっくり	コックリコックリ	to nod off repeatedly	body function	sleep
+こっこっ	コッコッ	clucking	onomatopoeia	chicken
+こつこつ	コツコツ	knocking	onomatopoeia
+こつこつ	コツコツ	trotting	onomatopoeia
+こつこつ	コツコツ	steps	onomatopoeia
+こつこつ	コツコツ	"untiringly, to work slow but steady"	work attitude
+ごつごつ	ゴツゴツ	rugged	form
+ごつごつ	ゴツゴツ	knocking	onomatopoeia
+こっそり	コッソリ	secretly	action
+ごっそり	ゴッソリ	entirely	quantity
+ごっそり	ゴッソリ	a large (not per se literally) move	quantity
+こっちんこっちん	コッチンコッチン	dry and hard	physical state	stiff
+こっちんこっちん	コッチンコッチン	"dry and hard, emphatic"	texture
+ごつっ	ゴツッ	the sound of bumping into something hard	action	hitting something
+こってり	コッテリ	"heavy, rich flavour"	flavour
+こってり	コッテリ	"thick, heavy"	resultant state
+こっとんこっとん	コットンコットン	the sound a watermill makes	onomatopoeia
+ごっとんごっとん	ゴットンゴットン	heavy rumbling	onomatopoeia	train
+こつん	コツン	something heavy hitting something hard accidentally	action	hitting something
+ごつん	ゴツン	something heavy hitting something hard accidentally	action	hitting something
+ごつん	ゴツン	strike	action	striking
+ごつんごつん	ゴツンゴツン	thumping repeatedly	action	striking
+こてこて	コテコテ	"excessively, heavily, profusely (painting)"	to appear to be
+ごてごて	ゴテゴテ	persistently complaining	speech
+ごてごて	ゴテゴテ	"thickly, heavily (varieties)"	to appear to be
+こてんこてん	コテンコテン	overwhelmingly attack(ed)	mental state
+こてんぱん	コテンパン	to turn someone into a pulp	mental state
+ことこと	コトコト	"soft, happy"	laughter
+ことこと	コトコト	boiling	onomatopoeia
+ことこと	コトコト	rattling	onomatopoeia
+ことこと	コトコト	boiling lightly	state	liquids
+ごとごと	ゴトゴト	boiling	onomatopoeia
+ごとごと	ゴトゴト	boiling strongly	state	liquids
+ごにょごにょ	ゴニョゴニョ	mumbling	speech
+ごぼごぼ	ゴボゴボ	gurgling	onomatopoeia	water
+ごぼごぼ	ゴボゴボ	gargling	onomatopoeia
+ごぼごぼ	ゴボゴボ	gurgling	onomatopoeia
+ごぼごぼ	ゴボゴボ	gurgling	state	liquids
+ごぼっ	ゴボッ	dented (by impact)	resultant state
+ごぼっ	ゴボッ	dented (by impact)	shape
+ごほんごほん	ゴホンゴホン	coughing	onomatopoeia	human noises
+こまごま	コマゴマ	describing in meticulous detail	speech
+こりこり	コリコリ	scraping	onomatopoeia
+こりこり	コリコリ	crunchy	texture
+ごりごり	ゴリゴリ	nibbling	onomatopoeia
+ごりごり	ゴリゴリ	sawing	onomatopoeia
+ごりごり	ゴリゴリ	scrub something hard	performing an action
+ごりごり	ゴリゴリ	"hard, having a hard core"	texture
+ごりごり	ゴリゴリ	firm-muscled	the body
+ころころ	コロコロ	a young woman's laughter	laughter
+ころころ	コロコロ	roll over and over	motions	rolling
+ころころ	コロコロ	raw chirp	onomatopoeia	cricket
+ころころ	コロコロ	easily changed [personality]	personal traits
+ころころ	コロコロ	"plump, round"	the body
+ごろごろ	ゴロゴロ	loafing	mental state	not with it
+ごろごろ	ゴロゴロ	"roll over and over, rumbling"	motions	rolling
+ごろごろ	ゴロゴロ	purrrr	onomatopoeia	cat
+ごろごろ	ゴロゴロ	growling stomach	onomatopoeia	human noises
+ごろごろ	ゴロゴロ	rumbling	onomatopoeia
+ごろごろ	ゴロゴロ	to lie sprawled	performing an action
+ごろごろ	ゴロゴロ	all over the place	spacial orientation
+ころころっ	コロコロッ	roll over and over	motions	rolling
+ごろごろっ	ゴロゴロッ	"roll over and over, rumbling"	motions	rolling
+ころっ	コロッ	"come around completely, totally changing opinion"	action	sudden
+ころっ	コロッ	"round, swollen"	form
+ころっ	コロッ	forgetting completely and utterly	mental state
+ころっ	コロッ	easily changed [personality]	personal traits
+ころっ	コロッ	"a sudden, abrupt, death"	physical health	death
+ころっ	コロッ	completely change (suddenly)	resultant state
+ごろっ	ゴロッ	"sudden, single, roll"	motions	rolling
+ごろっ	ゴロッ	lieing down lazily 	performing an action
+ころり	コロリ	"come around completely, totally changing opinion"	action
+ころり	コロリ	forgetting just like that	mental state
+ころり	コロリ	"roll over, fall down flat"	performing an action
+ころり	コロリ	easily changed [personality]	personal traits
+ころり	コロリ	"a sudden, abrupt, death"	physical health	death
+ごろり	ゴロリ	rolling once	motions	rolling
+ごろり	ゴロリ	lieing down lazily 	performing an action
+ころりころり	コロリコロリ	rolling at intervals	motions	rolling
+ごろん	ゴロン	a sudden single roll	motions	rolling
+ころんころん	コロンコロン	rolling at intervals	motions	rolling
+ごわごわ	ゴワゴワ	"stiff, rough"	physical state	rough
+こんこん	コンコン	barking	onomatopoeia	fox
+こんこん	コンコン	coughing	onomatopoeia	human noises
+こんこん	コンコン	"well up, gush out"	state	liquids
+ざーざー	ザーザー	showering down	onomatopoeia	water
+ざーざー	ザーザー	"spraying, pouring"	onomatopoeia
+ざーざー	ザーザー	showering down (like rain)	state	liquids
+ざーざー	ザーザー	raining cats and dogs	weather	rain
+さーっ	サーッ	sudden	motions
+ざーっ	ザーッ	pouring	onomatopoeia
+ざーっ	ザーッ	swift	performing an action
+ざーっ	ザーッ	forcefully showering down	state	liquids
+ざーっ	ザーッ	pouring down	weather	rain
+さくさく	サクサク	creaking	onomatopoeia
+さくさく	サクサク	crunching	onomatopoeia
+さくさく	サクサク	freshly crisp	texture
+さくっ	サクッ	cutting of sharply	performing an action	cutting
+ざくっ	ザクッ	cutting deeply	performing an action	cutting
+さくり	サクリ	clean cutting	performing an action	cutting
+ざざーっ	ザザーッ	showering down (like rain)	state	liquids
+さっ	サッ	sudden	motions
+さっ	サッ	glance over	performing an action	read
+さっ	サッ	dodging something quickly	performing an action
+さっ	サッ	"quickly, adroitly"	performing an action
+さっ	サッ	"swift, fast"	performing an action
+ざっ	ザッ	pouring	onomatopoeia
+ざっ	ザッ	skim over	performing an action	read
+ざっ	ザッ	"quick, rough"	performing an action
+ざっ	ザッ	"roughly, approximately"	quantity
+さっさ	サッサ	quickly	action
+さっさ	サッサ	"quickly, hastily"	performing an action	walking
+さっぱり	サッパリ	"refreshed, relieved"	feelings
+さっぱり	サッパリ	refreshing	flavour
+さっぱり	サッパリ	"not at all, not in the slightest"	performing an action
+さっぱり	サッパリ	"open, frank (no negative connotation)"	personal traits
+さっぱり	サッパリ	going cold turkey	resultant state	habits
+さっぱり	サッパリ	"completely, entirely"	resultant state
+さばさば	サバサバ	clean and refreshed	feelings
+さばさば	サバサバ	"open, frank (no negative connotation)"	personal traits
+ざぶざぶ	ザブザブ	splashing	action	splashing
+ざぶざぶ	ザブザブ	splashing	onomatopoeia	water
+ざぶん	ザブン	plunging into water with a splash	action	plunging
+ざぶん	ザブン	plunging	action	splashing
+ざぶん	ザブン	plunging	onomatopoeia	water
+さめさめ	サメサメ	"weep, cry bitterly"	emotions	crying
+さやさや	サヤサヤ	rumbling	onomatopoeia
+さらさら	サラサラ	something that gives a fresh feeling	feelings
+さらさら	サラサラ	trickling	onomatopoeia	water
+さらさら	サラサラ	rumbling	onomatopoeia
+さらさら	サラサラ	trickling	onomatopoeia
+さらさら	サラサラ	"dry, lacking moisture (pleasant)"	physical state	dry
+さらさら	サラサラ	eloquent	speech
+さらさら	サラサラ	flowing softly	state	liquids
+さらさら	サラサラ	powdery	weather	snow
+さらさら	サラサラ	eloquent	writing
+ざらざら	ザラザラ	a rough and coarse feeling	feelings
+ざらざら	ザラザラ	crumbling off (granular)	motions	desintegrate
+ざらざら	ザラザラ	"rough, coarse (to the touch)"	physical state	rough
+ざらざら	ザラザラ	"coarse, sandy, gritty"	texture
+さらっ	サラッ	refreshed and sharp	feelings
+さらっ	サラッ	crisply dry	physical state	dry
+さらっ	サラッ	"dry, thin"	texture
+さらっ	サラッ	"fresh,dry, crisp"	weather	clear
+さらり	サラリ	something that gives a fresh feeling	feelings
+さらり	サラリ	"easygoing, not holding grudges"	personal relations
+さらり	サラリ	"frank, easygoing"	personal traits
+さらり	サラリ	"fresh, dry"	weather	clear
+さわさわ	サワサワ	rumbling	onomatopoeia
+ざわざわ	ザワザワ	chilly (from uneasiness or low fever)	feelings	temperature
+ざわざわ	ザワザワ	rumbling	onomatopoeia
+ざわざわ	ザワザワ	"astir, stirring"	perceived sound
+ざんぶ	ザンブ	something big/heavy plunging into water	action	plunging
+ざんぶ	ザンブ	plunging	onomatopoeia	water
+ざんぶり	ザンブリ	something bulky plunging into water	action	plunging
+ざんぶり	ザンブリ	plunging	onomatopoeia	water
+ざんぶり	ザンブリ	"splashing, crashing"	state	liquids
+じーじー	ジージー	chirping	onomatopoeia	cicada
+じーじー	ジージー	buzzing	onomatopoeia
+しーっ	シーッ	rusting noise	onomatopoeia	cicada
+しーっ	シーッ	"""shhh"""	onomatopoeia	human noises
+じーっ	ジーッ	"to stare hard at something, focus on something"	eye expressions	stare
+じーっ	ジーッ	"intent, fixed"	mental actions	reflection
+じーっ	ジーッ	fixed intently	performing an action	concentrating
+じーん	ジーン	touched deeply	emotions	being moved
+じーん	ジーン	"a sharp, near numbing, pain"	feelings	pain
+じーん	ジーン	numbingly cold feeling	feelings	temperature
+しおしお	シオシオ	"dejected, heavy hearted (paired with coming/leaving)"	mood	down
+しくしく	シクシク	"whimper, sob"	emotions	crying
+しくしく	シクシク	"a gripping, nagging pain"	feelings	pain
+じくじく	ジクジク	sodden	physical state	wet
+じくじく	ジクジク	oozing out	state	liquids
+しげしげ	シゲシゲ	frequently	action	visiting
+しげしげ	シゲシゲ	"staring hard and intent, to gaze"	eye expressions	stare
+しこしこ	シコシコ	al dente (ラーメン or pasta)	texture
+しずしず	シズシズ	"quietly, composed"	performing an action	walking
+じたばた	ジタバタ	"struggle, writhe"	performing an action
+じっ	ジッ	"to stare hard at something, focus on something"	eye expressions	stare
+じっ	ジッ	"intent, fixed"	mental actions	reflection
+じっ	ジッ	"fixed, firm"	performing an action	concentrating
+じっ	ジッ	"fixed, motionless"	performing an action
+しっかり	シッカリ	"reliable, dependable"	personal traits
+しっかり	シッカリ	adequately	resultant state
+しっかり	シッカリ	"tightly, securely, reliably"	resultant state
+しっくり	シックリ	to harmonise well	personal relations
+しっくり	シックリ	well-matched	surrounding
+しっくり	シックリ	"well-matched, congruous"	to appear to be
+じっくり	ジックリ	thoroughly	mental actions	reflection
+じっくり	ジックリ	"thoroughly, without delay"	performing an action
+しっしっ	シッシッ	chasing	onomatopoeia	human noises
+しっとり	シットリ	"soft, gentle feeling"	feelings
+しっとり	シットリ	"calm, placid (elegantly)"	personal traits
+しっとり	シットリ	lightly moist	physical state	wet
+しっとり	シットリ	"a pleasant, tasteful odor"	smells
+しっとり	シットリ	"calm, delicate"	surrounding
+じっとり	ジットリ	dripping wet	physical state	wet
+しとしと	シトシト	damp	physical state	wet
+しとしと	シトシト	drizzle	weather	rain
+じとじと	ジトジト	to feel sticky with moisture or water	feelings
+じとじと	ジトジト	sticky	physical state	wet
+しとど	シトド	glistening wet	physical state	wet
+しどろもどろ	シドロモドロ	"stutter, faltering"	speech
+しなしな	シナシナ	"flexible, supple"	form
+しぶしぶ	シブシブ	reluctantly	action
+しみじみ	シミジミ	"deeply, heartily"	mental actions	reflection
+じめじめ	ジメジメ	"gloomy, melancholy"	mood	down
+じめじめ	ジメジメ	"moody, melancholic"	personal traits
+じめじめ	ジメジメ	"damp, wet, moist"	physical state	wet
+じめじめ	ジメジメ	"damp, gloomy, melancholic"	surrounding
+じめじめ	ジメジメ	"damp, gloomy, melancholic"	to appear to be
+しゃーしゃー	シャーシャー	"spraying, pouring"	onomatopoeia
+しゃーしゃー	シャーシャー	spurting	onomatopoeia
+しゃーしゃー	シャーシャー	to do something shamelessly / to not care at all	personal traits	undesirable
+しゃーしゃー	シャーシャー	"shamelessly, brazen"	speech
+じゃーじゃー	ジャージャー	"spraying, pouring"	onomatopoeia
+じゃーじゃー	ジャージャー	spurting	onomatopoeia
+じゃーじゃー	ジャージャー	sizzling (like frying in oil)	state	fire
+しゃきしゃき	シャキシャキ	"brisk, vigorous"	action
+しゃきしゃき	シャキシャキ	crunchy (vegetable or fruit)	texture
+しゃきしゃき	シャキシャキ	to work driven and efficiently 	work attitude
+しゃきっ	シャキッ	"feeling refreshed after feeling sluggish, renewed, refreshed"	feelings
+しゃきっ	シャキッ	"fresh, pleasant crispy feel"	texture
+しゃなりしゃなり	シャナリシャナリ	affected	performing an action	walking
+じゃぶじゃぶ	ジャブジャブ	quick splashing	action	splashing
+じゃぶり	ジャブリ	a single splash	action	splashing
+じゃらじゃら	ジャラジャラ	jangling	onomatopoeia
+じゃらじゃら	ジャラジャラ	overly trying to look attractive	personal attire
+じゃらじゃら	ジャラジャラ	overly trying to look attractive	personal attitude	undesirable
+しゃりしゃり	シャリシャリ	"tangy taste, crisp feel"	texture
+じゃりじゃり	ジャリジャリ	"sandy, gritty"	texture
+しゃりっ	シャリッ	"tangish, crispy"	texture
+じゃりっ	ジャリッ	"a momentary sensation of something sandy, gritty"	texture
+しゃん	シャン	"to straighten, to become upright"	performing an action
+しゃん	シャン	firm and dignified	physical health	good
+じゃんじゃｎ	ジャンジャｎ	to spend lavishly	money issues
+しゃんしゃん	シャンシャン	"""jingle jingle"""	onomatopoeia	bells
+しゃんしゃん	シャンシャン	jangling	onomatopoeia
+しゃんしゃん	シャンシャン	alive and well (elderly)	physical health	good
+じゃんじゃん	ジャンジャン	thick and fast	motions
+じゃんじゃん	ジャンジャン	"""ringling ringling"""	onomatopoeia	bells
+じゃんじゃん	ジャンジャン	ringing	onomatopoeia
+じゃんじゃん	ジャンジャン	pouring down	weather	rain
+じゃんじゃん	ジャンジャン	coming down on a grand scale	weather	snow
+しゅー	シュー	spurting	onomatopoeia
+じゅー	ジュー	oozing out with a sizzling sound	state	liquids
+しゅーしゅー	シューシュー	pouring down	onomatopoeia	water
+しゅーしゅー	シューシュー	spurting	onomatopoeia
+しゅーしゅー	シューシュー	spurting out	state	liquids
+じゅーじゅー	ジュージュー	"""fizz"""	onomatopoeia	fire
+じゅーじゅー	ジュージュー	pouring down	onomatopoeia	water
+じゅーじゅー	ジュージュー	frizzling	onomatopoeia
+じゅーじゅー	ジュージュー	how liquid in something sizzles when burning	state	fire
+じゅーじゅー	ジュージュー	pouring	weather	rain
+じゅっ	ジュッ	how liquid in something sizzles when burning	state	fire
+しゅっしゅっ	シュッシュッ	spurting	onomatopoeia
+しゅるしゅる	シュルシュル	flash by	motions
+しゅるしゅる	シュルシュル	whizzing	onomatopoeia
+しゅんしゅん	シュンシュン	hissing	onomatopoeia
+しゅんしゅん	シュンシュン	the sound of steam escaping (a kettle)	state	liquids
+じょきじょき	ジョキジョキ	snipping	onomatopoeia
+しょぼしょぼ	ショボショボ	"narrowing the eyes, blinking, unable to open the eyes"	eye expressions
+しょぼしょぼ	ショボショボ	low in spirit	mood	down
+しょぼしょぼ	ショボショボ	to lose one's livelyness	physical health	poor
+しょぼしょぼ	ショボショボ	"light, gloomy"	weather	rain
+しょぼん	ショボン	feeling miserable a moment	mood	down
+しょぼん	ショボン	deflated	resultant state
+じょりじょり	ジョリジョリ	shaving an overgrown beard	action
+しょんぼり	ションボリ	"lonesomely, forlorn"	mood	down
+じりじり	ジリジリ	to slowly get impatient	mood	nervous
+じりじり	ジリジリ	"slowly making [its] way, to encroach upon"	motions
+じりじり	ジリジリ	"""ring ring"""	onomatopoeia	bells
+じりじり	ジリジリ	"""fizz"""	onomatopoeia	fire
+じりじり	ジリジリ	ringing	onomatopoeia
+じりじり	ジリジリ	sizzling (oily materials)	state	fire
+じりじり	ジリジリ	sizzling	weather	sunlight
+じろじろ	ジロジロ	"staring with curiosity, looking at something with suspicion or disapproval"	eye expressions
+じろっ	ジロッ	"throwing a searching glance, staring intently for a short while"	eye expressions	glancing
+じろり	ジロリ	"throwing a searching glance, staring intently for a short while"	eye expressions	glancing
+じわじわ	ジワジワ	"to slowly proceed, slowly but surely"	motions
+じわじわ	ジワジワ	"oozing out, seeping"	state	liquids
+しん	シン	dead quiet	surrounding
+じん	ジン	being touched	emotions	being moved
+じん	ジン	"a sharp, near numbing, pain"	feelings	pain
+じん	ジン	numbingly cold feeling	feelings	temperature
+しんしん	シンシン	"continuously, thick and fast"	weather	snow
+しんなり	シンナリ	"flexible, soft"	form
+しんなり	シンナリ	"supple, flexible, soft"	the body
+しんねりむっつり	シンネリムッツリ	"moody, inhospitably"	mood	down
+しんまり	シンマリ	"calm, peacefull feeling"	mood	calm
+しんみり	シンミリ	"heart-to-heart, touching"	emotions	being moved
+すいすい	スイスイ	"smoothly, orderly"	motions
+すいすい	スイスイ	moving unobstructed	performing an action	swimming
+すいすい	スイスイ	flitting	performing an action
+すー	スー	quickly and smoothly	motions
+すーすー	スースー	a cool feeling like a wind passes through	feelings
+すーすー	スースー	"hissing, whistling"	onomatopoeia
+すーすー	スースー	sucking	onomatopoeia
+すーすー	スースー	air passing through a small opening intermittently	state	air
+すーっ	スーッ	tears running down the face	crying
+すーっ	スーッ	feeling refreshed	feelings
+すーっ	スーッ	relieved	mood	relieved
+すーっ	スーッ	sucking	onomatopoeia	human noises
+すーっ	スーッ	sucking	onomatopoeia
+すーっ	スーッ	inhaling	performing an action
+すーっ	スーッ	"swift, smooth"	performing an action
+すーっ	スーッ	leaking through	state	air
+すかすか	スカスカ	without a hitch	motions
+すかすか	スカスカ	dry and cracked	texture
+ずかずか	ズカズカ	unhesitatingly	performing an action
+すかっ	スカッ	"fresh, free of ill feelings"	feelings
+すかっ	スカッ	cutting clean	performing an action	cutting
+すかっ	スカッ	"neat, smart, clean"	personal attire
+すかっ	スカッ	free from ill feeling	personal traits
+すかっ	スカッ	clear-cut	speech
+すかっ	スカッ	"clear, pleasantly fresh"	weather	clear
+ずきずき	ズキズキ	"a throbbing, pulsing pain"	feelings	pain
+ずきん	ズキン	"a pang of consciousness, a momentary powerfull emotion"	emotions
+ずきん	ズキン	"a sharp, single, pain (stronger than ずきずき)"	feelings	pain
+ずきんずきん	ズキンズキン	continuous throbbing pain	feelings	pain
+すくすく	スクスク	to grow well and strong	physical health	good
+ずけずけ	ズケズケ	saying something straight	action
+ずけずけ	ズケズケ	to say unpleasant things to someone's face	speech
+ずしずし	ズシズシ	shuddering	onomatopoeia
+ずずん	ズズン	"""kaboom"""	onomatopoeia	firing guns
+ずずん	ズズン	shuddering	onomatopoeia
+ずずん	ズズン	thundering	onomatopoeia
+すたこら	スタコラ	scampering off	performing an action	walking
+すたすた	スタスタ	hurried	performing an action	walking
+ずたずた	ズタズタ	"in pieces, shredded"	resultant state
+すっ	スッ	feeling refreshed	feelings
+すっ	スッ	relieved	mood	relieved
+すっ	スッ	quickly and smoothly	motions
+すっ	スッ	sucking	onomatopoeia	human noises
+すっ	スッ	inhaling	performing an action
+すっ	スッ	"swift, smooth"	performing an action
+すっからかん	スッカラカン	flat broke	money issues
+すっかり	スッカリ	completely	mental actions	recollection
+すっかり	スッカリ	"completely, wholly"	resultant state
+すっかり	スッカリ	disappear completely	resultant state
+すっきり	スッキリ	refreshed and clean	feelings
+すっきり	スッキリ	"well-formed, shapely"	personal attire
+すっきり	スッキリ	"well formed, shapely"	the face
+すっく	スック	standing up straight	action	sudden
+すっく	スック	suddenly standing perfectly straight	performing an action
+ずっしり	ズッシリ	weighty	to appear to be
+すってん	スッテン	plumping	performing an action
+すってんころりん	スッテンコロリン	fall flat and roll over	performing an action
+すってんてん	スッテンテン	to be cleaned out [money]	money issues
+すっぱり	スッパリ	cut off in a clean single cut	performing an action	cutting
+すっぱり	スッパリ	to cut clean	personal relations
+すっぱり	スッパリ	cutting clean	resultant state	habits
+すっぱり	スッパリ	cut off clean	resultant state
+ずっぷり	ズップリ	being immersed in liquid	action
+ずっぷり	ズップリ	completely soaked	physical state	wet
+すっぽり	スッポリ	pop out	motions
+すっぽり	スッポリ	cover with something	motions
+すっぽり	スッポリ	completely covered	spacial orientation
+ずっぽり	ズッポリ	being immersed in liquid	action
+すてん	ステン	tumbling a fall	performing an action
+ずでん	ズデン	tumbling a fall	performing an action
+すてんころり	ステンコロリ	fall flat and roll over	performing an action
+ずてんどー	ズテンドー	a tumble making a shuddering sound	performing an action
+すとん	ストン	fall/drop suddenly	motions
+すとん	ストン	suddenly	performing an action	falling
+ずどん	ズドン	"""kaboom"""	onomatopoeia
+ずどん	ズドン	a heavy object falling	performing an action
+すぱすぱ	スパスパ	repetetively cut cleanly	performing an action	cutting
+すぱすぱ	スパスパ	puffing away at a smokable	performing an action
+ずばずば	ズバズバ	"getting to the point, not wasting words"	speech
+すぱっ	スパッ	a swift single cut	performing an action	cutting
+ずばっ	ズバッ	cut off in a clean single cut	performing an action	cutting
+ずばっ	ズバッ	"blunt, unreserved"	speech
+すぱり	スパリ	cut off in a clean single cut	performing an action	cutting
+ずばり	ズバリ	to hit the mark	mental actions	ideas
+ずばり	ズバリ	with a bold cut	performing an action	cutting
+ずばり	ズバリ	"blunt, unreserved"	speech
+ずぶずぶ	ズブズブ	sopping wet	physical state	wet
+すべすべ	スベスベ	"smooth, slippery"	to appear to be
+すぽっ	スポッ	jolt strongly	motions
+すぽり	スポリ	pop out	motions
+すぽり	スポリ	cover with something	motions
+すぽん	スポン	"popping, with a rebounding force"	motions
+すやすや	スヤスヤ	to sleep calmly 	body function	sleep
+すらー	スラー	emphatic form of すらり	the body
+ずらーっ	ズラーッ	lined up	spacial orientation
+すらすら	スラスラ	smoothly	motions
+すらすら	スラスラ	fluently	performing an action	read
+すらすら	スラスラ	smoothly	speech
+ずらずら	ズラズラ	lined up	spacial orientation
+すらっ	スラッ	emphatic form of すらり	the body
+ずらっ	ズラッ	lined up	spacial orientation
+すらり	スラリ	slender	form
+すらり	スラリ	"easily, without trouble"	motions
+すらり	スラリ	smoothly	performing an action	dodging
+すらり	スラリ	"long, slender, well-proportioned"	the body
+ずらり	ズラリ	lining up	action
+ずらり	ズラリ	lined up	spacial orientation
+するする	スルスル	"glide, slide"	motions
+するする	スルスル	smooth and straight	motions
+するする	スルスル	"smoothly, easily"	motions
+するする	スルスル	"smoothly, nimble"	performing an action	climbing
+ずるずる	ズルズル	"trailing, dragging"	action
+ずるずる	ズルズル	slide	motions
+ずるずる	ズルズル	dragging on	resultant state
+するっ	スルッ	slip (abruptly)	motions
+するっ	スルッ	"slip, slide"	performing an action
+するり	スルリ	slip	motions
+するり	スルリ	swiftly	performing an action	dodging
+するり	スルリ	"slowly slipping, sliding"	performing an action
+するり	スルリ	dodging skillfully	performing an action
+すれすれ	スレスレ	very close	available space
+すれすれ	スレスレ	"barely, just in time"	temporal aspect
+ずんぐり	ズングリ	"short, fat"	form
+ずんぐり	ズングリ	"short and fat, short and pudgy"	the body
+ずんぐりむっくり	ズングリムックリ	"short and fat, short and pudgy"	the body
+ずんずん	ズンズン	"rapidly, noticably, markedly"	resultant state
+すんなり	スンナリ	slender	form
+すんなり	スンナリ	"smoothly, without resistance"	motions
+すんなり	スンナリ	slender	the body
+せいせい	ゼイゼイ	relieved	mood	relieved
+ぜーぜー	ゼーゼー	wheezing	onomatopoeia	human noises
+せかせか	セカセカ	buzzing around	action
+せかせか	セカセカ	"restlessly, doing something hurried"	action
+せかせか	セカセカ	"busy and unsettled, restless"	mood	nervous
+せかせか	セカセカ	"hurried, restlessly"	performing an action	walking
+せかせか	セカセカ	"restless, impetuously, hastily"	personal traits
+せっせ	セッセ	to work like a bee	work attitude
+ぞくぞく	ゾクゾク	to shiver from the cold	feelings	temperature
+ぞくぞく	ゾクゾク	excitement caused by fear or joy	mental state	scared
+ぞくぞく	ゾクゾク	"joyful, excited with expectation"	mood	happy
+ぞくっ	ゾクッ	a momentary shiver of real cold (stronger than ぞくぞく)	feelings	temperature
+そごすご	ソゴスゴ	leaving with a heavy heart	mood	down
+そこそこ	ソコソコ	"around, just about"	quantity
+そそくさ	ソソクサ	"hastily, doing something only in part due to haste"	performing an action
+そっ	ソッ	"softly, gently, quietly"	action
+そっ	ソッ	"quietly, avoiding sound, avoiding attracting attention"	action
+そっ	ソッ	"soft, tenderly"	performing an action	walking
+ぞっ	ゾッ	"shudder, to feel a chill come over oneself"	feelings	temperature
+ぞっ	ゾッ	feeling a chill shooting up the spine	feelings
+ぞっ	ゾッ	"shuddering from fear, have ones hairs stand on end"	mental state	scared
+そっくり	ソックリ	identical	form
+そっくり	ソックリ	"entirely, wholly"	quantity
+そっくり	ソックリ	looking similar [to someone]	the face
+ぞっこん	ゾッコン	"madly in love, head over heels"	emotions	affection
+そよそよ	ソヨソヨ	"gently, softly"	weather	wind
+ぞりぞり	ゾリゾリ	sound of hair being shaven	action
+ぞりぞり	ゾリゾリ	scraping	onomatopoeia
+ぞろい	ゾロイ	"sloppy, untidy (loose)"	personal attire
+そろそろ	ソロソロ	"slowly, leisurely"	action
+そろそろ	ソロソロ	"slowly, leisurely"	performing an action	walking
+そろそろ	ソロソロ	"soon, nearly"	temporal aspect
+ぞろぞろ	ゾロゾロ	drag along	action
+ぞろぞろ	ゾロゾロ	stream out in numbers	action
+ぞろり	ゾロリ	hang loose and drag	action
+ぞろり	ゾロリ	being lined up	action
+そろりそろり	ソロリソロリ	"slowly, leisurely"	performing an action	walking
+そわそわ	ソワソワ	"restless, nervously waiting for an event to occur"	mood	nervous
+だーっ	ダーッ	at a total loss for words	mental state
+だーっ	ダーッ	"to charge, run at"	performing an action
+だーん	ダーン	"""kapow!"""	onomatopoeia
+だくだく	ダクダク	sweating profusely	body function
+だくだく	ダクダク	"gushing, running off"	state	liquids
+たけぱき	タケパキ	"prompty, speedily"	action
+たじたじ	タジタジ	staggering	performing an action
+たったっ	タッタッ	pit-a-patting	onomatopoeia
+たったっ	タッタッ	"quickly, vigorously"	performing an action	walking
+たったっ	タッタッ	walk forward with vigor	performing an action
+だっだっ	ダッダッ	push forward with force	performing an action
+たっぷり	タップリ	plenty	quantity
+だぶだぶ	ダブダブ	hanging loose	form
+だぶだぶ	ダブダブ	in excess	quantity
+だぶだぶ	ダブダブ	hanging loose	size
+だぶだぶ	ダブダブ	overweight and flabby	the body
+たらたら	タラタラ	to continuously drip (sweat)	body function
+たらたら	タラタラ	full of complaint	speech
+たらたら	タラタラ	"to be full of it, to incessently be [boastful, flattering, evasive, etc.]"	speech
+たらたら	タラタラ	dripping	state	liquids
+だらだら	ダラダラ	dragging on without end	resultant state
+だらだら	ダラダラ	gently sloping	shape
+だらだら	ダラダラ	droning on	speech
+だらだら	ダラダラ	dripping	state	liquids
+だらだら	ダラダラ	"sluggish, listless"	work attitude
+たらっ	タラッ	a single drop dripping	state	liquids
+だらっ	ダラッ	lolling out the tongue	performing an action
+だらっ	ダラッ	"sloppily, loosely"	personal attire
+だらっ	ダラッ	hanging down (untidily)	spacial orientation
+だらっ	ダラッ	a thick drop dripping	state	liquids
+だらっ	ダラッ	"lazily, slacking"	work attitude
+たらり	タラリ	a single drop dripping	state	liquids
+だらり	ダラリ	lolling	performing an action
+だらり	ダラリ	hanging down loosely	spacial orientation
+だらり	ダラリ	drops of thick/sticky liquid dropping	state	liquids
+たらりたらり	タラリタラリ	drip intermittently	state	liquids
+だらん	ダラン	drops of thick/sticky liquid dropping	state	liquids
+たんまり	タンマリ	quite a lot	quantity
+ちーちー	チーチー	chirp	onomatopoeia	bird
+ちーん	チーン	blowing of a nose	onomatopoeia	human noises
+ちかちか	チカチカ	irritated eyes	feelings	pain
+ちかちか	チカチカ	hinderingly sparkling	state	light
+ちかっ	チカッ	momentarily dazzling	state	light
+ちくたく	チクタク	"""tick tock"""	onomatopoeia
+ちくちく	チクチク	"powerful emototion, like being stabbed with a needle"	emotions
+ちくちく	チクチク	"itchy, needlelike intermittent pain"	feelings	pain
+ちくちく	チクチク	"pricking, tingling sensation"	feelings
+ちくちく	チクチク	"prick, quick and repeatedly with something needlelike"	performing an action	stabbing
+ちぐちぐ	チグチグ	"look odd, out of place"	to appear to be
+ちくっ	チクッ	momentary jabbing feeling	feelings
+ちくっ	チクッ	"sharp, single sting"	performing an action	stabbing
+ちくっ	チクッ	sting	performing an action	stabbing
+ちぐはぐ	チグハグ	"odd, unmatched"	personal relations
+ちぐはぐ	チグハグ	"confused, unmatched"	resultant state
+ちぐはぐ	チグハグ	"odd, out of place"	surrounding
+ちくり	チクリ	"a single, sharp, needle-like pain"	feelings	pain
+ちくり	チクリ	single sting	performing an action	stabbing
+ちくり	チクリ	sting	performing an action	stabbing
+ちくりちくり	チクリチクリ	"itchy, needlelike intermittent pain, with a lingering tingling sensation"	feelings	pain
+ちくん	チクン	single sting	performing an action	stabbing
+ちっ	チッ	that sound one makes when annoyed at something	onomatopoeia	human noises
+ちびちび	チビチビ	"sip, nip"	performing an action	drinking
+ちびちび	チビチビ	little at a time	quantity
+ちびりちびり	チビリチビリ	sip intermittently	performing an action	drinking
+ちまちま	チマチマ	"neat, arranged"	spacial orientation
+ちゃかちゃか	チャカチャカ	moving at dizzying pace	action
+ちゃくちゃく	チャクチャク	"steadily, step-by-step"	resultant state
+ちゃっかり	チャッカリ	"smart, calculated"	money issues
+ちゃっかり	チャッカリ	calculated / shrewd	personal traits	undesirable
+ちゃっぽちゃっぽ	チャッポチャッポ	lapping	onomatopoeia	water
+ちゃぽちゃぽ	チャポチャポ	"lapping, washing up against"	state	liquids
+ちやほや	チヤホヤ	"pampering, groveling"	speech
+ちゃらちゃら	チャラチャラ	dress in a manner as to attract attention	personal attire
+ちゃらちゃら	チャラチャラ	flirt / dress in a manner as to attract attention	personal attitude	undesirable
+ちゃらちゃら	チャラチャラ	"fawning, flattering"	speech
+ちゃらんぽらん	チャランポラン	irresponsible	personal traits	undesirable
+ちゃらんぽらん	チャランポラン	"off-hand, irresponsible"	speech
+ちゃりん	チャリン	jangling	onomatopoeia
+ちゃん	チャン	"properly, correct"	personal attire
+ちゃん	チャン	"properly, orderly, neatly, reliably, precisely"	resultant state
+ちゅーちゅー	チューチュー	squeak	onomatopoeia	rodent
+ちゅーちゅー	チューチュー	sucking	onomatopoeia
+ちゅくりちくり	チュクリチクリ	"cynicism, sarcasm"	speech
+ちゅっ	チュッ	the sound of a kiss	onomatopoeia	human noises
+ちゅっちゅっ	チュッチュッ	"cheep, peep"	onomatopoeia	bird
+ちゅんちゅん	チュンチュン	chiming	onomatopoeia	bird
+ちゅんちゅん	チュンチュン	song of a sparrow	onomatopoeia	sparrow
+ちょいちょい	チョイチョイ	on occasion	action	visiting
+ちょいちょい	チョイチョイ	sparse	spacial orientation
+ちょうど	チョウド	exactly	temporal aspect
+ちょきちょき	チョキチョキ	snipping	onomatopoeia
+ちょきん	チョキン	snipping	onomatopoeia
+ちょくちょく	チョクチョク	every one in a while	action	visiting
+ちょこちょこ	チョコチョコ	frequently	action	visiting
+ちょこちょこ	チョコチョコ	"restlessly, bustling"	action
+ちょこちょこ	チョコチョコ	"trotting, with a short step"	performing an action	walking
+ちょこちょこ	チョコチョコ	doing something without taking too much the sound made by someone who is exerting physical effort	performing an action
+ちょこちょこ	チョコチョコ	here and there	spacial orientation
+ちょこっ	チョコッ	doing something without taking too much the sound made by someone who is exerting physical effort	performing an action
+ちょこっ	チョコッ	very small	quantity
+ちょこなん	チョコナン	snug	performing an action	sitting
+ちょこん	チョコン	snug	performing an action	sitting
+ちょこん	チョコン	making a small bow	performing an action
+ちょこん	チョコン	standing on (it/one)self	spacial orientation
+ちょっきり	チョッキリ	"exactly, precisely"	quantity
+ちょっきり	チョッキリ	exactly	temporal aspect
+ちょっくら	チョックラ	"a little, a bit"	quantity
+ちょっくら	チョックラ	a little	temporal aspect
+ちょっくらちょい	チョックラチョイ	too litte	quantity
+ちょっぴり	チョッピリ	"a little, a bit"	quantity
+ちょびちょび	チョビチョビ	a little at a time	quantity
+ちょびっ	チョビッ	a minute amount	quantity
+ちょぼちょぼ	チョボチョボ	minute amounts	quantity
+ちょぼちょぼ	チョボチョボ	here and there (in very small numbers)	spacial orientation
+ちょぼっ	チョボッ	small (at first sight)	quantity
+ちょろちょろ	チョロチョロ	trickling	onomatopoeia	water
+ちょろちょろ	チョロチョロ	"darting about, making quick movement"	performing an action
+ちょろちょろ	チョロチョロ	flickering (small flame)	state	fire
+ちょろちょろ	チョロチョロ	trickling	state	liquids
+ちらちら	チラチラ	to glance	eye expressions	glancing
+ちらちら	チラチラ	"falling (lightly), fluttering"	motions	falling
+ちらちら	チラチラ	repeatedly seeing something momentarily	sight
+ちらちら	チラチラ	"flickering, twinkling"	state	light
+ちらちら	チラチラ	in flakes	weather	snow
+ちらっ	チラッ	to give a momentary glance	eye expressions	glancing
+ちらっ	チラッ	flicker	sight
+ちらほら	チラホラ	"sparse, here and there"	spacial orientation
+ちらり	チラリ	to give a momentary glance	eye expressions	glancing
+ちらり	チラリ	"flicker, less abrupt than きらっ"	sight
+ちりちり	チリチリ	chirp	onomatopoeia	cricket
+ちりちり	チリチリ	"shrivelled, wrinkled"	resultant state
+ちりぢり	チリヂリ	"scatter, disperse"	motions	disassociate
+ちりぢり	チリヂリ	"shrivelled, wrinkled"	resultant state
+ちろちろ	チロチロ	"small flame, flickering (of a small flame)"	state	fire
+ちん	チン	blowing of a nose	onomatopoeia	human noises
+ちんちろりん	チンチロリン	chirp	onomatopoeia	cricket
+ちんまり	チンマリ	"cozy, snug"	spacial orientation
+つ	ツ	move	action	sudden
+つ	ツ	getting up and walking off all of a sudden	performing an action
+つー	ツー	"straight, rapid"	motions
+つーかー	ツーカー	on the same frequency	personal relations
+つーっ	ツーッ	tears rappidly running down the face	crying
+つーっ	ツーッ	"straight, rapid"	motions
+つーつー	ツーツー	"smoothly, without resistance"	motions
+つかつか	ツカツカ	walking resolute	action
+つくづく	ツクヅク	thinking from the bottom of one's hear	mental actions	reflection
+つけつけ	ツケツケ	"harsh, without reserve"	speech
+つっ	ツッ	move	action	sudden
+つっ	ツッ	getting up and walking off all of a sudden	performing an action
+つべつべ	ツベツベ	"jabber, argue, complain"	speech
+つやつや	ツヤツヤ	"lustrous, glossy, lustrous"	to appear to be
+つらつら	ツラツラ	carefully	mental actions	reflection
+つるっ	ツルッ	suddenly slipping	motions
+つるっ	ツルッ	suddenly slipping	performing an action
+つるつる	ツルツル	"shiny, smooth"	hair
+つるつる	ツルツル	"smooth, slippery (stronger than すべすべ)"	to appear to be
+つるり	ツルリ	slowly slipping	performing an action
+つるん	ツルン	slowly slipping	performing an action
+つん	ツン	to look inapproachable	facial expression
+つん	ツン	"sharp, pointy"	form
+つん	ツン	"a sudden, pungent odor"	smells
+つんつん	ツンツン	"vain, hard to approach"	facial expression
+つんつん	ツンツン	"sharp, pointy"	form
+つんつん	ツンツン	"something small, pointed, moving rapidly"	motions
+つんつん	ツンツン	a pungent odor	smells
+てかてか	テカテカ	brightly (smooth)	to appear to be
+でかでか	デカデカ	blowing something out of proportion	speech
+てきぱき	テキパキ	"businesslike, fast and methodical"	work attitude
+てくてく	テクテク	walking quite a distance without losing pace	performing an action	walking
+でこぼこ	デコボコ	"uneven, rough"	shape
+てっきり	テッキリ	"surely, no doubt"	mental actions	ideas
+でっぷり	デップリ	"corpulent, portly"	the body
+でぶでぶ	デブデブ	obese	the body
+てらてら	テラテラ	shiny and greasy	to appear to be
+でれーっ	デレーッ	"untidy, slovenly"	personal attire
+でれっ	デレッ	"untidy, slovenly"	personal attire
+でれでれ	デレデレ	"flirt, being amorous"	personal attitude
+てん	テン	"asserted, conspicuously"	performing an action	sitting
+でんでこでん	デンデコデン	drumming	onomatopoeia
+でんでん	デンデン	drumming	onomatopoeia
+てんやわんや	テンヤワンヤ	"utterly confused, in chaos (mentally)"	resultant state
+どーどー	ドードー	roaring	onomatopoeia
+どかっ	ドカッ	to plop down	performing an action	sitting
+どかっ	ドカッ	occuring in large number	quantity
+どかどか	ドカドカ	crowdy (the noise of a lot of footsteps all about)	perceived sound
+どかん	ドカン	"""kaboom!"""	onomatopoeia	firing guns
+どかん	ドカン	exploding	onomatopoeia
+どきっ	ドキッ	stunned as if one's heart jumps	mental state	scared
+どきどき	ドキドキ	"palpitating, throbbing"	body function
+どきどき	ドキドキ	a thumping heart (of fear)	mental state	scared
+どきどき	ドキドキ	"nervous, pounding heart"	mood	nervous
+どきまき	ドキマキ	"flurried, lose one's head, unable to cope"	mental state
+どきり	ドキリ	stunned as if one's heart jumps	mental state	scared
+どきん	ドキン	stunned as if one's heart jumps	mental state	scared
+どきんどきん	ドキンドキン	a louder and slower throbbing than どきどき	body function
+どきんどきん	ドキンドキン	a thumping heart (of fear)	mental state	scared
+とく	トク	"thoroughly, pondering"	mental actions	reflection
+とく	トク	"carefully, deliberately"	performing an action
+とくとく	トクトク	an excited (or happy) heartbeat	body function
+とくとく	トクトク	gurgling	onomatopoeia	water
+とくとく	トクトク	proudly	speech
+とくとく	トクトク	liquid running out of a narrow opening	state	liquids
+どくどく	ドクドク	"gushing, running off (thick liquid)"	state	liquids
+とげとげ	トゲトゲ	harsh [expression / attitude]	personal attitude	undesirable
+とげとげ	トゲトゲ	"biting, sarcastic"	personal traits	undesirable
+とことこ	トコトコ	"small, rapid steps"	performing an action	walking
+どさっ	ドサッ	thudding	onomatopoeia
+どさどさ	ドサドサ	thudding	onomatopoeia
+どさり	ドサリ	thudding	onomatopoeia
+どさん	ドサン	thudding	onomatopoeia
+どしっ	ドシッ	thudding	onomatopoeia
+どしっ	ドシッ	sitting down with a thud	performing an action	sitting
+どしどし	ドシドシ	"steadily, in number"	motions
+どしどし	ドシドシ	thumping	onomatopoeia
+どしどし	ドシドシ	stomping	performing an action	walking
+どしゃどしゃ	ドシャドシャ	pelting	onomatopoeia
+どしゃどしゃ	ドシャドシャ	pelting	weather	rain
+どしん	ドシン	thudding	onomatopoeia
+どしん	ドシン	sitting down with a thud	performing an action	sitting
+どしんどしん	ドシンドシン	thumping	onomatopoeia
+どしんどしん	ドシンドシン	stomping (heavier steps than どしどし)	performing an action	walking
+どすっ	ドスッ	thumping	onomatopoeia
+どすどす	ドスドス	thumping	onomatopoeia
+どすん	ドスン	"""boom"""	onomatopoeia	firing guns
+どすん	ドスン	thumping	onomatopoeia
+どすんどすん	ドスンドスン	thumping	onomatopoeia
+どだーっ	ドダーッ	dropping something heavy	performing an action
+どたっ	ドタッ	plopping down	performing an action	falling
+どだっ	ドダッ	plopping down	performing an action	falling
+どだっ	ドダッ	dropping something heavy	performing an action
+どたどた	ドタドタ	scrambling	onomatopoeia
+どたばた	ドタバタ	scrambling	onomatopoeia
+どたり	ドタリ	thudding	onomatopoeia
+どたん	ドタン	slam	action	slamming
+どたん	ドタン	slamming	onomatopoeia
+どたんばたん	ドタンバタン	scrambling	onomatopoeia
+どっ	ドッ	"suddenly, rushing"	motions
+どっ	ドッ	"suddenly, rushing"	motions
+どっ	ドッ	roaring	onomatopoeia	water
+どっ	ドッ	roaring	onomatopoeia
+どっ	ドッ	thudding	onomatopoeia
+どっ	ドッ	topple	performing an action	falling
+どっ	ドッ	gushing all of a sudden	state	liquids
+どっか	ドッカ	sink into a chair	performing an action	sitting
+どっかり	ドッカリ	plopping down into a chair with a thud	performing an action	sitting
+どっかり	ドッカリ	gaping	shape	hole
+とっくり	トックリ	"thoroughly, pondering"	mental actions	reflection
+とっくり	トックリ	"carefully, deliberately"	performing an action
+どっさり	ドッサリ	in large quantity	quantity
+どっしり	ドッシリ	"dignified, imposing"	performing an action	sitting
+どっしり	ドッシリ	"bulky, heavy"	to appear to be
+とっと	トット	"to walk, to leave the very instant"	performing an action	walking
+とっとっ	トットッ	"small, rapid steps"	performing an action	walking
+とっぷり	トップリ	"thoroughly soaked, immersed in liquid"	action
+とっぷり	トップリ	night closing in	temporal aspect
+どっぷり	ドップリ	"thoroughly soaked, immersed in liquid"	action
+どてっ	ドテッ	sitting lethargically	performing an action	sitting
+どてっ	ドテッ	"to collapse, to fall over and stay there (lethargically)"	performing an action
+どでっ	ドデッ	"to collapse, to fall over and stay there (lethargically)"	performing an action
+どてん	ドテン	overturn by force	performing an action	falling
+どでん	ドデン	overturn by force	performing an action	falling
+どどっ	ドドッ	burst with force	motions
+どどっ	ドドッ	roaring	onomatopoeia	water
+どどっ	ドドッ	roaring	onomatopoeia
+どどっ	ドドッ	gushing all of a sudden	state	liquids
+どぶーん	ドブーン	to plop into water	action	plunging
+どぶん	ドブン	to plop into water	action	plunging
+どぶん	ドブン	plopping	onomatopoeia
+とぼとぼ	トボトボ	trudging along	performing an action	walking
+どぼん	ドボン	something small plopping into water	action	plunging
+どやどや	ドヤドヤ	noisily (the voices of lots of people)	perceived sound
+とろっ	トロッ	"sleepy, dull eyes"	body function	sleep
+とろっ	トロッ	"sleepy, dull eyes"	eye expressions
+とろっ	トロッ	syrupy	flavour
+とろっ	トロッ	"sticky, viscous, molten"	physical state	sticky
+とろっ	トロッ	melt into a (viscous) liquid	state	liquids
+どろっ	ドロッ	"sticky, thick, viscous, molten, mudled"	physical state	sticky
+とろとろ	トロトロ	"to sleep light for a short while (before real sleep), to be drowsy"	body function	sleep
+とろとろ	トロトロ	"viscous, smooth"	physical state	sticky
+とろとろ	トロトロ	molten	resultant state
+とろとろ	トロトロ	"dull, weak"	state	fire
+とろとろ	トロトロ	"slow, gentle flow or melting of (viscous) liquid"	state	liquids
+どろどろ	ドロドロ	pasty	physical state	sticky
+どろどろ	ドロドロ	muddy	physical state	wet
+どろどろ	ドロドロ	molten	resultant state
+どろどろ	ドロドロ	"something high-density, sticky, flowing or melting"	state	liquids
+とろりとろり	トロリトロリ	"to sleep light for a short while (before real sleep), to be drowsy"	body function	sleep
+とろん	トロン	"sleepy, dull eyes"	body function	sleep
+とろん	トロン	"sleepy, dull eyes, stronger version of とろっ"	eye expressions
+どろん	ドロン	"disappear, vanish"	action	sudden
+どろん	ドロン	"cloudy eyes, not in focus, stronger version of とろん"	eye expressions
+どろん	ドロン	"sticky, mudled"	physical state	sticky
+どん	ドン	bump into something heavy	action	hitting something
+どん	ドン	"""blam"""	onomatopoeia	firing guns
+どん	ドン	thudding	onomatopoeia
+どん	ドン	to bumb into something heavy	performing an action
+どん	ドン	a large number in one go	quantity
+とんちんかん	トンチンカン	"absurd, saying something irrelevant"	speech
+とんとん	トントン	without a hitch	career experience
+とんとん	トントン	to break even	money issues
+とんとん	トントン	smoothly	motions
+とんとん	トントン	knocking	onomatopoeia
+とんとん	トントン	tapping	onomatopoeia
+とんとん	トントン	drumming	onomatopoeia
+どんどん	ドンドン	"steadily, in number"	motions
+どんどん	ドンドン	pounding	onomatopoeia
+どんどん	ドンドン	drumming	onomatopoeia
+どんどん	ドンドン	move with vigour	resultant state
+どんぴしゃり	ドンピシャリ	on the mark	resultant state
+どんより	ドンヨリ	"dull, leaden, gloomy"	weather	clear
+なみなみ	ナミナミ	filled to the top	resultant state
+なよなよ	ナヨナヨ	feeble	form
+なよなよ	ナヨナヨ	slender and feeble	the body
+にこっ	ニコッ	showing a smile	facial expression	anger
+にこっ	ニコッ	flashing a smile	smiling
+にこにこ	ニコニコ	to beam [happiness]	facial expression	smiling
+にこにこ	ニコニコ	smiling happily 	smiling
+にこり	ニコリ	showing a smile	facial expression	smiling
+にこり	ニコリ	flashing a smile	smiling
+にたっ	ニタッ	flashing a smile brought on by ones own thoughts	smiling
+にたにた	ニタニタ	"simpering, evil, devious"	smiling
+にたり	ニタリ	flashing a smile brought on by ones own thoughts	smiling
+にちゃにちゃ	ニチャニチャ	a gluey feeling	feelings
+にちゃにちゃ	ニチャニチャ	"adhesive, like glue, viscous, greasy"	physical state
+にちゃにちゃ	ニチャニチャ	viscous	texture
+にっ	ニッ	giving a teeth-exposing smile	facial expression	smiling
+にっ	ニッ	smug	smiling
+にっこり	ニッコリ	"flasfhin a smile, giving a sweet smile"	facial expression	smiling
+にっこり	ニッコリ	"flashing a smile, stronger than にこり"	smiling
+にゃーにゃー	ニャーニャー	mow	onomatopoeia	cat
+にゃおにゃお	ニャオニャオ	meow	onomatopoeia	cat
+にやっ	ニヤッ	"a grin, an unconscious smile"	smiling
+にやにや	ニヤニヤ	"a grin showing teeth, simpering (gloatingly)"	smiling
+にやり	ニヤリ	"a grin, an unconscious smile"	smiling
+にゅっ	ニュッ	appearing out of the blue (with gross aspect)	action	sudden
+にゅるにゅる	ニュルニュル	"squirm, slip away"	performing an action
+にょきにょき	ニョキニョキ	springing up one after another	motions
+にょっき	ニョッキ	standing out conspicuously	spacial orientation
+にょっきり	ニョッキリ	standing out conspicuously	spacial orientation
+にょろっ	ニョロッ	"a single, fast, squirming movement"	performing an action
+にょろにょろ	ニョロニョロ	wriggling about	performing an action
+にょろり	ニョロリ	"a single, fast, squirming movement (more gentle than にょろり)"	performing an action
+にんまり	ニンマリ	smiling satisfied	facial expression	smiling
+にんまり	ニンマリ	smiling satisfied	smiling
+ぬーっ	ヌーッ	appearing out of the blue	action	sudden
+ぬくぬく	ヌクヌク	comfortably warm (all over the body)	feelings
+ぬけぬけ	ヌケヌケ	to do something shamelessly	personal traits	undesirable
+ぬけぬけ	ヌケヌケ	"brazen, impudent, nonchalant"	speech
+ぬっ	ヌッ	appearing out of the blue	action	sudden
+ぬめぬめ	ヌメヌメ	"smooth, slimy"	feelings
+ぬめぬめ	ヌメヌメ	"smooth, glossy"	physical state	surface
+ぬらぬら	ヌラヌラ	slimy and greasy	feelings
+ぬらぬら	ヌラヌラ	"slimy, oily"	physical state	surface
+ぬらりくらり	ヌラリクラリ	equivocally	speech
+ぬるっ	ヌルッ	suddenly sliding	motions
+ぬるぬる	ヌルヌル	"slimy, slippery"	physical state	wet
+ねちねち	ネチネチ	"tenacious, persistant"	personal traits
+ねちねち	ネチネチ	"sticky, glutinous, stuck"	physical state
+ねとねと	ネトネト	"sticky, viscous"	feelings
+ねとねと	ネトネト	"damp, sticky"	physical state	wet
+ねばねば	ネバネバ	"damp, sticky"	physical state	wet
+ねるねる	ネルネル	"slimy, slippery"	feelings
+ねるねる	ネルネル	"slide, slither"	performing an action
+のーのー	ノーノー	free from care and doing nothing	mental state	not with it
+のこのこ	ノコノコ	to enter a situation nonchalantly	performing an action	walking
+のそのそ	ノソノソ	"slowly, lazily"	action	movement
+のそのそ	ノソノソ	"slowly, lazily"	performing an action	walking
+のそり	ノソリ	"slow, sluggish"	action	movement
+のそりのそり	ノソリノソリ	"slow, sluggish"	action	movement
+のそりのそり	ノソリノソリ	"slowly, lazily (slower motion than のそのそ)"	performing an action	walking
+のたり	ノタリ	"lazy, wavelike motion"	performing an action
+のたりのたり	ノタリノタリ	wave lightly	motions
+のっしのっし	ノッシノッシ	a heavy person or animal walking at a leisurely pace	performing an action	walking
+のっそり	ノッソリ	"slow, sluggish"	action	movement
+のっそり	ノッソリ	"slowly, sluggish"	performing an action	sitting
+のっぺり	ノッペリ	"flat, plain"	form
+のっぺり	ノッペリ	"to look flat, plain"	the face
+のほほん	ノホホン	"carefree and quiescent, unconcerned when you should be"	mental state	not with it
+のらくら	ノラクラ	"loaf about, lead an idle life"	mental state
+のらくら	ノラクラ	"idle, aimless"	work attitude
+のらりくらり	ノラリクラリ	"loaf about, lead an idle life"	mental state
+のらりくらり	ノラリクラリ	dodging the point	speech
+のらりくらり	ノラリクラリ	"idle, aimless"	work attitude
+のろのろ	ノロノロ	"slow, sluggish"	action	movement
+のろのろ	ノロノロ	slowly	motions
+のろのろ	ノロノロ	"wandering about slowly, sluggishly"	performing an action	walking
+のんびり	ノンビリ	relaxed	action
+のんびり	ノンビリ	"quietly, relaxed, leasurely"	mental state
+のんびり	ノンビリ	"relaxed, laid back"	mood	calm
+のんべんだり	ノンベンダリ	to loaf around	work attitude
+ぱー	パー	futile the sound made by someone who is exerting physical effort	action
+ぱー	パー	"to blank out, to go insane"	mental state
+ぱー	パー	to blow away money	money issues
+ばーっ	バーッ	"spread out, scatter"	motions	disassociate
+ぱーっ	パーッ	"to blush, to flush"	facial expression
+ぱーっ	パーッ	to squander	money issues
+ぱーっ	パーッ	"spread, widen all of a sudden"	motions	disassociate
+はーはー	ハーハー	panting open mouthed	body function
+はーはー	ハーハー	panting	onomatopoeia	human noises
+ばかっ	バカッ	"peel away, split"	action
+ぱかっぱかっ	パカッパカッ	trotting	onomatopoeia
+ぱかぱか	パカパカ	trotting	onomatopoeia
+ぱかん	パカン	absent-minded	mental state	not with it
+ばきっ	バキッ	snap	action	snapping
+ぱきっ	パキッ	snap	action	snapping
+はきはき	ハキハキ	"clear, concise"	speech
+ばきばき	バキバキ	"snap, with a splitting sound"	action	snapping
+はくしょん	ハクション	"""achoo!"""	onomatopoeia	human noises
+はくちょん	ハクチョン	"""achoo!"""	onomatopoeia	human noises
+ぱくっ	パクッ	split open	action
+ぱくっ	パクッ	to gobble up	performing an action
+ぱくぱく	パクパク	"opening and closing the mouth repeatedly, dumbstruck"	facial expression	surprise
+ぱくぱく	パクパク	"to devour, to gobble up"	performing an action	eating
+ぱくぱく	パクパク	open and close the mouth repeatedly	performing an action
+ぱくり	パクリ	"snap, gobble down, bite with a wide open mouth"	performing an action
+ばさっ	バサッ	look blankly	facial expression
+ばさっ	バサッ	splashing	onomatopoeia	water
+ばさっ	バサッ	flapping	onomatopoeia
+ばさっ	バサッ	severing with a single cut	performing an action	cutting
+ばさっ	バサッ	splatter	state	liquids
+ばさばさ	バサバサ	"a dry appearance or feeling, dry and loose"	feelings
+ばさばさ	バサバサ	"loose, dry, crumbly"	hair
+ばさばさ	バサバサ	flapping	onomatopoeia
+ばさばさ	バサバサ	"loose, scruffy, in disarray"	resultant state
+ばさばさ	バサバサ	"dry and crumbly, lacking flavor or fragrance"	texture
+ぱさぱさ	パサパサ	"a dry appearance or feeling, dry and loose, less coarse than ばさばさ"	feelings
+ぱさぱさ	パサパサ	"dehydrated, dry and crumbly (thinner/lighter than ばさばさ)"	texture
+ばさり	バサリ	completely sever	performing an action	cutting
+ばさりばさり	バサリバサリ	to cut down	performing an action	cutting
+ばしっ	バシッ	"breaking something dry, hard, thin forcefully"	action	breaking
+ばしっ	バシッ	snapping like dry wood	action	snapping
+ぱしぱし	パシパシ	blinking	eye expressions	blinking
+ばしゃｂしゃ	バシャｂシャ	"splashing, paddling"	action	splashing
+ばしゃっ	バシャッ	a single forcefull splash	action	splashing
+ばしゃばしゃ	バシャバシャ	splasing	onomatopoeia	water
+ばしゃり	バシャリ	the impact of a forcefull splash	action	splashing
+ぱしゃり	パシャリ	a single forcefull splash	action	splashing
+ぱしゃり	パシャリ	the impact of a forcefull splash	action	splashing
+ぱしゃり	パシャリ	sound of something being squashed	action
+ばしゃん	バシャン	the impact of a forcefull splash	action	splashing
+ぱしゃん	パシャン	the impact of a forcefull splash	action	splashing
+はた	ハタ	strike	action	sudden
+はた	ハタ	stop suddenly	motions
+ばたっ	バタッ	with a bang	action	slamming
+ばたっ	バタッ	stop suddenly	motions
+ばたっ	バタッ	with a bang	onomatopoeia
+ばたっ	バタッ	slamming	onomatopoeia
+ばたっ	バタッ	"fall flat, fall with a thud"	performing an action	falling
+ぱたっ	パタッ	with a bang	action	slamming
+ぱたっ	パタッ	stop suddenly	motions
+ばたばた	バタバタ	crazy busy	action
+ばたばた	バタバタ	fall one after another	motions	disassociate
+ばたばた	バタバタ	clattering	onomatopoeia
+ばたばた	バタバタ	flapping	onomatopoeia
+ばたばた	バタバタ	pit-a-patting	onomatopoeia
+ばたばた	バタバタ	pit-a-pat	onomatopoeia
+ばたばた	バタバタ	one after another	performing an action	falling
+ばたばた	バタバタ	flapping	performing an action
+ばたばた	バタバタ	to be unsettlingly busy	work pressure
+ぱたぱた	パタパタ	flip	action
+ぱたぱた	パタパタ	slapping	action
+ぱたぱた	パタパタ	fall one after another	motions	disassociate
+ぱたぱた	パタパタ	flapping	onomatopoeia
+ぱたぱた	パタパタ	pit-a-patting	onomatopoeia
+ぱたぱた	パタパタ	slapping	onomatopoeia
+ぱたぱた	パタパタ	pit-a-pat	onomatopoeia
+ばたり	バタリ	stop suddenly	motions
+ばたり	バタリ	dropping dead	performing an action	falling
+ぱたり	パタリ	come to a stop	motions
+ばたん	バタン	slam (with resonance)	action	slamming
+ばたん	バタン	slamming	onomatopoeia
+ばたん	バタン	"dropping dead (more centered on the impact of the action, rather than the action)"	performing an action	falling
+ばたんばたん	バタンバタン	with a bang	onomatopoeia
+ぱたんぱたん	パタンパタン	flip	action
+ぱたんぱたん	パタンパタン	slapping	action
+ぱたんぱたん	パタンパタン	slapping	onomatopoeia
+ぱちくり	パチクリ	blinking in surprise	eye expressions	blinking
+ぱちぱち	パチパチ	"blinking repeatedly, fluttering of eyelids"	eye expressions	blinking
+ぱちぱち	パチパチ	"""pop"""	onomatopoeia	fire
+ぱちぱち	パチパチ	clapping	onomatopoeia
+ぱちぱち	パチパチ	clicking	onomatopoeia
+ぱちぱち	パチパチ	crackling	onomatopoeia
+ばちゃばちゃ	バチャバチャ	splashing	action	splashing
+ばちゃばちゃ	バチャバチャ	splatter	state	liquids
+ばちゃん	バチャン	a single splash	action	splashing
+はっ	ハッ	"startled, suddenly become aware of something"	mental state	scared
+ぱっ	パッ	quickly	action	sudden
+ぱっ	パッ	to be outstanding	career experience
+ぱっ	パッ	"spread, widen all of a sudden"	motions	disassociate
+ぱっ	パッ	sudden	motions
+ぱっ	パッ	to look dull	personal attire
+ぱっ	パッ	"vivid, attractive - with negative: not too good"	resultant state
+はっきり	ハッキリ	"clearly, plainly"	resultant state
+はっきり	ハッキリ	clear	sight
+はっきり	ハッキリ	clear	weather	visibility
+ぱっくり	パックリ	"to die suddenly, to drop dead"	physical health	death
+ばっさり	バッサリ	compeltely sever	performing an action	cutting
+ばったり	バッタリ	"cease, stop"	action	sudden
+ばったり	バッタリ	run across someone	action	sudden
+ばったり	バッタリ	stop suddenly	motions
+ばったり	バッタリ	dropping dead	performing an action	falling
+ばったり	バッタリ	"an unexpected death, to drop dead"	physical health	death
+ぱったり	パッタリ	"cease, stop"	action	sudden
+ぱったり	パッタリ	come to a stop	motions
+ばっちり	バッチリ	being clever at something	resultant state
+ぱっちり	パッチリ	opening the eyes wide	eye expressions
+ぱっぱ	パッパ	to handle affairs promptly	work attitude
+はっはっ	ハッハッ	stronger than はーはー	body function
+はっはっ	ハッハッ	a merry laugh (masculine)	laughter
+ぱっぱっ	パッパッ	to spend recklessly	money issues
+ぱっぱっ	パッパッ	"to handle affairs promptly (similar to ぱっぱ, but stronger)"	work attitude
+ばやっ	バヤッ	unclear	speech
+ぱらっ	パラッ	flip quickly	action
+はらはら	ハラハラ	tears falling rapidly and silently into drops	crying
+はらはら	ハラハラ	in suspense (also fearful)	emotions	unease
+はらはら	ハラハラ	light things falling continuously	motions	falling
+ばらばら	バラバラ	to break into pieces	action
+ばらばら	バラバラ	"scatter, disperse"	motions	disassociate
+ばらばら	バラバラ	pelting	onomatopoeia
+ばらばら	バラバラ	"not ordered, not coordinated"	resultant state
+ばらばら	バラバラ	"scattered, sparse"	spacial orientation
+ばらばら	バラバラ	sound of hail hitting and scattering	weather	hail
+ぱらぱら	パラパラ	sprinkle (sparsely)	action
+ぱらぱら	パラパラ	"crumble, scatter"	motions	desintegrate
+ぱらぱら	パラパラ	scatter sparsely	motions	disassociate
+ぱらぱら	パラパラ	flapping	onomatopoeia
+ぱらぱら	パラパラ	pelting	onomatopoeia
+ぱらぱら	パラパラ	flip through pages	performing an action
+ぱらぱら	パラパラ	"scattered, sparse"	spacial orientation
+ぱらぱら	パラパラ	"dry, loose"	texture
+ぱらぱら	パラパラ	"patter, sprinkling"	weather	rain
+ばりっ	バリッ	rip up	performing an action	ripping
+ばりっ	バリッ	"grand, imposing, stunning"	personal attire
+ぱりっ	パリッ	"crisp, smart, keep, fresh"	personal attire
+ぱりっ	パリッ	crisp and new	to appear to be
+ばりばり	バリバリ	ripping something thick	performing an action	ripping
+ばりばり	バリバリ	"with might, energetically"	work attitude
+ぱりぱり	パリパリ	breaking/tearing something light and thin	motions	desintegrate
+ぱりぱり	パリパリ	cracking	onomatopoeia
+ぱりぱり	パリパリ	"ripping something light, thin"	performing an action	ripping
+ぱりぱり	パリパリ	"grandish, imposing, less powerful than ぱりっ"	personal attire
+ぱりぱり	パリパリ	crisp and brand-new	to appear to be
+ばん	バン	with a bang	onomatopoeia
+ばん	バン	"""blam"""	onomatopoeia
+ばん	バン	"forceful, grand, in a big way"	performing an action
+ばん	バン	"relentless, straight and forcefully"	speech
+ばん	バン	look well	to appear to be
+ばんばん	バンバン	"relentless, straight and forcefully"	speech
+ぱんぱん	パンパン	stretched to the max	resultant state
+ぴー	ピー	whistling	onomatopoeia
+ぴーちくぱーちく	ピーチクパーチク	song of a skylark	onomatopoeia	skylark
+ぴーちくぴーちく	ピーチクピーチク	… sort of that sound	onomatopoeia	bird
+ぴーぴー	ピーピー	peep	onomatopoeia	bird
+ぴーぴー	ピーピー	peep	onomatopoeia	chick
+ぴーぴゃら	ピーピャラ	sound of a Japanese flute	onomatopoeia
+ぴかっ	ピカッ	a momentary sparkle	state	light
+ぴかぴか	ピカピカ	"splarkle, glitter"	state	light
+ぴかぴか	ピカピカ	"shine, dazzle"	to appear to be
+ぴかり	ピカリ	a momentary sparkle	state	light
+びくっ	ビクッ	"surprised, startled"	mental state	startled
+ひくひく	ヒクヒク	twitching	performing an action
+びくびく	ビクビク	worried that something bad might happen	emotions	unease
+びくびく	ビクビク	strongly twitchign	performing an action
+ぴくぴく	ピクピク	"sharp, convulsive twitching"	performing an action
+びくり	ビクリ	"shocked, surprised"	mental state	startled
+びくん	ビクン	"shocked, surprised"	mental state	startled
+ひし	ヒシ	an overwhelming feeling	emotions
+ひし	ヒシ	"hold onto something firmly, tightly"	performing an action
+びしっ	ビシッ	snapping something	action	breaking
+びしっ	ビシッ	"strict, rigorous"	action
+びしっ	ビシッ	cracking	motions	desintegrate
+びしっ	ビシッ	cracking	onomatopoeia
+びしっ	ビシッ	strictly correct	personal attire
+ぴしっ	ピシッ	snapping something	action	breaking
+ぴしっ	ピシッ	cracking	onomatopoeia
+ぴしっ	ピシッ	strictly correct	personal attire
+びしっびしっ	ビシッビシッ	repetetively causing snapping sounds	action	breaking
+ぴしっぴしっ	ピシッピシッ	repetetively causing snapping sounds	action	breaking
+ひしひし	ヒシヒシ	an overwhelming feeling	emotions
+びしびし	ビシビシ	"repetetively snapping something dry, cylindrical"	action	breaking
+びしびし	ビシビシ	snapping something flexible	action	snapping
+びしびし	ビシビシ	"relentless, strictly"	action
+ぴしぴし	ピシピシ	"repetetively snapping something dry, cylindrical"	action	breaking
+ぴしぴし	ピシピシ	"severly, harsh"	action
+ぴしぴし	ピシピシ	"criticise, sharp, direct"	speech
+びしゃっ	ビシャッ	with a big splash	state	liquids
+ぴしゃっ	ピシャッ	"clean, sharp splash"	action	splashing
+ぴしゃっ	ピシャッ	"high-handedly, like a slap in the face"	speech
+ぴしゃっ	ピシャッ	with a splash	state	liquids
+びしゃびしゃ	ビシャビシャ	splashing	onomatopoeia	water
+びしゃびしゃ	ビシャビシャ	"slushy, soggy"	physical state	wet
+びしゃびしゃ	ビシャビシャ	covered in water	physical state	wet
+びしゃびしゃ	ビシャビシャ	continualy splashing against an object	state	liquids
+びしゃびしゃ	ビシャビシャ	splashing down	weather	rain
+ぴしゃぴしゃ	ピシャピシャ	continuous splashing	action	splashing
+ぴしゃぴしゃ	ピシャピシャ	continualy splashing against an object	state	liquids
+ぴしゃり	ピシャリ	"high-handedly, like a slap in the face"	speech
+ぴしゃん	ピシャン	slamming	onomatopoeia
+びしょびしょ	ビショビショ	wet throughout	physical state	wet
+びしょびしょ	ビショビショ	"persistent, soaking, light rain"	weather	rain
+ひそひそ	ヒソヒソ	"whispered, under one's breath"	speech
+ぴたっ	ピタッ	suddenly coming to a complete stop	motions
+ぴたっ	ピタッ	tightly (something flat)	performing an action	pasting
+ぴたっ	ピタッ	"exactly, damn close"	temporal aspect
+ひたひた	ヒタヒタ	gradual but steady	motions
+ひたひた	ヒタヒタ	slapping	onomatopoeia
+ひたひた	ヒタヒタ	pat lightly	performing an action
+ひたひた	ヒタヒタ	"lapping, washing up against"	state	liquids
+ぴたぴた	ピタピタ	slapping	onomatopoeia
+ぴたぴた	ピタピタ	pat lightly	performing an action
+ぴたぴた	ピタピタ	cling tightly	resultant state
+ぴたり	ピタリ	"cease, stop"	action	sudden
+ぴたり	ピタリ	coming to a complete stop	motions
+ぴたり	ピタリ	quitting abruptly	resultant state
+ぴたん	ピタン	slamming	onomatopoeia
+ぴちっ	ピチッ	the kind of thing a fish does by popping out of the water and falling back in	performing an action
+ぴちっ	ピチッ	tight	resultant state
+ぴちっ	ピチッ	spatter	state	liquids
+ぴちぴち	ピチピチ	jumping vigourously	performing an action
+ぴちぴち	ピチピチ	"young, fresh, vigorous"	physical health	good
+ぴちゃっ	ピチャッ	splashingly	performing an action
+ぴちゃっ	ピチャッ	a strong splash	state	liquids
+ぴっしゃり	ピッシャリ	"crushed, smashed"	resultant state
+びっしょり	ビッショリ	to be soaked (with sweat)	body function
+びっしょり	ビッショリ	wet throughout	physical state	wet
+びっしり	ビッシリ	packed	available space
+ひっそり	ヒッソリ	"still, hushed"	surrounding
+ぴったり	ピッタリ	exactly	mental actions	ideas
+ぴったり	ピッタリ	coming to a complete stop	motions
+ぴったり	ピッタリ	tight	resultant state
+ぴったり	ピッタリ	quitting abruptly	resultant state
+ぴったり	ピッタリ	fit like a glove	size
+ぴったり	ピッタリ	"exactly, damn close"	temporal aspect
+ぴっちり	ピッチリ	stuck together	resultant state
+ひひーん	ヒヒーン	neigh	onomatopoeia	horse
+ひゃっ	ヒャッ	a sudden feeling of chill	feelings	temperature
+ひゃっ	ヒャッ	"""eek!'"	onomatopoeia	human noises
+ひやっ	ヒヤッ	shuddering (near terror-stricken)	mental state	scared
+ひやひや	ヒヤヒヤ	to continually feeling fearful (like in a dangerous situation)	emotions	unease
+ひやり	ヒヤリ	shuddering (near terror-stricken)	mental state	scared
+ひゅーひゅー	ヒューヒュー	"""wizz"""	onomatopoeia	flying bullet
+ひゅーひゅー	ヒューヒュー	whizzing	onomatopoeia
+ひゅーひゅー	ヒューヒュー	spouting vigorously	state	liquids
+ひゅーひゅー	ヒューヒュー	"whistling, strong"	weather	wind
+びゅーびゅー	ビュービュー	whizzing	onomatopoeia
+びゅーびゅー	ビュービュー	"whistling, howling"	weather	wind
+ぴゅーぴゅー	ピューピュー	whizzing	onomatopoeia
+ぴゅーぴゅー	ピューピュー	shrieking	weather	wind
+びゅーん	ビューン	whizzing	onomatopoeia
+びゅっ	ビュッ	"spurt, spout out"	state	liquids
+ひゅるひゅる	ヒュルヒュル	"""wizzzz"""	onomatopoeia	flying bullet
+ひゅるひゅる	ヒュルヒュル	whizzing	onomatopoeia
+びゅん	ビュン	whizzing	onomatopoeia
+びゅんびゅん	ビュンビュン	"spin, whirl"	action
+びゅんびゅん	ビュンビュン	whizzing	onomatopoeia
+ひょい	ヒョイ	unconcerned	action	sudden
+ひょい	ヒョイ	"lightly, agile"	performing an action	dodging
+ぴょい	ピョイ	single short jump	performing an action
+ひょいひょい	ヒョイヒョイ	hopping lightly	performing an action
+ぴょいぴょい	ピョイピョイ	hopping lightly	performing an action
+ぴょーん	ピョーン	"bouncing up and down, jumping up and down"	performing an action
+ひょこひょこ	ヒョコヒョコ	"bob, dart, move around"	performing an action
+ぴょこん	ピョコン	darting in a bouncing manner	performing an action
+ひょっくり	ヒョックリ	unexpected	action	sudden
+ひょっこり	ヒョッコリ	unexpected	action	sudden
+ひよひよ	ヒヨヒヨ	super fuzzy peeping	onomatopoeia	chick
+ぴよぴよ	ピヨピヨ	fuzzy peeping	onomatopoeia	chick
+ひょろひょろ	ヒョロヒョロ	"thin, feeble"	form
+ひょろひょろ	ヒョロヒョロ	tottering	performing an action	walking
+ひょろひょろ	ヒョロヒョロ	"staggering, reeling"	performing an action
+ひょろひょろ	ヒョロヒョロ	"tall and thin, tall and feeble"	the body
+ぴょん	ピョン	"bouncing up and down, jumping up and down"	performing an action
+ぴょんぴょん	ピョンピョン	"to hop, bounce, jump"	performing an action
+ひらひら	ヒラヒラ	light thing fluttering	motions	falling
+ひらひら	ヒラヒラ	fluttering	performing an action
+ひらり	ヒラリ	"fluttering lightly, once"	motions	falling
+ひらり	ヒラリ	"leaping, jumping lightly"	performing an action
+ひらりひらり	ヒラリヒラリ	"nimbly,, by jumping"	performing an action	dodging
+びりっ	ビリッ	single sharp momentary shock	feelings	pain
+びりっ	ビリッ	momentary sharp shock	feelings
+びりっ	ビリッ	ripping something so that it feels to vibrate	performing an action	ripping
+ぴりっ	ピリッ	"strong, momentary pungent feeling (sharp)"	flavour
+ぴりっ	ピリッ	"over-sensitive, on edge and all senses on full (stronger than ぴりぴり)"	mood	nervous
+ひりひり	ヒリヒリ	smarting	feelings	pain
+ひりひり	ヒリヒリ	"pungent, spicy, to smart"	flavour
+びりびり	ビリビリ	shaky	feelings	pain
+びりびり	ビリビリ	the feeling of electric shocks	feelings
+びりびり	ビリビリ	"nervous, strained"	mood	nervous
+びりびり	ビリビリ	shuddering	motions
+びりびり	ビリビリ	repetetively ripping something so that is feels to vibrate	performing an action	ripping
+ぴりぴり	ピリピリ	a pricking pain	feelings	pain
+ぴりぴり	ピリピリ	"pungent, spicy, to smart"	flavour
+ぴりぴり	ピリピリ	"over-sensitive, on edge and all senses on full"	mood	nervous
+ぴりぴり	ピリピリ	rip up	performing an action	ripping
+びりびりっ	ビリビリッ	a pricking pain with tailing longer than ぴりぴり	feelings	pain
+ぴりり	ピリリ	"strong, momentary pungent feeling (lingering)"	flavour
+ぴりり	ピリリ	"over-sensitive, on edge and all senses on full"	mood	nervous
+ぴん	ピン	"pluck, prick"	action
+ぴん	ピン	"intuitively, to come in a flash"	mental actions	ideas
+ぴん	ピン	with a flip	performing an action
+ぴん	ピン	prick up	performing an action
+ぴん	ピン	straight and taut	personal attire
+ぴん	ピン	stretched tightly	resultant state
+ぴんしゃん	ピンシャン	a combination of ぴんぴん (good health) and しゃんしゃん (alive and well)	physical health	good
+ひんひん	ヒンヒン	whine	onomatopoeia	horse
+ぴんぴん	ピンピン	to twang repeatedly	action
+ぴんぴん	ピンピン	flipping	performing an action
+ぴんぴん	ピンピン	pull	performing an action
+ぴんぴん	ピンピン	"in good health, full of life"	physical health	good
+ひんやり	ヒンヤリ	a pleasant cool	feelings	temperature
+ひんやり	ヒンヤリ	pleasantly cool	weather	temperature
+ふ	フ	unexpected	action	sudden
+ふ	フ	unexpected	action	sudden
+ふ	フ	a sudden idea	mental actions	ideas
+ふ	フ	by chance	mental actions	reflection
+ふ	フ	"sudden stop, disappearing"	motions
+ふあーっ	フアーッ	yawning	onomatopoeia	human noises
+ふい	フイ	abruptly	action	sudden
+ぷい	プイ	leave in a fit of ill humour	action	sudden
+ぷい	プイ	turning away	facial expression
+ふー	フー	"""siiigh"""	onomatopoeia	human noises
+ふー	フー	exhaling lightly	performing an action
+ふーっ	フーッ	to lose consciousness	body function
+ぶーっ	ブーッ	to puff out	performing an action
+ぶーっ	ブーッ	"blowing something out of the mouth, bursting into laughter"	performing an action
+ぷーっ	プーッ	spitting	onomatopoeia	human noises
+ぷーっ	プーッ	forcefully exhaling	performing an action
+ぷーっ	プーッ	"puff up, inflate"	state	air
+ふーふー	フーフー	to pant	body function
+ふーふー	フーフー	to pant under debt pressure	money issues
+ふーふー	フーフー	panting	onomatopoeia	human noises
+ふーふー	フーフー	blowing repeatedly and forcefully	performing an action
+ぶーぶー	ブーブー	oink	onomatopoeia	pig
+ぶーぶー	ブーブー	trumpeting	onomatopoeia
+ぶーん	ブーン	buzz	onomatopoeia	bee
+ぷーん	プーン	"look angry, look peeved"	emotions	anger
+ぷーん	プーン	"peeved, angry"	facial expression	anger
+ぶーんぶーん	ブーンブーン	buzzing	onomatopoeia
+ふかふか	フカフカ	"fluffy, soft, comfortable"	feelings
+ふかふか	フカフカ	"fluffy, soft"	texture
+ぶかぶか	ブカブカ	overly large	form
+ぶかぶか	ブカブカ	bobbing	motions	floating
+ぷかぷか	プカプカ	"bobbing, drifting"	motions	floating
+ぷかぷか	プカプカ	smoking heavily	performing an action
+ぷかり	プカリ	float up	motions	floating
+ぷかりぷかり	プカリプカリ	slowly float	motions	floating
+ふくっ	フクッ	"round, swollen"	resultant state
+ぶくっ	ブクッ	swollen (misshapen)	form
+ぶくっ	ブクッ	bubbling up	motions	floating
+ぶくっ	ブクッ	swell up (misshapen)	state	air
+ぷくっ	プクッ	swelling (round)	form
+ぷくっ	プクッ	"round, swollen"	resultant state
+ぷくっ	プクッ	swell up (round)	state	air
+ぶくっぶくっ	ブクッブクッ	bubbling	state	liquids
+ぶくぶく	ブクブク	gurgling	onomatopoeia	water
+ぶくぶく	ブクブク	bubbling	state	liquids
+ぶくぶく	ブクブク	"plump, getting flabbier"	the body
+ふさふさ	フサフサ	"bushy, hanging down in bunches"	form
+ぶすっ	ブスッ	"sullen look, sulky, gloomy (showing discontent)"	facial expression
+ぶすっ	ブスッ	"sullen, sulky"	mood	down
+ぶすっ	ブスッ	stabbing (once)	performing an action	cutting
+ぷすっ	プスッ	"jab, the sound of a jab"	action
+ぶすぶす	ブスブス	rustling	onomatopoeia	fire
+ぶすぶす	ブスブス	repetetively stabbing	performing an action	cutting
+ぶすぶす	ブスブス	complaining behind someone's back	speech
+ぶすぶす	ブスブス	"smolder, simmer"	state	fire
+ぶすり	ブスリ	"sullen look, sulky, gloomy"	facial expression
+ぶすり	ブスリ	driving a needle through	performing an action	cutting
+ふっ	フッ	unexpected	action	sudden
+ふっ	フッ	unexpected	action	sudden
+ふっ	フッ	a sudden idea	mental actions	ideas
+ふっ	フッ	by change	mental actions	reflection
+ふっ	フッ	"sudden stop, disappearing"	motions
+ふっ	フッ	"""sigh"""	onomatopoeia	human noises
+ふっ	フッ	light exhaling	performing an action
+ふっ	フッ	exhaling lightly	performing an action
+ぷっ	プッ	"to puff up, to pout "	facial expression
+ぷっ	プッ	a burst of laughter	laughter
+ぷっ	プッ	spitting	onomatopoeia	human noises
+ぷっ	プッ	spitting something out	performing an action
+ふっから	フッカラ	"fluffy, soft and swollen"	physical state	soft
+ぶつくさ	ブツクサ	"grumble, mutter"	speech
+ふっくら	フックラ	"puffy, swollen"	form
+ふっくら	フックラ	puffy	the body
+ぷっくり	プックリ	small swelling (round)	form
+ぶつっ	ブツッ	"snapping off, breaking off (suddenly)"	motions	desintegrate
+ぷつっ	プツッ	"snapping off, breaking off (suddenly)"	motions	desintegrate
+ぷつっ	プツッ	"prick, sting, pierce"	performing an action	stabbing
+ふっつり	フッツリ	to [suddenly] definitively break up 	personal relations
+ふっつり	フッツリ	giving up suddenly and completely	resultant state
+ぶっつり	ブッツリ	completely sever by snapping/breaking	motions	desintegrate
+ぷっつり	プッツリ	completely sever by snapping/breaking	motions	desintegrate
+ぷっつり	プッツリ	to [suddenly] definitively break up 	personal relations
+ぷっつり	プッツリ	giving up suddenly and completely	resultant state
+ふっふっ	フッフッ	laughing under one's breath	laughter
+ぶつぶつ	ブツブツ	goose-bumps	feelings
+ぶつぶつ	ブツブツ	"bumpy, dimpled"	form
+ぶつぶつ	ブツブツ	"grumble, mutter"	speech
+ぶつぶつ	ブツブツ	mutter in a small voice	speech
+ぶつぶつ	ブツブツ	simmering	state	liquids
+ぶつぶつ	ブツブツ	"simmering, bubbling"	state	liquids
+ぷつぷつ	プツプツ	"bumpy, dimpled"	form
+ぷつり	プツリ	completely sever by snapping/breaking	motions	desintegrate
+ふにゃっ	フニャッ	a momentary feeling of something soft and squishy	feelings
+ふにゃふにゃ	フニャフニャ	"soft, flaccid"	feelings
+ふにゃり	フニャリ	a momentary feeling of something soft and squishy	feelings
+ふにゃんふにゃ	フニャンフニャ	to collapse softly	performing an action
+ぶよぶよ	ブヨブヨ	"flabby, swollen"	form
+ぶよぶよ	ブヨブヨ	"soft and swollen, flabby"	the body
+ふらっ	フラッ	to reel momentarily	body function
+ふらっ	フラッ	stagger momentarily	performing an action
+ふらふら	フラフラ	to reel shakily	body function
+ふらふら	フラフラ	"waver, unsteady"	motions	swinging
+ふらふら	フラフラ	unsteady	performing an action	walking
+ふらふら	フラフラ	"walking unsteady, swaying"	performing an action
+ふらふら	フラフラ	wavering	personal traits
+ぶらぶら	ブラブラ	leisurely	action
+ぶらぶら	ブラブラ	"aimlessly, loitering"	mental state
+ぶらぶら	ブラブラ	sway (dangling object)	motions	swinging
+ぶらぶら	ブラブラ	leisurely	performing an action	walking
+ぶらぶら	ブラブラ	dangling	spacial orientation
+ぶらぶら	ブラブラ	to loaf around	work attitude
+ふらり	フラリ	"by chance, to just happen"	action
+ふらり	フラリ	staggering with a stray	performing an action
+ぶらり	ブラリ	"by chance, to just happen"	action
+ぶらり	ブラリ	hang around doing nothing	mental state
+ぶらり	ブラリ	hanging down	spacial orientation
+ぷらり	プラリ	hanging down	spacial orientation
+ふらりふらり	フラリフラリ	"unsteady, with swing"	performing an action	walking
+ぶらりぶらり	ブラリブラリ	"leisurely, with swing"	performing an action	walking
+ぶらりぶらり	ブラリブラリ	hanging down and swaying	spacial orientation
+ぷらん	プラン	hanging down	spacial orientation
+ぶらんぶらん	ブランブラン	hanging down and swaying	spacial orientation
+ぶりぶり	ブリブリ	"fume, fret (stronger than ぷりぷり)"	emotions	anger
+ぷりぷり	プリプリ	"fume, fret, act angry"	emotions	anger
+ぷりぷり	プリプリ	fuming with anger	facial expression	anger
+ぷりぷり	プリプリ	firm with resilient flesh	the body
+ぶるぶる	ブルブル	"shiver, tremble (due to cold, fear)"	feelings
+ぶるぶる	ブルブル	"shiver, shake"	performing an action
+ぶるぶるっ	ブルブルッ	"shiver, tremble (due to cold, fear)"	feelings
+ぶるぶるっ	ブルブルッ	"shiver, shake"	performing an action
+ふわーっ	フワーッ	"a momentary light, soft sensation"	feelings
+ふわっ	フワッ	"a momentary light, soft sensation"	feelings
+ふわっ	フワッ	sway softly	motions	swinging
+ふわふわ	フワフワ	light and soft and fluffy	feelings
+ふわふわ	フワフワ	"fluffly, spongy, soft"	flavour
+ふわふわ	フワフワ	lazily	mental state
+ふわふわ	フワフワ	float lightly	motions	floating
+ふわふわ	フワフワ	"frivolous, whimsical"	personal traits
+ふわふわ	フワフワ	floating	weather	snow
+ぶわぶわ	ブワブワ	spongy	form
+ふわり	フワリ	float up lazily	motions	floating
+ふわりふわり	フワリフワリ	floating softly on the air	motions	floating
+ぶん	ブン	"peeved, angry"	facial expression	anger
+ぷん	プン	"look angry, look peeved"	emotions	anger
+ぷん	プン	a momentary smell	smells
+ぶんぶん	ブンブン	humm	onomatopoeia	bee
+ぷんぷん	プンプン	bubbling with rage	emotions	anger
+ぷんぷん	プンプン	a strong smell	smells
+ふんわり	フンワリ	to feel soft and light	feelings
+ふんわり	フンワリ	"floating, drifting"	motions	floating
+ぺかぺか	ペカペカ	giving (way when force is applied)	structure
+ぺこっ	ペコッ	making a quick bow	performing an action
+ぺこぺこ	ペコペコ	to feel very hungry	body function
+ぺこぺこ	ペコペコ	clanking	onomatopoeia
+ぺこぺこ	ペコペコ	bowing repeatedly	performing an action
+ぺこぺこ	ペコペコ	bending in and outwards	structure
+ぺこり	ペコリ	"making a small, slow, bow"	performing an action
+ぺこん	ペコン	"making a small, slow, bow"	performing an action
+ぺしゃっ	ペシャッ	splatter (at the moment of crushing something)	action
+ぺしゃり	ペシャリ	"smashed, flat"	resultant state
+ぺしゃん	ペシャン	"crushed, flat"	resultant state
+ぺしゃんこ	ペシャンコ	"flat, crushed"	form
+ぺしゃんこ	ペシャンコ	flat like a pancake	the face
+べたっ	ベタッ	firmly	performing an action	pasting
+ぺたっ	ペタッ	firmly	performing an action	pasting
+ぺたっ	ペタッ	flat	performing an action	sitting
+へたへた	ヘタヘタ	"collapse, sitting down due to exhaustion"	performing an action
+べたべた	ベタベタ	thick and sticky	feelings
+べたべた	ベタベタ	coat lavishly	performing an action	pasting
+べたべた	ベタベタ	overly affectionate	personal attitude	undesirable
+べたべた	ベタベタ	"sticky, thick, being pasted"	physical state	sticky
+べたべた	ベタベタ	"pasted, stuck all over"	resultant state
+ぺたぺた	ペタペタ	slapping	onomatopoeia
+ぺたぺた	ペタペタ	pattering	onomatopoeia
+ぺたぺた	ペタペタ	coat lavishly	performing an action	pasting
+ぺたぺた	ペタペタ	walking with a steady sound	performing an action	walking
+ぺたぺた	ペタペタ	"stuck, pasted with something"	physical state	sticky
+べたり	ベタリ	daub	action
+べたり	ベタリ	"sitting flat, and not budging"	performing an action	sitting
+べたり	ベタリ	stuck on something	resultant state
+ぺたり	ペタリ	sitting flat	performing an action	sitting
+ぺたり	ペタリ	"stuck, pasted, to something unpleasant"	physical state	sticky
+ぺたん	ペタン	sitting flat	performing an action	sitting
+ぺたん	ペタン	"stuck, pasted, to something unpleasant"	physical state	sticky
+ぺたん	ペタン	"to look flat, plain"	the face
+ぺたんぺたん	ペタンペタン	pattering	onomatopoeia
+べちゃくちゃ	ベチャクチャ	"chatter, babble"	speech
+ぺちゃくちゃ	ペチャクチャ	"chatter, babble (in voices less dull than べちゃくちゃ)"	speech
+べちゃべちゃ	ベチャベチャ	muddy	physical state	wet
+べちゃべちゃ	ベチャベチャ	"chatter, babble"	speech
+べちゃべちゃ	ベチャベチャ	"mushy, soggy"	texture
+ぺちゃぺちゃ	ペチャペチャ	"chatter, babble (in voices less dull than べちゃべちゃ)"	speech
+ぺちゃん	ペチャン	"splash, sludge"	state	liquids
+ぺちゃんこ	ペチャンコ	"leveled, completely flattened"	resultant state
+ぺっ	ペッ	spitting	onomatopoeia	human noises
+ぺっ	ペッ	spit aloud	performing an action
+べったり	ベッタリ	daub	action
+べったり	ベッタリ	"sitting flat, and not budging"	performing an action	sitting
+べったり	ベッタリ	stained	physical state	sticky
+べったり	ベッタリ	stuck on something	resultant state
+ぺったり	ペッタリ	stained	physical state	sticky
+べっとり	ベットリ	"sticky, cover in something"	physical state	sticky
+へっへっ	ヘッヘッ	"evil, mean-spirited"	laughter
+へとへと	ヘトヘト	exhausted	physical health	poor
+べとべと	ベトベト	sticky	physical state	sticky
+へどもど	ヘドモド	"stutter, faltering"	speech
+へなへな	ヘナヘナ	weakly	performing an action	sitting
+へなへな	ヘナヘナ	collapsing from loss of strength	performing an action
+へなへな	ヘナヘナ	"flimsy, easily made out of shape"	structure
+へべれけ	ヘベレケ	stupendously drunk	body function	drunk
+へらへら	ヘラヘラ	"dubious, deceiving, embarrased"	laughter
+べらべら	ベラベラ	"thin, cheap"	structure
+ぺらぺら	ペラペラ	fluently	speech
+ぺらぺら	ペラペラ	sleazy	structure
+べりべり	ベリベリ	tear/rip something that's stuck on something	performing an action	ripping
+ぺろっ	ペロッ	to eat up in one gulp	performing an action	eating
+ぺろっ	ペロッ	tear/rip/peel off a strip of material	performing an action	ripping
+ぺろっ	ペロッ	"stick out one's tongue, to briefly lick"	performing an action
+べろべろ	ベロベロ	drunk enough to lose any sense of judgement	body function	drunk
+べろべろ	ベロベロ	licking vigorously	performing an action
+ぺろぺろ	ペロペロ	licking vigorously (but lessheavy than べろべろ)	performing an action
+べろり	ベロリ	having one's tongue sticking out	performing an action
+ぺろり	ペロリ	to eat up in one gulp	performing an action	eating
+ぺろり	ペロリ	"stick out one's tongue, to briefly lick"	performing an action
+ぺろりぺろり	ペロリペロリ	slowly and thoroughly licking	performing an action
+べろん	ベロン	having one's tongue sticking out	performing an action
+べろん	ベロン	flat	shape
+ぺろん	ペロン	peel away	action
+ぺろん	ペロン	looking emotionless	facial expression
+ぺろん	ペロン	"stick out one's tongue, to briefly lick"	performing an action
+べろんべろん	ベロンベロン	"stupendously drunk, stronger form of べろべろ"	body function	drunk
+べんべん	ベンベン	tapping	onomatopoeia
+べんべん	ベンベン	tapping	onomatopoeia
+ぽい	ポイ	toss away casually	performing an action	throwing
+ぽいっ	ポイッ	toss away casually	performing an action	throwing
+ほいほい	ホイホイ	accept something readily	action
+ぽいぽい	ポイポイ	toss away or dispose of casually	performing an action	throwing
+ぽー	ポー	distracted	mental state	not with it
+ほーっ	ホーッ	"relieved, letting out a sight"	mood	relieved
+ぼーっ	ボーッ	absent-minded	mental state	not with it
+ぼーっ	ボーッ	"fuzzy, dazed"	mental state	not with it
+ぼーっ	ボーッ	blazing	onomatopoeia	fire
+ぼーっ	ボーッ	"blaze, burst into flame"	state	fire
+ぼーっ	ボーッ	"blurred, misty"	weather	visibility
+ぽーっ	ポーッ	"scatter outward, spread"	action	movement
+ぽーっ	ポーッ	"feeling muddled, the feeling of losing consciousness"	body function
+ぽーっ	ポーッ	"dazed, fascinated, almost unconsciously"	emotions	affection
+ぼーぼー	ボーボー	shaggy	hair
+ぼーぼー	ボーボー	blazing	onomatopoeia	fire
+ぼーぼー	ボーボー	"blazing, emitting crackling noises"	state	fire
+ほーほけきょ	ホーホケキョ	song of a nightingale	onomatopoeia	nightingale
+ぽかーん	ポカーン	absent-minded	mental state	not with it
+ぽかっ	ポカッ	a swift strike	action	striking
+ぽかっ	ポカッ	float up suddenly	motions	floating
+ほかほか	ホカホカ	"warm and pleasant feeling, to glow with warmth"	feelings
+ほかほか	ホカホカ	"warm, fresh, steaming"	state
+ほかほか	ホカホカ	comfortably warm	weather	temperature
+ぼかぼか	ボカボカ	repetative forcefull beating	action	striking
+ぽかぽか	ポカポカ	repetative beating	action	striking
+ぽかぽか	ポカポカ	pleasantly and thoroughly warm	feelings
+ぽかぽか	ポカポカ	come floating up one by one	motions	floating
+ぽかぽか	ポカポカ	"gaping, various"	shape	hole
+ぽかぽか	ポカポカ	pleasantly warm all round	weather	temperature
+ぽかり	ポカリ	"whack, strike"	action	striking
+ぽかり	ポカリ	"to surface, pop up lightly"	motions	floating
+ぽかり	ポカリ	"gaping, single"	shape	hole
+ぽかん	ポカン	bonked (hit with something hollow)	action	striking
+ぽかん	ポカン	blank look	eye expressions
+ぽかん	ポカン	"gawk, stare blankly (with opened mouth)"	facial expression
+ぽかん	ポカン	"dumbfounded, flabbergasted"	mental state
+ぽかん	ポカン	float slowly	motions	floating
+ぽかん	ポカン	hollow	shape	hole
+ぽかんぽかん	ポカンポカン	repetative bonking (being hit with something hollow)	action	striking
+ぽきっ	ポキッ	"breaking something dry, fragile"	action	breaking
+ぽきっ	ポキッ	cracking	onomatopoeia
+ぽきぽき	ポキポキ	"repetetively breaking something dry, fragile"	action	breaking
+ぽきぽき	ポキポキ	"snapping small, fragile things"	action	snapping
+ぽきぽき	ポキポキ	cracking	onomatopoeia
+ぽきり	ポキリ	"breaking something dry, fragile"	action	breaking
+ぽきりぽきり	ポキリポキリ	"repetetively breaking something dry, fragile"	action	breaking
+ぽきりぽきり	ポキリポキリ	cracking	onomatopoeia
+ぽきん	ポキン	"breaking something dry, fragile"	action	breaking
+ほくほく	ホクホク	"beaming, being pleased with oneself"	facial expression	smiling
+ほくほく	ホクホク	soft and tasty	flavour
+ほくほく	ホクホク	"delighted, satisfied"	mood	happy
+ぼくん	ボクン	breaking up something hard and stiff	action	breaking
+ぼけーっ	ボケーッ	absent-minded	mental state	not with it
+ぼけっ	ボケッ	absent-minded	mental state	not with it
+ぼけっ	ボケッ	relaxed and carefree	mental state
+ぼこぼこ	ボコボコ	gurgling	onomatopoeia	water
+ぼこぼこ	ボコボコ	gurgling	onomatopoeia
+ぼこぼこ	ボコボコ	bumped and pitted	shape
+ぼこぼこ	ボコボコ	the hollow sound of water filled with bubbles	state	liquids
+ぼさっ	ボサッ	"dreaming, idling away"	mental state	not with it
+ぼさぼさ	ボサボサ	scruffy	hair
+ぼさぼさ	ボサボサ	daydreaming	mental state	not with it
+ぽしっ	ポシッ	"absolute correctness, rigidly"	action
+ぽしっ	ポシッ	cracking	motions	desintegrate
+ぼしゃっ	ボシャッ	deflate suddenly	state	air
+ぼそっ	ボソッ	"mumble, murmur"	speech
+ぼそぼそ	ボソボソ	"whispered, in subdued tone"	speech
+ぼそぼそ	ボソボソ	"dried out, unpalatable"	texture
+ぼたっ	ボタッ	an abrupt heavy teardrop	crying
+ぼたっ	ボタッ	a heavy drop falling and splattering when hitting	state	liquids
+ぽたっ	ポタッ	an abrupt light teardrop	crying
+ぽたっ	ポタッ	a drop falling and impacting	state	liquids
+ぼたぼた	ボタボタ	the sound of tears continuously hitting a surface	crying
+ぼたぼた	ボタボタ	continuously dropping heavy drops	state	liquids
+ぽたぽた	ポタポタ	the sound of light tears continuously hitting a surface	crying
+ぽたぽた	ポタポタ	continuously dropping drops	state	liquids
+ぼたり	ボタリ	a heavy drop falling and splattering when hitting	state	liquids
+ぽたり	ポタリ	a drop falling and impacting	state	liquids
+ぼたりぼたり	ボタリボタリ	the sound of tears dripping at intervals	crying
+ぼたりぼたり	ボタリボタリ	"continuously dropping heavy drops, with pauses between drops"	state	liquids
+ぽたりぽたり	ポタリポタリ	the sound of light tears dropping at intervals	crying
+ぽたりぽたり	ポタリポタリ	"continuously dropping drops, with pauses between drops"	state	liquids
+ぽたん	ポタン	the sound of a light teardrop hitting a surface	crying
+ぽちぽち	ポチポチ	splotched	form
+ぽちゃっ	ポチャッ	liquid being splashed after something abrupt	action	splashing
+ぼちゃぼちゃ	ボチャボチャ	a large body of water splashing/sloshing	action	splashing
+ぽちゃぽちゃ	ポチャポチャ	a large but shallow body of water splashing/sloshing	action	splashing
+ぼちゃり	ボチャリ	liquid being splashed after something abrupt	action	splashing
+ぼちゃん	ボチャン	making a big splash when plunging into water	action	plunging
+ぼちゃん	ボチャン	liquid being splashed after something abrupt	action	splashing
+ぽちゃん	ポチャン	plopping	onomatopoeia
+ほっ	ホッ	"relieved, letting out a sight"	mood	relieved
+ぽっ	ポッ	"scatter outward, spread"	action	movement
+ぽっ	ポッ	in a flash	state	light
+ぽっかり	ポッカリ	"to surface, pop up lightly"	motions	floating
+ぽっかり	ポッカリ	wide open	shape	hole
+ぽっちゃぽっちゃ	ポッチャポッチャ	chubby and cute	the body
+ぽっちゃり	ポッチャリ	chubby and cute	the body
+ぽっちり	ポッチリ	a single tiny dot	form
+ぼってり	ボッテリ	"thick, fat, plump"	form
+ぼってり	ボッテリ	"plump, chubby"	the body
+ぽつねん	ポツネン	"lonely, deep thought"	mental actions	reflection
+ぽっぽ	ポッポ	"a warm, hot feeling"	feelings	temperature
+ほっほっ	ホッホッ	a merry laugh (feminine)	laughter
+ぼつぼつ	ボツボツ	little by little	temporal aspect
+ぼつぼつ	ボツボツ	starting to lightly rain	weather	rain
+ぽっぽっ	ポッポッ	"""choo choo"""	onomatopoeia	train
+ぽつぽつ	ポツポツ	dotted with bumps or small holes	form
+ぽつぽつ	ポツポツ	little by little	motions
+ぽつぽつ	ポツポツ	"scattered, here and there"	spacial orientation
+ぽつぽつ	ポツポツ	speaking with frequent pauses	speech
+ぽつぽつ	ポツポツ	little by little	temporal aspect
+ぽつぽつ	ポツポツ	starting to lightly rain	weather	rain
+ぽつりぽつり	ポツリポツリ	speaking with frequent pauses	speech
+ぽつん	ポツン	standing seperated	spacial orientation
+ぽつん	ポツン	mutter in a single word	speech
+ぽつん	ポツン	a single drop falling and hitting something	state	liquids
+ぼてぼて	ボテボテ	sickeningly fat	the body
+ぽとっ	ポトッ	a small drop dropping	state	liquids
+ぼとぼと	ボトボト	sound of tears dropping	crying
+ぼとぼと	ボトボト	drops continuously falling	state	liquids
+ぽとぽと	ポトポト	"droplets, dripping tears"	crying
+ぽとぽと	ポトポト	drops continuously falling	state	liquids
+ぽとり	ポトリ	a small drop dropping	state	liquids
+ぽとん	ポトン	the sound of a light teardrop hitting a surface	crying
+ぽとん	ポトン	a small drop dropping	state	liquids
+ぼやっ	ボヤッ	vaguely	mental actions	recollection
+ぼやっ	ボヤッ	in a half-daze	mental state	not with it
+ぼやっ	ボヤッ	"vague, dim"	weather	visibility
+ほやほや	ホヤホヤ	"to look fresh, inexperienced"	career experience
+ほやほや	ホヤホヤ	steaming hot	state
+ほやほや	ホヤホヤ	"brand new, just made"	to appear to be
+ぼやぼや	ボヤボヤ	"absent-minded, careless"	mental state	not with it
+ぼらぼら	ボラボラ	worn-out	form
+ぼりぼり	ボリボリ	crunching	onomatopoeia
+ぽりぽり	ポリポリ	crunching	onomatopoeia
+ほろっ	ホロッ	to feel tipsy	body function	drunk
+ほろっ	ホロッ	"a single small teardrop, to be touched"	crying
+ほろっ	ホロッ	moved to tears	emotions	being moved
+ほろほろ	ホロホロ	small tears silently rolling off the cheek	crying
+ぼろぼろ	ボロボロ	tears rolling down the cheek	crying
+ぼろぼろ	ボロボロ	ragged	personal attire
+ぼろぼろ	ボロボロ	"worn out, falling apart, crumbling"	resultant state
+ぽろぽろ	ポロポロ	tears tumbling down one after the other	crying
+ぽろぽろ	ポロポロ	crumble into pieces	motions	desintegrate
+ぽろぽろ	ポロポロ	"tumble down, crumble to nothing"	motions	disassociate
+ぽろぽろ	ポロポロ	dry and crumbly	texture
+ほろり	ホロリ	"a single small teardrop, to be touched"	crying
+ぽん	ポン	cracking	onomatopoeia
+ぽん	ポン	plopping	onomatopoeia
+ぽん	ポン	pat lightly	performing an action
+ぽん	ポン	casually	performing an action
+ほんおり	ホンオリ	"faintly, slightly"	facial expression
+ほんのり	ホンノリ	"faintly, lightly visible"	resultant state
+ほんのり	ホンノリ	"faint, slight"	weather	visibility
+ぽんぽん	ポンポン	"seemingly uncontrolled, furiously, 'like mad' "	motions
+ぽんぽん	ポンポン	"""kapow"""	onomatopoeia	fireworks
+ぽんぽん	ポンポン	clapping	onomatopoeia
+ぽんぽん	ポンポン	plopping	onomatopoeia
+ぽんぽん	ポンポン	without hesitation	speech
+ぼんやり	ボンヤリ	"hazy, vague"	mental actions	recollection
+ぼんやり	ボンヤリ	absent-mindedly	mental actions	reflection
+ぼんやり	ボンヤリ	"vacantly, blankly, airheaded"	mental state	not with it
+ぼんやり	ボンヤリ	loafing about	mental state
+ぼんやり	ボンヤリ	hazy	weather	visibility
+ほんわか	ホンワカ	"warm and pleasant feeling, like being envelopped"	feelings
+まごまご	マゴマゴ	"confused, no knowing what to do"	mental state
+まざまざ	マザマザ	"vividly, fresh in the mind"	mental actions	recollection
+まじまじ	マジマジ	"to look hard, serious, to stare someone in the face"	eye expressions
+まちまち	マチマチ	"diverse, different"	resultant state
+まるまる	マルマル	"completely, entirely"	quantity
+まるまる	マルマル	completely	temporal aspect
+まるまる	マルマル	"plump, full, rotund"	the body
+まんじる	マンジル	"not sleeping at all, to not close an eye (used with negative verb)"	body function	sleep
+まんま	マンマ	to be completely taken in 	mental state	not with it
+みーんみんみん	ミーンミンミン	that noise cicada relentlessly make	onomatopoeia	cicada
+みしっ	ミシッ	creaking	onomatopoeia
+みしみし	ミシミシ	creaking	onomatopoeia
+みすみす	ミスミス	missing what's right in front of the eyes	action
+みっちり	ミッチリ	train/practice earnestly	action
+むーっ	ムーッ	"miffed, offended"	facial expression
+むかっ	ムカッ	to feel momentarily nauseous	body function
+むかっ	ムカッ	sick with anger	emotions	anger
+むかむか	ムカムカ	to feel nauseous	body function
+むくむく	ムクムク	"billow, swirl"	motions	rising
+むくむく	ムクムク	rising quietly	performing an action
+むくむく	ムクムク	plump [used only for children or animals]	the body
+むしゃくしゃ	ムシャクシャ	"vexed, fretful, ugly, at a loss of composure"	mood	down
+むしゃむしゃ	ムシャムシャ	"vexed, fretful, ugly, at a loss of composure (less strong than むしゃくしゃ)"	mood	down
+むしゃむしゃ	ムシャムシャ	munching	onomatopoeia	human noises
+むしゃむしゃ	ムシャムシャ	munching	performing an action	eating
+むず	ムズ	"grab suddenly, with force"	action
+むすっ	ムスッ	"sulky, gloomy (showing discontent by staying silent)"	facial expression
+むすっ	ムスッ	"sullen, ill humored and silent"	mood	down
+むずむず	ムズムズ	itching for a chance to show off one's skill	emotions	urge
+むずむず	ムズムズ	small itches like tiny bugs are crawling over the skin	feelings
+むちむち	ムチムチ	firm and fleshy	the body
+むっ	ムッ	"offended, miffed"	emotions	anger
+むっ	ムッ	"miffed, offended"	facial expression
+むっ	ムッ	stifling	weather	temperature
+むっくり	ムックリ	rising up suddenly	performing an action
+むっちり	ムッチリ	"plump, fleshy"	form
+むっちり	ムッチリ	plump	the body
+むつっ	ムツッ	"sullen, glum"	mood	down
+むつっ	ムツッ	"moody, quiet"	personal traits
+むっつり	ムッツリ	glum	facial expression
+むっつり	ムッツリ	"moody, inhospitably"	mood	down
+むっつり	ムッツリ	"moody, quiet"	personal traits
+むにゃむにゃ	ムニャムニャ	"mumble, poorly articulated"	speech
+むらむら	ムラムラ	oncoming anger	emotions	anger
+むらむら	ムラムラ	"filled with desire to do something, impulse emotion"	emotions	urge
+むんず	ムンズ	"grab suddenly, with force"	action
+むんむん	ムンムン	stuffy	weather	temperature
+めー	メー	meee	onomatopoeia	sheep
+めえー	メエー	me-e-e-e-e	onomatopoeia	sheep
+めきめき	メキメキ	"noticably, markedly"	resultant state
+めきめき	メキメキ	"remarkably, markedly"	resultant state
+めそめそ	メソメソ	sobing in self-pity	emotions	crying
+めためた	メタメタ	"be smashed, fall apart"	body function	drunk
+めためた	メタメタ	smashed	resultant state
+めちゃくちゃ	メチャクチャ	"all screwed up, not making sense"	resultant state
+めちゃくちゃ	メチャクチャ	"ruined, in shambles"	resultant state
+めちゃめちゃ	メチャメチャ	"in pieces, a mess"	resultant state
+めちゃめちゃ	メチャメチャ	"all screwed up, not making sense"	resultant state
+めちゃめちゃ	メチャメチャ	"ruined, in shambles"	resultant state
+めっきり	メッキリ	"noticably, markedly"	resultant state
+めっきり	メッキリ	markedly	resultant state
+めらめら	メラメラ	being devoured by flames	state	fire
+めりめり	メリメリ	"snap, split, crack"	action	snapping
+めりめり	メリメリ	cracking	onomatopoeia
+めりめり	メリメリ	creaking	onomatopoeia
+めろめろ	メロメロ	sloppily drunk	body function	drunk
+もーもー	モーモー	rise up in thick clouds	motions	rising
+もーもー	モーモー	moo	onomatopoeia	cow
+もくもく	モクモク	swirling	motions	rising
+もぐもぐ	モグモグ	chew with one's mouth closed	performing an action	eating
+もぐもぐ	モグモグ	mumbling	speech
+もごもご	モゴモゴ	"dumstruck, at a loss for words"	speech
+もさっ	モサッ	"to look abscentminded, not alert"	facial expression
+もさっ	モサッ	"slow-witted, dull"	mental state	not with it
+もじもじ	モジモジ	"timid, uneasy, refrained"	mental state
+もしゃもしゃ	モシャモシャ	unkempt and thickly grown hair or whiskers	hair
+もじゃもじゃ	モジャモジャ	the rougher version of もしゃもしゃ	hair
+もそもそ	モソモソ	the feeling like something is wriggling about	feelings
+もそもそ	モソモソ	munching something dry	performing an action	eating
+もそもそ	モソモソ	move about restlessly	performing an action
+もそもそ	モソモソ	wriggle about	performing an action
+もぞもぞ	モゾモゾ	the feeling like something is squirming about	feelings
+もぞもぞ	モゾモゾ	"to fidget nervously, shifting uneasy"	mood	nervous
+もぞもぞ	モゾモゾ	move about restlessly and noisily	performing an action
+もぞもぞ	モゾモゾ	"wriggle about, with more sound than もそもそ"	performing an action
+もたもた	モタモタ	slow and trady	resultant state
+もやーっ	モヤーッ	"misty, foggy"	weather	visibility
+もやっ	モヤッ	"foggy, dazed"	mental state	not with it
+もやっ	モヤッ	"misty, foggy"	weather	visibility
+もやもや	モヤモヤ	"foggy, dazed"	mental state	not with it
+もやもや	モヤモヤ	"becoming misty, unclear"	weather	visibility
+もりもり	モリモリ	"eat like posessed, eat vigorously"	performing an action	eating
+もりもり	モリモリ	"full of spirit, energetic"	physical health	good
+もりもり	モリモリ	"vigorously, energetic, with ambition"	work attitude
+もわー	モワー	"misty, steamy"	weather	visibility
+やきもき	ヤキモキ	anxiety caused when things don't go the way as intended	mood	nervous
+やんわり	ヤンワリ	calm and gentle	action
+やんわり	ヤンワリ	gently advising	speech
+ゆさゆさ	ユサユサ	sway (of a heavy object)	action
+ゆさゆさ	ユサユサ	sway slowly	motions	swinging
+ゆさゆさっ	ユサユサッ	sway (of a heavy object)	action
+ゆっくり	ユックリ	"slowly, taking one's time"	action
+ゆっくり	ユックリ	"slowly, at leisure"	performing an action	read
+ゆっくり	ユックリ	relaxed	performing an action	walking
+ゆっさゆっさ	ユッサユッサ	sway slowly	motions	swinging
+ゆったり	ユッタリ	leisurely	action
+ゆったり	ユッタリ	"easy, carefree"	mood	calm
+ゆったり	ユッタリ	"calm, placid"	performing an action	walking
+ゆったり	ユッタリ	"calm, composed"	personal traits
+ゆらっ	ユラッ	"a single, abrupt swing"	motions	swinging
+ゆらゆら	ユラユラ	gently sway	action
+ゆらゆら	ユラユラ	curling upwards	motions	rising
+ゆらゆら	ユラユラ	swaying in the air	motions	swinging
+ゆらり	ユラリ	"a single, gentle swing"	motions	swinging
+ゆらりゆらり	ユラリユラリ	"slow, swinging motion"	motions	swinging
+ゆるゆる	ユルユル	"relaxed, even slower pace than ゆっくり"	performing an action	walking
+よたよた	ヨタヨタ	clumsily	performing an action	walking
+よたよた	ヨタヨタ	"totter, wobble"	performing an action
+よちよち	ヨチヨチ	"toddling, tottering"	performing an action	walking
+よぼよぼ	ヨボヨボ	"tottering, staggering"	performing an action	walking
+よぼよぼ	ヨボヨボ	decrepit	physical health	bad
+よれよれ	ヨレヨレ	"wrinkled, out of shape, shabby"	personal attire
+よれよれ	ヨレヨレ	worn-out	resultant state
+よろよろ	ヨロヨロ	"staggering, missing one's balance"	performing an action	walking
+よろよろ	ヨロヨロ	"rell, stagger"	performing an action
+らんらん	ランラン	"intense, fiery eyes"	eye expressions	glaring
+りりー	リリー	chirp	onomatopoeia	cricket
+れろれろ	レロレロ	"inarticulate, slurred"	speech
+わーわー	ワーワー	crying loudly	perceived sound
+わーん	ワーン	cry loudly	emotions	crying
+わーん	ワーン	crying	onomatopoeia	human noises
+わいわい	ワイワイ	"excitement, commotion"	perceived sound
+わう	ワウ	woof	onomatopoeia	dog
+わくわく	ワクワク	"excited, trembling with joy"	mood	happy
+わさわさ	ワサワサ	nervously	performing an action
+わなわな	ワナワナ	"trembling in anger, fear or cold"	feelings
+わんさ	ワンサ	"flock, thronging"	action
+わんわん	ワンワン	woof woof	onomatopoeia	dog
