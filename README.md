@@ -1,6 +1,6 @@
 # gion_go
 
-This is a standalone program written to produce an Anki deck to help me master onomatopoeia in Japanese.
+This is a standalone program written in Go to produce an Anki deck to help me master onomatopoeia in Japanese.
 
 The original data was sourced from [giongo.txt](https://github.com/Pomax/nihongoresources.com/blob/master/giongo.txt).
 
