@@ -20,4 +20,5 @@ func main() {
 
 	application.GenerateExamples()
 	application.SaveAnkiDeck()
+	application.SaveFailed()
 }
