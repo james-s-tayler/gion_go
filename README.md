@@ -12,6 +12,16 @@ The frequency data was sourced from the [learnjapanese.moe Google Drive](https:/
 - `sort/main.go` program was run against the `novels_frequency.json` with a threshold of 1,000,000 (containing all the data) to sort the entire deck from most frequent to least frequent usage in novels. 
 - The entire deck was then reviewed manually and any errors, duplicates, or otherwise dubious entries removed or replaced.
 
+## The Deck
+
+- The `anki_deck.txt` deck contains ~2k cards covering ~1k onomatopoeia.
+- It is comprised of 5 fields:
+  - Japanese example sentence in Kanji
+  - Hiragana of the example sentence
+  - English translation of the Japanese sentence
+  - Onomatopoeia in Japanese + English meaning
+  - Frequency range (per 10k)
+
 ## Why?
 
 Japanese feels like it has an endless amount of onomatopoeia. I once recall seeing a dictionary of onomatopoeia that had several thousand entries. Every time a new one came up that I didn't know it eventually bothered me because of how endless it seemed. So, I decided to go on a mission to learn them all and finally get a solid handle on this fun, yet slightly vexxing, part of Japanese!
