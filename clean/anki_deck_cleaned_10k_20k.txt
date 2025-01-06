@@ -34,7 +34,7 @@
 そのビルはがっしり建てられている。;その びる は がっしり たてられている。;That building is solidly built.;がっしり	ガッシリ	solidly built	resultant state;frequency-10_001-20_000
 蜂が花の周りをぶんぶん飛んでいる。;はち が はな の まわり を ぶんぶん とんでいる。;A bee is buzzing around the flower.;ぶんぶん	ブンブン	humm	onomatopoeia	bee;frequency-10_001-20_000
 湖に月の影がぽっかりと浮かんでいる。;みずうみ に つき の かげ が ぽっかり と うかんでいる。;The reflection of the moon is floating lightly on the lake.;ぽっかり	ポッカリ	"to surface, pop up lightly"	motions	floating;frequency-10_001-20_000
-空にぽっかりと白い雲が浮かんでいる。;そら に ぽっかり と しろい くも が うかんでいる 。;A white cloud is floating wide open in the sky.;ぽっかり	ポッカリ	wide open	shape	hole;frequency-10_001-20_000
+それが住宅街の中に突如ポッカリと開いた不自然な空間を広げている。;それが じゅうたくがい の なか に とつじょ ポッカリ と ひらいた ふしぜんな くうかん を ひろげている。;That is expanding an unnatural space that suddenly opened up in the middle of a residential area.;ぽっかり	ポッカリ	wide open	shape	hole;frequency-10_001-20_000
 彼は細いひもをぐいっと引っ張った。;かれ は ほそい ひも を ぐいっ と ひっぱった。;He gave the thin string a single, strong pull.;ぐいっ	グイッ	"a single, pulling action"	performing an action;frequency-10_001-20_000
 彼はカーテンをぐいっと引っ張った。;かれ は カーテン を ぐいっと ひっぱった。;He yanked the curtain.;ぐいっ	グイッ	to jerk (stronger than ぐい)	performing an action;frequency-10_001-20_000
 彼は車をのろのろ運転している。;かれ は くるま を のろのろ うんてん している。;He is driving the car slowly.;のろのろ	ノロノロ	"slow, sluggish"	action	movement;frequency-10_001-20_000
@@ -95,9 +95,7 @@
 彼はしげしげとこの図書館を訪れている。;かれ は しげしげ と この としょかん を おとずれて いる。;He frequently visits this library.;しげしげ	シゲシゲ	frequently	action	visiting;frequency-10_001-20_000
 彼は新しいオフィスのレイアウトをしげしげと見つめた。;かれ は あたらしい おふぃす の れいあうと を しげしげ と みつめた。;He stared hard and intently at the new office layout.;しげしげ	シゲシゲ	"staring hard and intent, to gaze"	eye expressions	stare;frequency-10_001-20_000
 彼は私の前でペコリとお辞儀をした。;かれ は わたし の まえ で ペコリ と おじぎ を した。;He bowed slightly in front of me.;ぺこり	ペコリ	"making a small, slow, bow"	performing an action;frequency-10_001-20_000
-彼は道でばったり友達に会った。;かれ は みち で ばったり ともだち に あった。;He suddenly ran into a friend on the street.;ばったり	バッタリ	"cease, stop"	action	sudden;frequency-10_001-20_000
 駅で友達にばったり会った。;えき で ともだち に ばったり あった。;I ran across a friend at the station.;ばったり	バッタリ	run across someone	action	sudden;frequency-10_001-20_000
-彼は街を歩いていると、ばったり友達に会った。;かれ は まち を あるいている と ばったり ともだち に あった 。;He was walking through the city when he suddenly ran into a friend.;ばったり	バッタリ	stop suddenly	motions;frequency-10_001-20_000
 彼は仕事中にばったりと倒れた。;かれ は しごとちゅう に ばったり と たおれた。;He suddenly dropped dead while at work.;ばったり	バッタリ	"an unexpected death, to drop dead"	physical health	death;frequency-10_001-20_000
 彼女は私をじろじろ見た。;かのじょ は わたし を じろじろ みた。;She stared at me intently.;じろじろ	ジロジロ	"staring with curiosity, looking at something with suspicion or disapproval"	eye expressions;frequency-10_001-20_000
 その話を聞くと、私の心がざわざわした。;その はなし を きく と、わたし の こころ が ざわざわ した。;When I heard that story, my heart felt uneasy.;ざわざわ	ザワザワ	chilly (from uneasiness or low fever)	feelings	temperature;frequency-10_001-20_000
@@ -126,7 +124,7 @@
 サラダはドレッシングでぐちゃぐちゃになった。;さらだ は どれっしんぐ で ぐちゃぐちゃ に なった。;The salad became mushy with the dressing.;ぐちゃぐちゃ	グチャグチャ	"mushy, pulpy"	texture;frequency-10_001-20_000
 彼は朝の散歩をゆるゆると歩いています。;かれ は あさ の さんぽ を ゆるゆる と あるいています。;He is walking his morning stroll at a relaxed pace.;ゆるゆる	ユルユル	"relaxed, even slower pace than ゆっくり"	performing an action	walking;frequency-10_001-20_000
 桜の花びらがひらりと地面に落ちた。;さくら の はなびら が ひらり と じめん に おちた。;A cherry blossom petal fluttered lightly to the ground.;ひらり	ヒラリ	"fluttering lightly, once"	motions	falling;frequency-10_001-20_000
-彼はひらりと崖を飛び越えた。;かれは ひらり と がけ を とびこえた。;He leapt lightly over the cliff.;ひらり	ヒラリ	"leaping, jumping lightly"	performing an action;frequency-10_001-20_000
+キングは屋根から地面へまたひらりと跳とんだ。キング は やね から じめん へ また ひらり と とんだ。;The King lightly leapt again from the roof to the ground.;ひらり	ヒラリ	"leaping, jumping lightly"	performing an action;frequency-10_001-20_000
 彼は寝る前に薬をべったりと肌に塗りました。;かれ は ねる まえ に くすり を べったり と はだ に ぬりました。;He daubed the medicine thickly on his skin before going to bed.;べったり	ベッタリ	daub	action;frequency-10_001-20_000
 彼はソファーにべったりと座って、一日中テレビを見ていた。;かれ は ソファー に べったり と すわって、いちにちじゅう テレビ を みていた。;He sat glued to the sofa, watching TV all day.;べったり	ベッタリ	"sitting flat, and not budging"	performing an action	sitting;frequency-10_001-20_000
 彼のシャツは泥でべったりと汚れている。;かれ の しゃつ は どろ で べったり と よごれている。;His shirt is stained and sticky with mud.;べったり	ベッタリ	stained	physical state	sticky;frequency-10_001-20_000
@@ -172,7 +170,7 @@
 雨が屋根をぱたぱたと叩いた。;あめ が やね を ぱたぱた と たたいた。;The rain pitter-pattered on the roof.;ぱたぱた	パタパタ	pit-a-pat	onomatopoeia;frequency-10_001-20_000
 魚はぬるぬるして捕まえにくかった。;さかな は ぬるぬる して つかまえ にくかった。;The fish was slimy and hard to catch.;ぬるぬる	ヌルヌル	"slimy, slippery"	physical state	wet;frequency-10_001-20_000
 風が強くて、窓がぴーぴー鳴っている。;かぜ が つよくて、 まど が ぴー ぴー なっている。;The wind is strong, and the window is making a whistling sound.;ぴー	ピー	whistling	onomatopoeia;frequency-10_001-20_000
-彼 は ぎくりと 背筋 を 震わせた。;かれ は ぎくりと せすじ を ふるわせた。;He trembled along his spine in a startled fright.;ぎくり	ギクリ	"startled, frightened, stopped one breath short"	mental state	scared;frequency-10_001-20_000
+彼はぎくりと背筋を震わせた。;かれ は ぎくりと せすじ を ふるわせた。;He trembled along his spine in a startled fright.;ぎくり	ギクリ	"startled, frightened, stopped one breath short"	mental state	scared;frequency-10_001-20_000
 彼のバッグの中で何かがもぞもぞ動いていた。;かれ の ばっぐ の なか で なにか が もぞもぞ うごいて いた。;Something was squirming around in his bag.;もぞもぞ	モゾモゾ	the feeling like something is squirming about	feelings;frequency-10_001-20_000
 彼は重要な会議の前で、椅子に座ってもぞもぞしていた。;かれ は じゅうよう な かいぎ の まえ で、いす に すわって もぞもぞ して いた。;He was fidgeting nervously in his chair before the important meeting.;もぞもぞ	モゾモゾ	"to fidget nervously, shifting uneasy"	mood	nervous;frequency-10_001-20_000
 彼はベッドの上でモゾモゾと動いていました。;かれ は べっど の うえ で もぞもぞ と うごいていました。;He was moving about restlessly on the bed.;もぞもぞ	モゾモゾ	move about restlessly and noisily	performing an action;frequency-10_001-20_000
@@ -183,7 +181,6 @@
 彼は水をごくごく飲んだ。;かれ は みず を ごくごく のんだ。;He gulped down the water.;ごくごく	ゴクゴク	gulping	onomatopoeia;frequency-10_001-20_000
 目をぱちぱちさせながら、彼女は考え事をしていた。;め を ぱちぱち させながら、かのじょ は かんがえごと を していた。;Blinking repeatedly, she was deep in thought.;ぱちぱち	パチパチ	"blinking repeatedly, fluttering of eyelids"	eye expressions	blinking;frequency-10_001-20_000
 たき火がぱちぱちと音を立てて燃えている。;たきび が ぱちぱち と おと を たてて もえている。;The bonfire is popping as it burns.;ぱちぱち	パチパチ	"""pop"""	onomatopoeia	fire;frequency-10_001-20_000
-
 彼はコンサートが終わった後に、観客のためにぱちぱち拍手しました。;かれ は こんさーと が おわった あと に、 かんきゃく の ため に ぱちぱち はくしゅ しました。;After the concert ended, he clapped ぱちぱち for the audience.;ぱちぱち	パチパチ	clapping	onomatopoeia;frequency-10_001-20_000
 カメラのフラッシュがぱちぱちと光った。;かめら の ふらっしゅ が ぱちぱち と ひかった。;The camera's flash clicked repeatedly.;ぱちぱち	パチパチ	clicking	onomatopoeia;frequency-10_001-20_000
 焚火の音がぱちぱちと響きました。;たきび　の　おと　が　ぱちぱち　と　ひびきました。;The sound of the campfire crackled.;ぱちぱち	パチパチ	crackling	onomatopoeia;frequency-10_001-20_000
@@ -198,7 +195,6 @@
 仕事はとんとん拍子に進みました。;しごとは とんとんびょうしに すすみました。;The work proceeded smoothly.;とんとん	トントン	smoothly	motions;frequency-10_001-20_000
 ドアをノックする音はトントンと響いた。;どあ を のっく する おと は とんとん と ひびいた。;The sound of knocking on the door echoed with a 'ton-ton.';とんとん	トントン	knocking	onomatopoeia;frequency-10_001-20_000
 彼はドアをトントンと叩いた。;かれ は どあ を とんとん と たたい た 。;He tapped on the door.;とんとん	トントン	tapping	onomatopoeia;frequency-10_001-20_000
-ドアをトントンと叩いた。;どあ を とんとん と たたいた。;I knocked on the door with a drumming sound.;とんとん	トントン	drumming	onomatopoeia;frequency-10_001-20_000
 その駐車場はからからで、すぐに車を止めることができた。;その ちゅうしゃじょう は からから で、すぐ に くるま を とめる こと が できた。;The parking lot was empty, so I was able to park my car right away.;からから	カラカラ	"empty, vacant"	available space;frequency-10_001-20_000
 喉がからからで水を飲みたい。;のど が からから で みず を のみたい。;My throat is parched and I want to drink water.;からから	カラカラ	"parched, dry throat"	body function;frequency-10_001-20_000
 彼はカラカラ笑った。;かれ は からから わらった。;He laughed loudly.;からから	カラカラ	a good laugh (masculine type of laugh)	laughter;frequency-10_001-20_000
@@ -223,7 +219,6 @@
 鉄工所の外では、金属がガンガン鳴り響いていた。;てっこうじょ の そと で は きんぞく が がんがん なりひびいていた。;Outside the steel factory, the metal was clanging loudly.;がんがん	ガンガン	clanging	onomatopoeia;frequency-10_001-20_000
 工事現場では、鍋がガンガン叩かれている音が聞こえる。;こうじげんばで は、なべ が がんがん たたかれている おと が きこえる。;At the construction site, the sound of pans being hammered can be heard.;がんがん	ガンガン	hammering	onomatopoeia;frequency-10_001-20_000
 頭がガンガンする。;あたま が がんがん する。;My head is pounding.;がんがん	ガンガン	pounding	onomatopoeia;frequency-10_001-20_000
-頭がガンガンする。;あたま が がんがん する。;My head is pounding.;がんがん	ガンガン	irritating	perceived sound;frequency-10_001-20_000
 彼は宿題をガンガン片付けた。;かれ は しゅくだい を がんがん かたづけた。;He tackled his homework vigorously.;がんがん	ガンガン	vigorously	performing an action;frequency-10_001-20_000
 彼のプレゼンテーションはさらっとしていて、わかりやすかった。;かれ の ぷれぜんてーしょん は さらっと していて、わかりやすかった。;His presentation was refreshed and sharp, making it easy to understand.;さらっ	サラッ	refreshed and sharp	feelings;frequency-10_001-20_000
 空気がさらっとしていて、快適な散歩ができました。;くうき が さらっと していて 、かいてき な さんぽ が できました 。;The air was crisply dry, allowing for a comfortable walk.;さらっ	サラッ	crisply dry	physical state	dry;frequency-10_001-20_000
@@ -231,16 +226,13 @@
 今日は天気がサラッとしていて、散歩にぴったりの一日です。;きょう は てんき が さらっ と して いて、さんぽ に ぴったり の いちにち です。;Today the weather is clear and crisp, making it a perfect day for a walk.;さらっ	サラッ	"fresh,dry, crisp"	weather	clear;frequency-10_001-20_000
 彼の左目がひくひくとぴくついている。;かれ の ひだり め が ひくひく と ぴくついている。;His left eye is twitching slightly.;ひくひく	ヒクヒク	twitching	performing an action;frequency-10_001-20_000
 彼女は日本語の本をすらすらと読んでいました。;かのじょ は にほんご の ほん を すらすら と よんで いました。;She was smoothly reading a Japanese book.;すらすら	スラスラ	smoothly	motions;frequency-10_001-20_000
-彼は日本語の本をすらすら読めるようになった。;かれ は にほんご の ほん を すらすら よめる よう に なった。;He has become able to read Japanese books fluently.;すらすら	スラスラ	fluently	performing an action	read;frequency-10_001-20_000
 彼は日本語をすらすら話します。;かれ は にほんご を すらすら はなします。;He speaks Japanese smoothly.;すらすら	スラスラ	smoothly	speech;frequency-10_001-20_000
 教会の鐘がかーんとかまびすしい音を立てた。;きょうかい の かね が かーん と かまびすしい おと を たてた。;The church bell clanged loudly.;かーん	カーン	"""clang"""	onomatopoeia	bells;frequency-10_001-20_000
 鉄が当たると、かーんという音が響きました。;てつ が あたる と、 かーん と いう おと が ひびき ました。 ;When the metal was struck, a clanging sound echoed.;かーん	カーン	clanging	onomatopoeia;frequency-10_001-20_000
 彼は手紙をバリバリと破った。;かれ は てがみ を ばりばり と やぶった。;He ripped the letter into pieces.;ばりばり	バリバリ	ripping something thick	performing an action	ripping;frequency-10_001-20_000
 彼はばりばりと仕事をこなしている。;かれ は ばりばり と しごと を こなして いる。;He is working on his tasks energetically.;ばりばり	バリバリ	"with might, energetically"	work attitude;frequency-10_001-20_000
 雨がぱらぱらと降り始めた。;あめ が ぱらぱら と ふり はじめた。;It started to sprinkle rain.;ぱらぱら	パラパラ	sprinkle (sparsely)	action;frequency-10_001-20_000
-桜の花びらが風にパラパラと舞っていた。;さくら の はなびら が かぜ に ぱらぱら と まっていた。;The cherry blossom petals were fluttering in the wind.;ぱらぱら	パラパラ	"crumble, scatter"	motions	desintegrate;frequency-10_001-20_000
 桜の花びらが風に吹かれて、ぱらぱらと散った。;さくら の はなびら が かぜ に ふかれて 、 ぱらぱら と ちった 。;The cherry blossom petals scattered in the wind.;ぱらぱら	パラパラ	scatter sparsely	motions	disassociate;frequency-10_001-20_000
-ページをめくるとき、子供たちはそれをぱらぱらとめくっていた。;ページ を めくる とき、こどもたち は それ を ぱらぱら と めくっていた。;When flipping pages, the children were turning them quickly, making a flapping sound.;ぱらぱら	パラパラ	flapping	onomatopoeia;frequency-10_001-20_000
 雨が屋根にパラパラと降っている。;あめ が やね に ぱらぱら と ふって いる。;The rain is pattering down on the roof.;ぱらぱら	パラパラ	pelting	onomatopoeia;frequency-10_001-20_000
 彼は雑誌をぱらぱらとめくっていった。;かれ は ざっし を ぱらぱら と めくって いった。;He flip through the magazine.;ぱらぱら	パラパラ	flip through pages	performing an action;frequency-10_001-20_000
 桜の花びらが風にぱらぱらと舞う。;さくら の はなびら が かぜ に ぱらぱら と まう。;Cherry blossoms are scattered in the wind.;ぱらぱら	パラパラ	"scattered, sparse"	spacial orientation;frequency-10_001-20_000
@@ -256,7 +248,6 @@
 彼の机の上はごちゃごちゃだ。;かれ の つくえ の うえ は ごちゃごちゃ だ。;His desk is a mess.;ごちゃごちゃ	ゴチャゴチャ	"be a mess, be confused"	mental state	not with it;frequency-10_001-20_000
 彼らの友情は最近ごちゃごちゃしている。;かれら の ゆうじょう は さいきん ごちゃごちゃ している。;Their friendship has been quite mixed up recently.;ごちゃごちゃ	ゴチャゴチャ	"disordered, mixed up, confused"	personal relations;frequency-10_001-20_000
 部屋の中がごちゃごちゃしていて、新しい服を見つけられなかった。;へや の なか が ごちゃごちゃ していて、 あたらしい ふく を みつけられなかった。;The room was in such a mess that I couldn't find my new clothes.;ごちゃごちゃ	ゴチャゴチャ	"confused, in disorder"	resultant state;frequency-10_001-20_000
-彼の机の上はいつもごちゃごちゃしている。;かれ の つくえ の うえ は いつも ごちゃごちゃ している。;His desk is always mixed up and jumbled.;ごちゃごちゃ	ゴチャゴチャ	"mixed up, jumbled"	spacial orientation;frequency-10_001-20_000
 彼の話はごちゃごちゃしていて、何を言いたいのかよくわからない。;かれ の はなし は ごちゃごちゃ していて 、 なに を いいたい のか よく わからない 。;His speech is all jumbled up, so it's hard to understand what he's trying to say.;ごちゃごちゃ	ゴチャゴチャ	griping about trifling matters	speech;frequency-10_001-20_000
 昼間の電車はがらがらだった。;ひるま の でんしゃ は がらがら だった。;The train was empty during the daytime.;がらがら	ガラガラ	empty (moved out of)	available space;frequency-10_001-20_000
 彼はのどをガラガラ音を立ててうがいします。;かれ は のど を がらがら おと を たてて うがいします 。;He gargles loudly making a gargling sound.;がらがら	ガラガラ	gargling	onomatopoeia;frequency-10_001-20_000
@@ -272,7 +263,6 @@
 彼は怒りでわなわなと震えていました。;かれ は いかり で わなわな と ふるえて いました。;He was trembling with anger.;わなわな	ワナワナ	"trembling in anger, fear or cold"	feelings;frequency-10_001-20_000
 橋がぐらりと傾いた。;はし が ぐらり と かたむいた。;The bridge swayed significantly.;ぐらり	グラリ	in a big swaying motion	performing an action	falling;frequency-10_001-20_000
 彼女は悲しさで涙がぽろぽろとこぼれ落ちた。;かのじょ は かなしさ で なみだ が ぽろぽろ と こぼれ おちた。;Tears tumbled down her cheeks one after the other as she cried in sadness.;ぽろぽろ	ポロポロ	tears tumbling down one after the other	crying;frequency-10_001-20_000
-彼女の目から涙がぽろぽろと零れ落ちた。;かのじょ の め から なみだ が ぽろぽろ と こぼれおちた。;Tears fell in drops from her eyes.;ぽろぽろ	ポロポロ	crumble into pieces	motions	desintegrate;frequency-10_001-20_000
 彼女は別れてから、涙がポロポロと零れ落ちた。;かのじょ は わかれて から、なみだ が ポロポロ と こぼれおちた。;After the breakup, her tears tumbled down like raindrops.;ぽろぽろ	ポロポロ	"tumble down, crumble to nothing"	motions	disassociate;frequency-10_001-20_000
 彼のクッキーはぽろぽろです。;かれ の くっきー は ぽろぽろ です。;His cookies are dry and crumbly.;ぽろぽろ	ポロポロ	dry and crumbly	texture;frequency-10_001-20_000
 壁にカビがポツポツと見え始めた。;かべ に かび が ぽつぽつ と みえ はじめた。;Mold started appearing dotted on the wall.;ぽつぽつ	ポツポツ	dotted with bumps or small holes	form;frequency-10_001-20_000

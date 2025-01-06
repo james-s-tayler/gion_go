@@ -34,14 +34,10 @@
 彼はきちきちと毎朝ジョギングに出かける。;かれ は きちきち と まいあさ ジョギング に でかける 。;He sets out for a jog punctually every morning.;きちきち	キチキチ	"regularly, punctual"	action;frequency-80_001-90_000
 電車はきちきちに満員だったので、次のに乗ることにした。;でんしゃ は きちきち に まんいん だった ので、つぎ の に のる こと に した。;The train was jam-packed, so I decided to take the next one.;きちきち	キチキチ	jam-packed	available space;frequency-80_001-90_000
 彼はいつもきちきちと仕事をしているので、私たちのプロジェクトを任せるのに安心です。;かれは いつも きちきちと しごとを しているので、 わたしたちの プロジェクトを まかせるのに あんしんです。;He always works diligently, so we feel confident entrusting him with our project.;きちきち	キチキチ	not letting [someone] down	personal traits;frequency-80_001-90_000
-彼のワイシャツはいつもきちきちにアイロンかけられている。;かれ の わいしゃつ は いつも きちきち に あいろん かけられている。;His shirt is always ironed to be perfectly crisp.;きちきち	キチキチ	(pure) exact	quantity;frequency-80_001-90_000
 このスーツケースは、きちきちに服が入っています。;この　すーつけーす　は、きちきち　に　ふく　が　はいって　います。;The clothes are packed tightly into this suitcase.;きちきち	キチキチ	"tight, exact"	size;frequency-80_001-90_000
 彼は朝8時にきちきちに到着した。;かれ は あさ はちじ に きちきち に とうちゃく した 。;He arrived exactly at 8 AM.;きちきち	キチキチ	"exactly, just in time"	temporal aspect;frequency-80_001-90_000
 彼は毎朝キチキチに職場に到着します。;かれ は まいあさ きちきち に しょくば に とうちゃく します。;He arrives at the workplace punctually every morning.;きちきち	キチキチ	"regularly, punctualy"	work attitude;frequency-80_001-90_000
 雨がザーザー降っています。;あめ が ざーざー ふって います。;It's pouring rain.;ざーざー	ザーザー	showering down	onomatopoeia	water;frequency-80_001-90_000
-雨がざーざー降っています。;あめ が ざーざー ふっています。;It is pouring rain.;ざーざー	ザーザー	"spraying, pouring"	onomatopoeia;frequency-80_001-90_000
-外の雨はザーザー降っています。;そとの あめは ざーざー ふっています。;The rain outside is pouring down heavily.;ざーざー	ザーザー	showering down (like rain)	state	liquids;frequency-80_001-90_000
-雨がザーザー降っています。;あめ が ざーざー ふっています。;It is raining cats and dogs.;ざーざー	ザーザー	raining cats and dogs	weather	rain;frequency-80_001-90_000
 空き瓶が床に転がって、からころと音を立てた。;あきびん が ゆか に ころがって、からころ と おと を たてた。;The empty bottle rolled on the floor, making a clattering sound.;からころ	カラコロ	clattering	onomatopoeia;frequency-80_001-90_000
 大きな石が山の斜面をゴロッと落ちてきた。;おおき な いし が やま の しゃめん を ごろっ と おちてきた。;A large rock suddenly rolled down the mountain slope.;ごろっ	ゴロッ	"sudden, single, roll"	motions	rolling;frequency-80_001-90_000
 彼は日曜日にソファの上で一日中ゴロッとしています。;かれ は にちようび に ソファ の うえ で いちにちじゅう ゴロッと して います。;He is lying lazily on the sofa all day on Sunday.;ごろっ	ゴロッ	lieing down lazily 	performing an action;frequency-80_001-90_000

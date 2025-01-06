@@ -9,7 +9,6 @@
 枝がぽきっと折れた。;えだ が ぽきっと おれた。;The branch snapped.;ぽきっ	ポキッ	"breaking something dry, fragile"	action	breaking;frequency-90_001-100_000
 彼の腕がポキッと折れてしまった。;かれ の うで が ぽきっ と おれて しまった。;His arm cracked and broke.;ぽきっ	ポキッ	cracking	onomatopoeia;frequency-90_001-100_000
 心臓がドキンドキンと音を立てていた。;しんぞう が どきんどきん と おと を たてて いた。;My heart was pounding loudly and slowly.;どきんどきん	ドキンドキン	a louder and slower throbbing than どきどき	body function;frequency-90_001-100_000
-心臓がドキンドキンと鳴り響く。;しんぞう が どきんどきん と なりひびく 。;My heart thumps loudly with fear.;どきんどきん	ドキンドキン	a thumping heart (of fear)	mental state	scared;frequency-90_001-100_000
 彼女はクッションにちょこなんと座って、静かに本を読んでいました。;かのじょ は くっしょん に ちょこなん と すわって、 しずかに ほん を よんで いました。;She sat snugly on the cushion and read her book quietly.;ちょこなん	チョコナン	snug	performing an action	sitting;frequency-90_001-100_000
 彼女は悲しくて、くすんくすんと泣いていました。;かのじょ は かなしくて、くすんくすん と ないていました。;She was sadly sniffling and crying.;くすんくすん	クスンクスン	sniffing	onomatopoeia	human noises;frequency-90_001-100_000
 遠くで大砲がずずんと鳴った。;とおく で たいほう が ずずん と なった。;In the distance, the cannon went kaboom.;ずずん	ズズン	"""kaboom"""	onomatopoeia	firing guns;frequency-90_001-100_000

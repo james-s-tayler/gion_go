@@ -7,7 +7,6 @@
 突然の音にドキンと心臓が跳ねた。;とつぜん の おと に どきん と しんぞう が はねた。;My heart jumped with a start at the sudden sound.;どきん	ドキン	stunned as if one's heart jumps	mental state	scared;frequency-30_001-40_000
 犬が部屋の隅でクンクン鳴いていました。;いぬ が へや の すみ で くんくん な いて いました。;The dog was whining in the corner of the room.;くんくん	クンクン	whining	onomatopoeia	dog;frequency-30_001-40_000
 お母さんが台所からいい匂いをくんくん嗅ぐ。;おかあさん が だいどころ から いい におい を くんくん かぐ。;Mom sniff-sniffs the nice smell coming from the kitchen.;くんくん	クンクン	sniff sniff	onomatopoeia	human noises;frequency-30_001-40_000
-犬が庭で何かをくんくん嗅いでいる。;いぬ が にわ で なに か を くんくん かいでいる。;The dog is sniffing something in the garden.;くんくん	クンクン	sniff	performing an action;frequency-30_001-40_000
 ロウソクの火がちろちろと燃えている。;ろうそく の ひ が ちろちろ と もえて いる。;The candle flame is flickering gently.;ちろちろ	チロチロ	"small flame, flickering (of a small flame)"	state	fire;frequency-30_001-40_000
 その本は床に ぱたり と落ちた。;その ほん は ゆか に ぱたり と おちた。;The book fell on the floor with a thud.;ぱたり	パタリ	come to a stop	motions;frequency-30_001-40_000
 彼はおめおめ部長のポジションを降りた。;かれ は おめおめ ぶちょう の ぽじしょん を おりた。;He stepped down from his position as manager in unbearable shame.;おめおめ	オメオメ	"unbearable disgrace, unbearable shame"	emotions	shame;frequency-30_001-40_000
@@ -45,7 +44,6 @@
 冷たい風が吹くたびに、背筋がぞくっとした。;つめたい かぜ が ふく たびに、せすじ が ぞくっと した。;Each time the cold wind blew, I felt a shiver down my spine.;ぞくっ	ゾクッ	a momentary shiver of real cold (stronger than ぞくぞく)	feelings	temperature;frequency-30_001-40_000
 彼はじっくりと本を読んでいます。;かれ は じっくり と ほん を よんでいます。;He is intently reading a book.;じっ	ジッ	"to stare hard at something, focus on something"	eye expressions	stare;frequency-30_001-40_000
 彼は一日中じっと考え込んでいた。;かれ は いちにちじゅう じっと かんがえ こんで いた。;He was deep in reflection all day long.;じっ	ジッ	"intent, fixed"	mental actions	reflection;frequency-30_001-40_000
-彼はじっと本を読んでいる。;かれ は じっと ほん を よんで いる。;He is concentrating on reading the book.;じっ	ジッ	"fixed, firm"	performing an action	concentrating;frequency-30_001-40_000
 彼はじっと本を読み続けた。;かれ は じっと ほん を よみつづけた。;He continued to read the book, without moving.;じっ	ジッ	"fixed, motionless"	performing an action;frequency-30_001-40_000
 枝がぷつりと折れた。;えだ が ぷつり と おれた 。;The branch snapped completely.;ぷつり	プツリ	completely sever by snapping/breaking	motions	desintegrate;frequency-30_001-40_000
 サムは電車を乗り越して、駅でまごまごしていた。;さむ は でんしゃ を のりこして、えき で まごまご していた。;Sam missed his stop on the train and was confused at the station.;まごまご	マゴマゴ	"confused, no knowing what to do"	mental state;frequency-30_001-40_000
@@ -165,7 +163,6 @@
 柔らかすぎるお餅はねちねちして、手にくっついて離れない。;やわらかすぎる おもち は ねちねちして、 て に くっついて はなれない。;The overly soft rice cake is sticky and won't come off my hands.;ねちねち	ネチネチ	"sticky, glutinous, stuck"	physical state;frequency-30_001-40_000
 仕事でミスをしてしまい、なんとなくむしゃむしゃしている。;しごと で ミス を して しまい、なんとなく むしゃむしゃ して いる。;I made a mistake at work and I'm feeling a bit vexed and anxious.;むしゃむしゃ	ムシャムシャ	"vexed, fretful, ugly, at a loss of composure (less strong than むしゃくしゃ)"	mood	down;frequency-30_001-40_000
 彼はおにぎりをむしゃむしゃ食べた。;かれ は おにぎり を むしゃむしゃ たべた。;He munched on the rice ball.;むしゃむしゃ	ムシャムシャ	munching	onomatopoeia	human noises;frequency-30_001-40_000
-彼はサンドイッチをむしゃむしゃ食べている。;かれ は さんどいっち を むしゃむしゃ たべて いる。;He is munching on a sandwich.;むしゃむしゃ	ムシャムシャ	munching	performing an action	eating;frequency-30_001-40_000
 この部屋はちんまりしていて、落ち着く。;この へや は ちんまり して いて、 おちつく。;This room is cozy and calming.;ちんまり	チンマリ	"cozy, snug"	spacial orientation;frequency-30_001-40_000
 彼女のすらっとした体が印象的だった。;かのじょ の すらっと した からだ が いんしょうてき だった。;Her slender body was impressive.;すらっ	スラッ	emphatic form of すらり	the body;frequency-30_001-40_000
 彼は急な雨に遭ってびしょびしょになった。;かれ は きゅう な あめ に あって びしょびしょ に なった。;He got caught in a sudden rain and ended up completely soaked.;びしょびしょ	ビショビショ	wet throughout	physical state	wet;frequency-30_001-40_000

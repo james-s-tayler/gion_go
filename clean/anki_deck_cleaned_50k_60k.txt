@@ -9,7 +9,6 @@
 彼のとげとげした態度が、同僚たちを不快にさせた。;かれ の とげとげ した たいど が、 どうりょう たち を ふかい に させた。;His harsh attitude made his colleagues uncomfortable.;とげとげ	トゲトゲ	harsh [expression / attitude]	personal attitude	undesirable;frequency-50_001-60_000
 あの人のとげとげしい言い方がいつも気になる。;あの ひとの とげとげしい いいかたが いつも きになる。;That person's biting way of speaking always bothers me.;とげとげ	トゲトゲ	"biting, sarcastic"	personal traits	undesirable;frequency-50_001-60_000
 彼は椅子にドカッと座った。;かれ は いす に どかっと すわった。;He plopped down into the chair.;どかっ	ドカッ	to plop down	performing an action	sitting;frequency-50_001-60_000
-ドカッと箱が地面に落ちた。;どかっと はこ が じめん に おちた。;The box fell heavily onto the ground.;どかっ	ドカッ	occuring in large number	quantity;frequency-50_001-60_000
 魚が水面をぴたぴた叩く音が聞こえた。;さかな が すいめん を ぴたぴた たたく おと が きこえた。;I heard the sound of fish slapping the water's surface.;ぴたぴた	ピタピタ	slapping	onomatopoeia;frequency-50_001-60_000
 彼女は小さな手でピタピタとドアを叩いた。;かのじょ は ちいさな て で ぴたぴた と どあ を たたいた。;She patted on the door lightly with her small hands.;ぴたぴた	ピタピタ	pat lightly	performing an action;frequency-50_001-60_000
 新しいセーターがぴたぴたとして気持ちいい。;あたらしい せーたー が ぴたぴた と して きもちいい。;The new sweater fits snugly and feels comfortable.;ぴたぴた	ピタピタ	cling tightly	resultant state;frequency-50_001-60_000
@@ -28,7 +27,6 @@
 彼の背骨がメリメリと音を立てて折れた。;かれ の せぼね が めりめり と おと を たてて おれた。;His spine cracked with a 'merimeri' sound.;めりめり	メリメリ	cracking	onomatopoeia;frequency-50_001-60_000
 木が冬の寒さでめりめりとなった。;き が ふゆ の さむさ で めりめり と なった。;The tree creaked under the cold of winter.;めりめり	メリメリ	creaking	onomatopoeia;frequency-50_001-60_000
 彼は試験に落ちてショボンとしている。;かれ は しけん に おちて しょぼん と して いる。;He is feeling down after failing the exam.;しょぼん	ショボン	feeling miserable a moment	mood	down;frequency-50_001-60_000
-彼はテストで落第点を取ってショボンとしていた。;かれ は てすと で らくだいてん を とって しょぼん と して いた。;He was deflated after getting a failing grade on the test.;しょぼん	ショボン	deflated	resultant state;frequency-50_001-60_000
 池にたくさんのアヒルがいて、ぎゃーぎゃーと鳴いていた。;いけ に たくさん の あひる が いて、ぎゃーぎゃー と ないていた。;There were many ducks in the pond, gaggling loudly.;ぎゃーぎゃー	ギャーギャー	gaggling	onomatopoeia	duck;frequency-50_001-60_000
 赤ちゃんはお腹が空いたときギャーギャー泣きます。;あかちゃん は おなか が すいた とき ぎゃーぎゃー なきます。;The baby cries with a high pitch when they're hungry.;ぎゃーぎゃー	ギャーギャー	high pitched crying	onomatopoeia	human noises;frequency-50_001-60_000
 赤ちゃんがギャーギャー泣いている。;あかちゃん が ぎゃーぎゃー ないて いる。;The baby is crying loudly.;ぎゃーぎゃー	ギャーギャー	"""aaaaaaaaaaa!"""	onomatopoeia	human noises;frequency-50_001-60_000
@@ -70,7 +68,6 @@
 彼女は私にぶすりとした顔を向けた。;かのじょ は わたし に ぶすり と した かお を むけた。;She turned a sullen look towards me.;ぶすり	ブスリ	"sullen look, sulky, gloomy"	facial expression;frequency-50_001-60_000
 彼は痛くないようにブスリと注射を打った。;かれ は いたくない ように ぶすり と ちゅうしゃ をうった。;He administered the shot quickly so it wouldn't hurt.;ぶすり	ブスリ	driving a needle through	performing an action	cutting;frequency-50_001-60_000
 彼の手紙には、ぽっちりと涙の跡がありました。;かれ の てがみ には、ぽっちり と なみだ の あと が ありました。;There was a tiny dot of a tear stain on his letter.;ぽっちり	ポッチリ	a single tiny dot	form;frequency-50_001-60_000
-彼はでんでん太鼓を持って遊んでいる。;かれ は でんでん だいこ を もって あそんで いる。;He is playing with a den-den drum.;でんでん	デンデン	drumming	onomatopoeia;frequency-50_001-60_000
 彼はごてごて文句を言い続けた。;かれ は ごてごて もんく を いい つづけた。;He persistently complained.;ごてごて	ゴテゴテ	persistently complaining	speech;frequency-50_001-60_000
 彼女の部屋はゴテゴテに飾られている。;かのじょ の へや は ごてごて に かざられている。;Her room is decorated thickly.;ごてごて	ゴテゴテ	"thickly, heavily (varieties)"	to appear to be;frequency-50_001-60_000
 屋根 から 雨水 が たらりと 垂れ落ちた。;やね から あまみず が たらり と たれおちた。;A single drop of rainwater dripped down from the roof.;たらり	タラリ	a single drop dripping	state	liquids;frequency-50_001-60_000
@@ -101,7 +98,7 @@
 彼は暑さのせいで汗をだくだくとかいていた。;かれ は あつさ の せい で あせ を だくだく と かいて いた。;He was sweating profusely because of the heat.;だくだく	ダクダク	sweating profusely	body function;frequency-50_001-60_000
 汗がだくだくと流れている。;あせ が だく だく と ながれている。;Sweat is gushing down.;だくだく	ダクダク	"gushing, running off"	state	liquids;frequency-50_001-60_000
 天気が暑すぎて、肌がねとねとした感じです。;てんき が あつすぎて、はだ が ねとねと した かんじ です。;The weather is so hot that my skin feels sticky.;ねとねと	ネトネト	"sticky, viscous"	feelings;frequency-50_001-60_000
-その ねばねばした 砂浜を 歩くのは ねとねとして ちょっと 嫌だ。;その ねばねばした すなはま を あるく のは ねとねと して ちょっと いや だ。;Walking on that sticky sand is damp and a bit unpleasant.;ねとねと	ネトネト	"damp, sticky"	physical state	wet;frequency-50_001-60_000
+そのねばねばした砂浜を歩くのはねとねとしてちょっと嫌だ。;その ねばねばした すなはま を あるく のは ねとねと して ちょっと いや だ。;Walking on that sticky sand is damp and a bit unpleasant.;ねとねと	ネトネト	"damp, sticky"	physical state	wet;frequency-50_001-60_000
 彼の手がふにゃりと私の手に触れた時、安心感が心を満たした。;かれ の て が ふにゃり と わたし の て に ふれた とき、あんしん かん が こころ を みたした。;When his hand softly touched mine, a feeling of reassurance filled my heart.;ふにゃり	フニャリ	a momentary feeling of something soft and squishy	feelings;frequency-50_001-60_000
 彼のバッグからガサゴソと音がした。;かれ の ばっぐ から がさごそ と おと が した。;There was a rustling sound coming from his bag.;がさごそ	ガサゴソ	rumbling	onomatopoeia;frequency-50_001-60_000
 雨がざーっと降り始めました。;あめ が ざーっと ふりはじめ ました。;The rain started pouring down.;ざーっ	ザーッ	pouring	onomatopoeia;frequency-50_001-60_000

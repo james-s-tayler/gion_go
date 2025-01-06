@@ -1,7 +1,6 @@
 彼はヒョイヒョイと椅子に飛び乗った。;かれ は ひょいひょい と いす に とびのった。;He hopped lightly onto the chair.;ひょいひょい	ヒョイヒョイ	hopping lightly	performing an action;frequency-40_001-50_000
 彼は新しい仕事をすいすいとこなしている。;かれ は あたらしい しごと を すいすい と こなしている。;He is handling his new job smoothly.;すいすい	スイスイ	"smoothly, orderly"	motions;frequency-40_001-50_000
 彼はプールでスイスイ泳いでいる。;かれ は ぷーる で すいすい およいでいる。;He is swimming smoothly in the pool.;すいすい	スイスイ	moving unobstructed	performing an action	swimming;frequency-40_001-50_000
-彼はすいすいと泳ぎます。;かれ は すいすい と およぎます。;He swims smoothly and effortlessly.;すいすい	スイスイ	flitting	performing an action;frequency-40_001-50_000
 彼の赤ちゃんの手はぐにゃぐにゃで可愛い。;かれ の あかちゃん の て は ぐにゃぐにゃ で かわいい。;His baby's hands are soft and cute.;ぐにゃぐにゃ	グニャグニャ	soft	form;frequency-40_001-50_000
 このソファーは長年の使用でぐにゃぐにゃになった。;この そふぁー は ちょうねん の しよう で ぐにゃぐにゃ に なった。;This sofa has become soft and disfigured after years of use.;ぐにゃぐにゃ	グニャグニャ	"soft, disfigured"	resultant state;frequency-40_001-50_000
 彼は水を一気にごくっと飲んだ。;かれ は みず を いっき に ごくっと のんだ。;He quickly downed the water in one gulp.;ごくっ	ゴクッ	downing a mouthful quickly	performing an action	drinking;frequency-40_001-50_000
@@ -64,7 +63,6 @@
 昨日のプレゼンをころっと忘れちゃった。;きのう の ぷれぜん を ころっと わすれちゃった。;I completely forgot about yesterday's presentation.;ころっ	コロッ	forgetting completely and utterly	mental state;frequency-40_001-50_000
 彼は意見をころっと変えてしまった。;かれ は いけん を ころっと かえて しまった。;He easily changed his opinion.;ころっ	コロッ	easily changed [personality]	personal traits;frequency-40_001-50_000
 彼はころっと亡くなってしまったので驚いた。;かれ は ころっと なくなって しまった ので おどろいた。;I was surprised because he suddenly and abruptly passed away.;ころっ	コロッ	"a sudden, abrupt, death"	physical health	death;frequency-40_001-50_000
-彼の意見はコロッと変わった。;かれ の いけん は ころっと かわった。;His opinion changed completely.;ころっ	コロッ	completely change (suddenly)	resultant state;frequency-40_001-50_000
 彼はとっとと部屋を出て行った。;かれ は とっと と へや を でて いった。;He immediately walked out of the room.;とっと	トット	"to walk, to leave the very instant"	performing an action	walking;frequency-40_001-50_000
 バナナの皮にぬるって滑った。;ば な な の かわ に ぬ るっ て すべった。;I suddenly slid on a banana peel.;ぬるっ	ヌルッ	suddenly sliding	motions;frequency-40_001-50_000
 あの子は階段からすてんと落ちてしまった。;あの こ は かいだん から すてん と おちて しまった。;That child tumbled down the stairs.;すてん	ステン	tumbling a fall	performing an action;frequency-40_001-50_000
@@ -80,8 +78,6 @@
 彼はガムをくちゃくちゃ噛んでいた。;かれ は がむ を くちゃくちゃ かんで いた。;He was noisily chewing gum.;くちゃくちゃ	クチャクチャ	"squelch, press hard"	action;frequency-40_001-50_000
 彼のシャツは洗濯後、くちゃくちゃになった。;かれ の しゃつ は せんたく ご、 くちゃくちゃ に なった。;His shirt became crumpled after washing.;くちゃくちゃ	クチャクチャ	crumpled	form;frequency-40_001-50_000
 彼はくちゃくちゃガムを噛んでいる。;かれ は くちゃくちゃ ガム を かんでいる。;He is chewing gum with a smacking sound.;くちゃくちゃ	クチャクチャ	chewing	onomatopoeia;frequency-40_001-50_000
-彼はガムをくちゃくちゃ噛んでいた。;かれ は がむ を くちゃくちゃ かんで いた。;He was squelching gum.;くちゃくちゃ	クチャクチャ	squelching	onomatopoeia;frequency-40_001-50_000
-彼はガムをくちゃくちゃ噛んでいる。;かれ は がむ を くちゃくちゃ かんで いる。;He is chewing gum noisily.;くちゃくちゃ	クチャクチャ	the sound of chewing	performing an action	eating;frequency-40_001-50_000
 彼は本を読み終えると、紙をくちゃくちゃにした。;かれ は ほん を よみおわる と、 かみ を くちゃくちゃ に した。;After finishing the book, he crumpled the paper.;くちゃくちゃ	クチャクチャ	"out of shape, crumpled"	resultant state;frequency-40_001-50_000
 彼はお酒を飲みすぎて、話がすっかりれろれろだった。;かれ は おさけ を のみすぎて、 はなし が すっかり れろれろ だった。;He drank too much alcohol, and his speech was completely slurred.;れろれろ	レロレロ	"inarticulate, slurred"	speech;frequency-40_001-50_000
 彼は車が通り過ぎたのを見て、さーっと身を隠した。;かれ は くるま が とおりすぎた の を みて、 さーっと み を かくした。;He suddenly hid himself when he saw the car pass by.;さーっ	サーッ	sudden	motions;frequency-40_001-50_000

@@ -10,7 +10,6 @@
 子供たちがプールでざぶざぶ遊んでいます。;こどもたち が プール で ざぶざぶ あそんでいます。;The children are splashing around in the pool.;ざぶざぶ	ザブザブ	splashing	onomatopoeia	water;frequency-60_001-70_000
 彼は風邪をひいて、朝からずっとぐすぐす言っている。;かれ は かぜ を ひいて、あさ から ずっと ぐすぐす いっている。;He caught a cold and has been sniffling all morning.;ぐすぐす	グスグス	sniffling	onomatopoeia	human noises;frequency-60_001-70_000
 彼は寒さでぶるぶるっと震えた。;かれ は さむさ で ぶるぶるっと ふるえた。;He shivered with cold.;ぶるぶるっ	ブルブルッ	"shiver, tremble (due to cold, fear)"	feelings;frequency-60_001-70_000
-寒さに襲われて、彼はぶるぶるっと震えた。;さむさ に おそわれて、かれ は ぶるぶるっと ふるえた。;Attacked by the cold, he shivered.;ぶるぶるっ	ブルブルッ	"shiver, shake"	performing an action;frequency-60_001-70_000
 梅雨の間、服がじとじとして嫌になる。;つゆ の あいだ、ふく が じとじと して いや に なる。;During the rainy season, my clothes feel sticky and it's annoying.;じとじと	ジトジト	to feel sticky with moisture or water	feelings;frequency-60_001-70_000
 今日は雨が降り続いていて、服がジトジトしている。;きょう は あめ が ふりつづいていて 、 ふく が じとじと している 。;It has been raining continuously today, and my clothes feel sticky.;じとじと	ジトジト	sticky	physical state	wet;frequency-60_001-70_000
 ボールがすぽんと弾けて、向こうへ飛んで行った。;ぼーる が すぽん と はじけて、むこう へ とんで いった。;The ball popped with a bouncing force and flew to the other side.;すぽん	スポン	"popping, with a rebounding force"	motions;frequency-60_001-70_000
@@ -44,7 +43,6 @@
 風船がふわりふわりと空へ上がっていきます。;ふうせん が ふわりふわり と そら へ あがって いきます。;The balloon floats softly up into the sky.;ふわりふわり	フワリフワリ	floating softly on the air	motions	floating;frequency-60_001-70_000
 雨が降ると、子供たちは喜んで水たまりをじゃぶじゃぶする。;あめ が ふると、 こども たち は よろこんで みずたまり を じゃぶじゃぶ する。;When it rains, children happily splash around in puddles.;じゃぶじゃぶ	ジャブジャブ	quick splashing	action	splashing;frequency-60_001-70_000
 彼は湖にざぶんと飛び込んだ。;かれ は みずうみ に ざぶん と とびこんだ。;He plunged into the lake with a splash.;ざぶん	ザブン	plunging into water with a splash	action	plunging;frequency-60_001-70_000
-鯉 が 池 に ざぶん と 飛び込んだ。;こい が いけ に ざぶん と とびこんだ。;The carp plunged into the pond with a splash.;ざぶん	ザブン	plunging	action	splashing;frequency-60_001-70_000
 彼は水へと飛び込むとざぶんと大きな音がしました。;かれ は みず へ と とびこむ と ざぶん と おおきな おと が しました。;He jumped into the water, making a big splash with a 'zabun' sound.;ざぶん	ザブン	plunging	onomatopoeia	water;frequency-60_001-70_000
 小鳥がちゅっちゅっと鳴いている。;ことり が ちゅっちゅっ と ないて いる。;The small bird is chirping cheep cheep.;ちゅっちゅっ	チュッチュッ	"cheep, peep"	onomatopoeia	bird;frequency-60_001-70_000
 ドライ葉が風でがさっと落ちた。;どらい は が かぜ で がさっ と おちた。;The dry leaves fell with a thud in the wind.;がさっ	ガサッ	falling off by crumbling (with a thud)	motions	desintegrate;frequency-60_001-70_000

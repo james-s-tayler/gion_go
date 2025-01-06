@@ -5,14 +5,13 @@
 彼女は毎日朝食をきちんと作ります。;かのじょ は まいにち ちょうしょく を きちん と つくります。;She makes breakfast properly every morning.;きちん	キチン	"precisely, properly"	action;frequency-70_001-80_000
 彼はきちんと座って礼儀正しかった。;かれ は きちん と すわって れいぎ ただしかった。;He sat properly and was well-mannered.;きちん	キチン	sitting properly	performing an action	sitting;frequency-70_001-80_000
 彼はきちんとした服装で会議に出席しました。;かれ は きちんと した ふくそう で かいぎ に しゅっせき しました。;He attended the meeting in proper attire.;きちん	キチン	"properly, neat"	personal attire;frequency-70_001-80_000
-彼はきちんとした服装でパーティーに行きました。;かれ は きちんと した ふくそう で ぱーてぃー に いきました。;He went to the party in a properly dressed manner.;きちん	キチン	"properly, orderly, neatly"	resultant state;frequency-70_001-80_000
 子供たちがドサドサと雪の中に飛び込んだ。;こどもたち が どさどさ と ゆき の なか に とびこんだ。;The children jumped into the snow with a series of thudding sounds.;どさどさ	ドサドサ	thudding	onomatopoeia;frequency-70_001-80_000
 彼女のぼってりとした唇が美しかった。;かのじょ の ぼってり と した くちびる が うつくしかった。;Her plump lips looked beautiful.;ぼってり	ボッテリ	"thick, fat, plump"	form;frequency-70_001-80_000
 彼の頬はぼってりとしている。;かれ の ほお は ぼってり と して いる。;His cheeks are plump.;ぼってり	ボッテリ	"plump, chubby"	the body;frequency-70_001-80_000
 その小さな馬はかっかっと草原を駆け抜けた。;その ちいさな うま は かっかっ と そうげん を かけぬけた。;The small horse trotted across the meadow.;かっかっ	カッカッ	trotting	onomatopoeia;frequency-70_001-80_000
 包丁で大根をザクッと切る。;ほうちょう で だいこん を ざくっ と きる。;I slice deep into the radish with a kitchen knife.;ざくっ	ザクッ	cutting deeply	performing an action	cutting;frequency-70_001-80_000
 ひよこがひよひよと鳴いている音が聞こえる。;ひよこ が ひよひよ と ないて いる おと が きこえる。;I can hear the sound of chicks peeping fuzzily.;ひよひよ	ヒヨヒヨ	super fuzzy peeping	onomatopoeia	chick;frequency-70_001-80_000
-枝を ポキポキ 折る 音が 聞こえた。;えだ を ぽきぽき おる おと が きこえた。;I heard the sound of branches breaking.;ぽきぽき	ポキポキ	"repetetively breaking something dry, fragile"	action	breaking;frequency-70_001-80_000
+枝をポキポキ折る音が聞こえた。;えだ を ぽきぽき おる おと が きこえた。;I heard the sound of branches breaking.;ぽきぽき	ポキポキ	"repetetively breaking something dry, fragile"	action	breaking;frequency-70_001-80_000
 彼は小枝をぽきぽき折った。;かれ は こえだ を ぽきぽき おった。;He snapped small twigs.;ぽきぽき	ポキポキ	"snapping small, fragile things"	action	snapping;frequency-70_001-80_000
 彼は指をぽきぽき鳴らした。;かれ は ゆび を ぽきぽき ならした。;He cracked his fingers.;ぽきぽき	ポキポキ	cracking	onomatopoeia;frequency-70_001-80_000
 その野菜はシャキシャキしてとても新鮮です。;その やさい は しゃきしゃき して とても しんせん です。;Those vegetables are brisk and very fresh.;しゃきしゃき	シャキシャキ	"brisk, vigorous"	action;frequency-70_001-80_000
@@ -22,14 +21,12 @@
 猫が寝ていると、ぐーぐーと音がします。;ねこ が ねている と、ぐーぐー と おと が します。;When the cat is sleeping, you can hear a snoring sound.;ぐーぐー	グーグー	snoring	body function	sleep;frequency-70_001-80_000
 お腹がぐーぐー鳴っている。;おなか が ぐーぐー なって いる。;My stomach is growling.;ぐーぐー	グーグー	growling stomach	onomatopoeia	human noises;frequency-70_001-80_000
 子供はぐーぐー寝ている。;こども は ぐーぐー ねて いる。;The child is sleeping soundly.;ぐーぐー	グーグー	sleeping noise	onomatopoeia	human noises;frequency-70_001-80_000
-お腹がぐーぐー鳴って恥ずかしい。;お なか が ぐーぐー なって はずかしい。;My stomach is rumbling and it's embarrassing.;ぐーぐー	グーグー	rumbling	onomatopoeia;frequency-70_001-80_000
 彼女の気持ちに気づいたとたん、心がきゅーんとなった。;かのじょ の きもち に きづいた とたん、こころ が きゅーん と なった。;The moment I realized how she felt, my heart was struck with a strong emotion.;きゅーん	キューン	a strong emotion set off by a touching scene or pathetic sight	emotions;frequency-70_001-80_000
 枝が折れると、パキッと音がしました。;えだ が おれる と、 ぱきっ と おと が しました。;There was a snapping sound when the branch broke.;ぱきっ	パキッ	snap	action	snapping;frequency-70_001-80_000
 彼女たちは昼休みにカフェでぺちゃくちゃ話していた。;かのじょ たち は ひるやすみ に カフェ で ぺちゃくちゃ はなしていた。;They were chattering away at the café during their lunch break.;ぺちゃくちゃ	ペチャクチャ	"chatter, babble (in voices less dull than べちゃくちゃ)"	speech;frequency-70_001-80_000
 プリンがたべられてしまって、彼はぷーんとしている。;ぷりん が たべられて しまって、かれ は ぷーん と して いる。;He was peeved because someone ate his pudding.;ぷーん	プーン	"look angry, look peeved"	emotions	anger;frequency-70_001-80_000
 彼女は彼の冗談にプーンと怒っていた。;かのじょ は かれ の じょうだん に ぷーん と おこっていた。;She was peeved at his joke.;ぷーん	プーン	"peeved, angry"	facial expression	anger;frequency-70_001-80_000
 猫がどてっとソファに座っている。;ねこ が どてっと そふぁ に すわっている。;The cat is sitting lethargically on the sofa.;どてっ	ドテッ	sitting lethargically	performing an action	sitting;frequency-70_001-80_000
-彼はどてっとソファに倒れ込んだ。;かれ は どてっと ソファに たおれこんだ。;He collapsed onto the sofa with a thud and stayed there.;どてっ	ドテッ	"to collapse, to fall over and stay there (lethargically)"	performing an action;frequency-70_001-80_000
 彼の言葉は、突然どどっと心に響きました。;かれ の ことば は、とつぜん どどっと こころ に ひびきました。;His words suddenly resonated powerfully in my heart.;どどっ	ドドッ	burst with force	motions;frequency-70_001-80_000
 滝の水の音がどどっと響き渡った。;たき の みず の おと が どどっと ひびきわたった。;The sound of the waterfall roared loudly.;どどっ	ドドッ	roaring	onomatopoeia	water;frequency-70_001-80_000
 獅子がどどっと吠えた。;しし が どどっと ほえた 。;The lion roared loudly.;どどっ	ドドッ	roaring	onomatopoeia;frequency-70_001-80_000

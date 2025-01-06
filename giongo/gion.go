@@ -15,7 +15,8 @@ func main() {
 
 	application, err := New(*inputFileStartingLine, *inputFileName, *outputFileName)
 	if err != nil {
-		panic(err.Error())
+		fmt.Printf("Error while instantiating the application: %v", err.Error())
+		return
 	}
 
 	application.GenerateExamples()
