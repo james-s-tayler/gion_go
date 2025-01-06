@@ -1,0 +1,73 @@
+頭がずきんずきん痛む。;あたま が ずきんずきん いたむ。;My head throbs with pain.;ずきんずきん	ズキンズキン	continuous throbbing pain	feelings	pain;frequency-90_001-100_000
+馬がひんひんと泣いている。;うま が ひんひん と ないて いる。;The horse is whining.;ひんひん	ヒンヒン	whine	onomatopoeia	horse;frequency-90_001-100_000
+注射が腕にチクンと刺さった。;ちゅうしゃ が うで に ちくん と ささった。;The injection gave a single sting when it was jabbed into my arm.;ちくん	チクン	single sting	performing an action	stabbing;frequency-90_001-100_000
+彼女の頬を涙がぽとんと落ちた。;かのじょ の ほほ を なみだ が ぽとん と おちた。;A teardrop fell gently from her cheek.;ぽとん	ポトン	the sound of a light teardrop hitting a surface	crying;frequency-90_001-100_000
+雨の雫が葉からぽとんと落ちた。;あめ の しずく が は から ぽとん と おちた。;A raindrop dropped from the leaf.;ぽとん	ポトン	a small drop dropping	state	liquids;frequency-90_001-100_000
+彼らはつーかーな友達で、言わなくても分かり合える。;かれらは つーかーな ともだちで、 いわなくても わかりあえる。;They are on the same frequency as friends and can understand each other without words.;つーかー	ツーカー	on the same frequency	personal relations;frequency-90_001-100_000
+馬が道をパカパカと歩いている。;うま が みち を ぱかぱか と あるいている。;The horse is trotting down the road.;ぱかぱか	パカパカ	trotting	onomatopoeia;frequency-90_001-100_000
+子猫がとっとっと歩いている。;こねこ が とっとっと あるいて いる。;The kitten is walking with small, rapid steps.;とっとっ	トットッ	"small, rapid steps"	performing an action	walking;frequency-90_001-100_000
+枝がぽきっと折れた。;えだ が ぽきっと おれた。;The branch snapped.;ぽきっ	ポキッ	"breaking something dry, fragile"	action	breaking;frequency-90_001-100_000
+彼の腕がポキッと折れてしまった。;かれ の うで が ぽきっ と おれて しまった。;His arm cracked and broke.;ぽきっ	ポキッ	cracking	onomatopoeia;frequency-90_001-100_000
+心臓がドキンドキンと音を立てていた。;しんぞう が どきんどきん と おと を たてて いた。;My heart was pounding loudly and slowly.;どきんどきん	ドキンドキン	a louder and slower throbbing than どきどき	body function;frequency-90_001-100_000
+心臓がドキンドキンと鳴り響く。;しんぞう が どきんどきん と なりひびく 。;My heart thumps loudly with fear.;どきんどきん	ドキンドキン	a thumping heart (of fear)	mental state	scared;frequency-90_001-100_000
+彼女はクッションにちょこなんと座って、静かに本を読んでいました。;かのじょ は くっしょん に ちょこなん と すわって、 しずかに ほん を よんで いました。;She sat snugly on the cushion and read her book quietly.;ちょこなん	チョコナン	snug	performing an action	sitting;frequency-90_001-100_000
+彼女は悲しくて、くすんくすんと泣いていました。;かのじょ は かなしくて、くすんくすん と ないていました。;She was sadly sniffling and crying.;くすんくすん	クスンクスン	sniffing	onomatopoeia	human noises;frequency-90_001-100_000
+遠くで大砲がずずんと鳴った。;とおく で たいほう が ずずん と なった。;In the distance, the cannon went kaboom.;ずずん	ズズン	"""kaboom"""	onomatopoeia	firing guns;frequency-90_001-100_000
+地震が始まり、建物がズズンと揺れました。;じしん が はじまり、 たてもの が ずずん と ゆれました。;The earthquake started, and the building shook heavily.;ずずん	ズズン	shuddering	onomatopoeia;frequency-90_001-100_000
+ズズンと雷が落ちた。;ずずん と かみなり が おちた。;The thunder crashed down loudly.;ずずん	ズズン	thundering	onomatopoeia;frequency-90_001-100_000
+揚げ物をたくさん食べた後、口の中がギトギトしている。;あげものを たくさん たべた あと、くちの なかが ギトギトしている。;After eating a lot of fried food, my mouth feels all sticky and greasy.;ぎとぎと	ギトギト	feeling sticky and greasy from oil	feelings;frequency-90_001-100_000
+そのラーメンのスープはぎとぎとしている。;その らーめん の すーぷ は ぎとぎと して いる。;The soup of that ramen is greasy.;ぎとぎと	ギトギト	"sticky, greasy"	physical state	sticky;frequency-90_001-100_000
+昨日の夜、田中さんはベロンベロンに酔っ払っていた。;きのう の よる、たなかさん は べろんべろん に よっぱらって いた。;Last night, Mr. Tanaka was stupendously drunk.;べろんべろん	ベロンベロン	"stupendously drunk, stronger form of べろべろ"	body function	drunk;frequency-90_001-100_000
+彼は池の中に石を落として、どぶんと音がした。;かれ は いけ の なか に いし を おとして、 どぶん と おと が した。;He dropped a stone into the pond, and there was a plopping sound.;どぶん	ドブン	to plop into water	action	plunging;frequency-90_001-100_000
+大きな石が池に落ちてドブンと音がした。;おおきな いし が いけ に おちて どぶん と おと が した。;A big stone fell into the pond with a 'plop' sound.;どぶん	ドブン	plopping	onomatopoeia;frequency-90_001-100_000
+夏の午後、セミがじーじーと鳴いていた。;なつ の ごご、 せみ が じーじー と ないて いた。;On a summer afternoon, the cicadas were chirping.;じーじー	ジージー	chirping	onomatopoeia	cicada;frequency-90_001-100_000
+蜂がジージーと鳴いている。;はち が じーじー と な いている。;The bees are buzzing.;じーじー	ジージー	buzzing	onomatopoeia;frequency-90_001-100_000
+彼女はしゃなりしゃなりと歩いた。;かのじょ は しゃなりしゃなり と あるいた。;She walked in an affected manner.;しゃなりしゃなり	シャナリシャナリ	affected	performing an action	walking;frequency-90_001-100_000
+ドアを閉めると、がしゃっと大きな音がした。;ドア を しめる と、 がしゃっと おおきな おと が した。;When I closed the door, there was a loud crunching sound.;がしゃっ	ガシャッ	crunching	onomatopoeia;frequency-90_001-100_000
+彼はドアにごつっと頭をぶつけた。;かれ は ドア に ごつっ と あたま を ぶつけた。;He bumped his head against the door with a thud.;ごつっ	ゴツッ	the sound of bumping into something hard	action	hitting something;frequency-90_001-100_000
+彼はプールにザンブと飛び込んだ。;かれ は ぷーる に ざんぶ と とびこんだ。;He plunged into the pool with a big splash.;ざんぶ	ザンブ	something big/heavy plunging into water	action	plunging;frequency-90_001-100_000
+彼は湖にざんぶと飛び込んだ。;かれ は みずうみ に ざんぶ と とびこんだ。;He plunged into the lake with a splash.;ざんぶ	ザンブ	plunging	onomatopoeia	water;frequency-90_001-100_000
+ひよこが ぴよぴよ と 鳴いています。;ひよこ が ぴよぴよ と ないて います。;The chick is peeping loudly.;ぴよぴよ	ピヨピヨ	fuzzy peeping	onomatopoeia	chick;frequency-90_001-100_000
+彼の髪がぼーぼーに伸びている。;かれ の かみ が ぼーぼー に のびている。;His hair has grown shaggy.;ぼーぼー	ボーボー	shaggy	hair;frequency-90_001-100_000
+キャンプファイヤーがぼーぼー燃えている。;キャンプ ファイヤー が ぼーぼー もえて いる。;The campfire is blazing.;ぼーぼー	ボーボー	blazing	onomatopoeia	fire;frequency-90_001-100_000
+山は火がぼーぼーと燃えていた。;やま は ひ が ぼーぼー と もえて いた。;The fire was blazing and crackling on the mountain.;ぼーぼー	ボーボー	"blazing, emitting crackling noises"	state	fire;frequency-90_001-100_000
+このゼリーを触った瞬間、ぐにゃっとした感触が広がった。;この ぜりー を さわった しゅんかん 、 ぐにゃっと した かんしょく が ひろがった 。;The moment I touched the jelly, a squishy feeling spread.;ぐにゃっ	グニャッ	the first impression of touching something squishy	feelings;frequency-90_001-100_000
+プレゼントの包装紙をベリベリと破り取った。;ぷれぜんとの ほうそうしを べりべりと やぶりとった。;I ripped off the wrapping paper of the present.;べりべり	ベリベリ	tear/rip something that's stuck on something	performing an action	ripping;frequency-90_001-100_000
+宿題をきちんきちんと終わらせた。;しゅくだい を きちんきちん と おわらせた。;I finished my homework precisely and properly.;きちんきちん	キチンキチン	"precisely, properly"	action;frequency-90_001-100_000
+彼女はお金の問題をきちんきちんと管理しています。;かのじょ は おかね の もんだい を きちん きちん と かんり して います。;She manages money issues precisely and regularly.;きちんきちん	キチンキチン	"precisely, regularly"	money issues;frequency-90_001-100_000
+小さな弾丸はヒュルヒュルと飛んでいった。;ちいさな だんがん は ひゅるひゅる と とんで いった。;The small bullet flew by with a wizzzz.;ひゅるひゅる	ヒュルヒュル	"""wizzzz"""	onomatopoeia	flying bullet;frequency-90_001-100_000
+風がヒュルヒュルと吹いている。;かぜ が ひゅるひゅる と ふいている。;The wind is whizzing.;ひゅるひゅる	ヒュルヒュル	whizzing	onomatopoeia;frequency-90_001-100_000
+彼の絵はこてこてに塗られていて、印象的だった。;かれ の え は こてこて に ぬられて いて、 いんしょうてき だった。;His painting was excessively coated and was quite impressive.;こてこて	コテコテ	"excessively, heavily, profusely (painting)"	to appear to be;frequency-90_001-100_000
+彼は走った後、ぜーぜーと息をしていた。;かれ は はしった あと、 ぜーぜー と いき を して いた。;After running, he was wheezing.;ぜーぜー	ゼーゼー	wheezing	onomatopoeia	human noises;frequency-90_001-100_000
+彼は給料日前はいつもあっぷあっぷです。;かれ は きゅうりょうび まえ は いつも あっぷあっぷ です 。;He is always struggling to stay afloat financially before payday.;あっぷあっぷ	アップアップ	to struggle to stay afloat	money issues;frequency-90_001-100_000
+彼は水泳の練習が激しすぎて、プールサイドに上がったときにあっぷあっぷしていた。;かれ は すいえい の れんしゅう が はげし すぎて、 プール サイド に あがった とき に あっぷ あっぷ していた。;He was gasping for air when he got out of the pool because his swimming practice was too intense.;あっぷあっぷ	アップアップ	gasping for air	onomatopoeia	human noises;frequency-90_001-100_000
+彼は泳ぎながらあっぷあっぷしている。;かれ は およぎ ながら あっぷ あっぷ して いる。;He is gasping for air while swimming.;あっぷあっぷ	アップアップ	gasping for air	performing an action;frequency-90_001-100_000
+彼は締め切りに追われて、あっぷあっぷしている。;かれ は しめきり に おわれて、あっぷあっぷ している。;He is struggling to stay afloat with the pressure of deadlines.;あっぷあっぷ	アップアップ	to struggle to stay afloat	work pressure;frequency-90_001-100_000
+水がバケツから落ちて、床にボタリと音を立てた。;みず が ばけつ から おちて、ゆか に ぼたり と おと を たてた。;The water fell from the bucket and made a splattering sound on the floor.;ぼたり	ボタリ	a heavy drop falling and splattering when hitting	state	liquids;frequency-90_001-100_000
+猫がにゃーにゃー鳴いています。;ねこ が にゃー にゃー ない て い ます。;The cat is meowing.;にゃーにゃー	ニャーニャー	mow	onomatopoeia	cat;frequency-90_001-100_000
+赤ちゃんはおんおんと泣き始めた。;あかちゃん は おんおん と なきはじめた 。;The baby started crying loudly.;おんおん	オンオン	cry loudly	emotions	crying;frequency-90_001-100_000
+赤ちゃんがオンオン泣いています。;あかちゃん が おんおん な いて います。;The baby is crying loudly.;おんおん	オンオン	crying	onomatopoeia	human noises;frequency-90_001-100_000
+彼は猫の毛でくしゃみをして「はくしょん！」と叫びました。;かれ は ねこ の け で くしゃみ を して はくしょん と さけびました。;He sneezed because of the cat fur and shouted 'achoo!'.;はくしょん	ハクション	"""achoo!"""	onomatopoeia	human noises;frequency-90_001-100_000
+彼は小枝をぽきんと折った。;かれ は こえだ を ぽきん と おった。;He snapped the twig with a pop.;ぽきん	ポキン	"breaking something dry, fragile"	action	breaking;frequency-90_001-100_000
+彼は試験でけちょんけちょんにやられてしまった。;かれ は しけん で けちょんけちょん に やられて しまった。;He took a beating in the exam.;けちょんけちょん	ケチョンケチョン	to take a beating	mental state;frequency-90_001-100_000
+魚が水面から跳ねて、ぴちっと水に戻った。;さかな が すいめん から はねて、ぴちっ と みず に もどった。;The fish leaped out of the water and splashed back in with a 'pichi' sound.;ぴちっ	ピチッ	the kind of thing a fish does by popping out of the water and falling back in	performing an action;frequency-90_001-100_000
+このシャツはぴちっとしている。;この しゃつ は ぴちっと して いる。;This shirt is tight fitting.;ぴちっ	ピチッ	tight	resultant state;frequency-90_001-100_000
+油が熱くなると、フライパンでピチッと音がした。;あぶら が あつく なる と、 ふらいぱん で ぴちっ と おと が した。;When the oil got hot, it made a spattering sound in the frying pan.;ぴちっ	ピチッ	spatter	state	liquids;frequency-90_001-100_000
+雨の中でピクニックに行って、サンドイッチがぐじゃぐじゃになりました。;あめ の なか で ぴくにっく に いって、さんどいっち が ぐじゃぐじゃ に なりました。;We went for a picnic in the rain, and the sandwiches became soggy.;ぐじゃぐじゃ	グジャグジャ	soggy	resultant state;frequency-90_001-100_000
+子供が玩具のボックスからすぽりと消しゴムを取り出した。;こども が おもちゃ の ぼっくす から すぽり と けしごむ を とりだした。;The child popped out an eraser from the toy box.;すぽり	スポリ	pop out	motions;frequency-90_001-100_000
+彼の手が帽子で頭をすぽりと覆った。;かれ の て が ぼうし で あたま を すぽり と おおった。;His hand covered his head completely with the hat.;すぽり	スポリ	cover with something	motions;frequency-90_001-100_000
+その新しい素材は疲れた後も形が崩れず、くにゃくにゃしている。;その あたらしい そざい は つかれた あと も かたち が くずれず、くにゃくにゃ している。;The new material stays soft and flexible without losing its shape even after wear.;くにゃくにゃ	クニャクニャ	"soft, flexible, supple"	form;frequency-90_001-100_000
+彼はバランスボールの上でくにゃくにゃと演技をしていた。;かれ は ばらんすぼーる の うえ で くにゃくにゃ と えんぎ を していた。;He was performing a bending and flexing act on top of a balance ball.;くにゃくにゃ	クニャクニャ	bending while flexing the body	performing an action;frequency-90_001-100_000
+その子猫はくにゃくにゃと手の中で動いている。;その こねこ は くにゃくにゃ と て の なか で うごいている。;The kitten is wiggling in my hands.;くにゃくにゃ	クニャクニャ	wiggling	performing an action;frequency-90_001-100_000
+彼は毎日くにゃくにゃで決められない。;かれ は まいにち くにゃくにゃ で きめられない。;He is fickle every day and can't make decisions.;くにゃくにゃ	クニャクニャ	"fickle, irresolute"	personal traits	undesirable;frequency-90_001-100_000
+新幹線がビューンと走り去った。;しんかんせん が びゅーん と はしりさった。;The bullet train zoomed past with a whizzing sound.;びゅーん	ビューン	whizzing	onomatopoeia;frequency-90_001-100_000
+食べた時、チョコレートバーの中にジャリッという食感があった。;たべた とき、チョコレートバー の なか に じゃりっ という しょっかん が あった。;When I ate it, there was a gritty sensation inside the chocolate bar.;じゃりっ	ジャリッ	"a momentary sensation of something sandy, gritty"	texture;frequency-90_001-100_000
+彼は宿題をさっさと終わらせた。;かれは しゅくだいを さっさと おわらせた。;He finished his homework quickly.;さっさ	サッサ	quickly	action;frequency-90_001-100_000
+彼はさっさと歩いて駅に向かった。;かれ は さっさ と あるいて えき に むかった。;He walked quickly towards the station.;さっさ	サッサ	"quickly, hastily"	performing an action	walking;frequency-90_001-100_000
+彼はたくさん走った後、はーはーと息をしていました。;かれ は たくさん はしった あと、 はーはー と いき を していました。;After running a lot, he was breathing with a 'haa-haa' sound.;はーはー	ハーハー	panting open mouthed	body function;frequency-90_001-100_000
+彼は山の頂上に着くと、そのまま草に倒れ込んで「ハーハー」と息をついた。;かれ は やま の ちょうじょう に つく と、そのまま くさ に たおれこんで「はーはー」と いき を ついた。;When he reached the mountain peak, he collapsed onto the grass, panting heavily.;はーはー	ハーハー	panting	onomatopoeia	human noises;frequency-90_001-100_000
+池に石を投げたら、水が大きくぱしゃんと音を立てた。;いけ に いし を なげたら、 みず が おおきく ぱしゃん と おと を たてた。;When I threw a stone into the pond, the water splashed with a loud 'pashan' sound.;ぱしゃん	パシャン	the impact of a forcefull splash	action	splashing;frequency-90_001-100_000
+風が吹くと、ふわーっと髪が揺れた。;かぜ が ふく と、ふわーっと かみ が ゆれた。;When the wind blew, my hair swayed gently.;ふわーっ	フワーッ	"a momentary light, soft sensation"	feelings;frequency-90_001-100_000
+友達がパーティーで飲みすぎて、げろげろと吐いていた。;ともだち が ぱーてぃー で のみすぎて、げろげろ と はいていた。;My friend drank too much at the party and was continuously throwing up.;げろげろ	ゲロゲロ	to continuously throw up	body function;frequency-90_001-100_000
+風が吹いて、木の枝がゆらっと揺れた。;かぜ が ふいて、き の えだ が ゆらっと ゆれた。;The wind blew, and the tree branch swung abruptly.;ゆらっ	ユラッ	"a single, abrupt swing"	motions	swinging;frequency-90_001-100_000
+彼の背の高さがにょっきと目立った。;かれ の せ の たかさ が にょっき と めだった。;His height stood out conspicuously.;にょっき	ニョッキ	standing out conspicuously	spacial orientation;frequency-90_001-100_000

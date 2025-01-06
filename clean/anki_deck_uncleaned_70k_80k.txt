@@ -1,0 +1,95 @@
+彼は古い壁紙をそっとぺろんとはがした。;かれ は ふるい かべがみ を そっと ぺろん と はがした。;He gently peeled away the old wallpaper.;ぺろん	ペロン	peel away	action;frequency-70_001-80_000
+彼は面接中ずっとペロンとした顔をしていた。;かれ は めんせつ ちゅう ずっと ぺろん と した かお を していた。;He had an emotionless look throughout the interview.;ぺろん	ペロン	looking emotionless	facial expression;frequency-70_001-80_000
+子猫は手をぺろんと舐めた。;こねこ は て を ぺろんと なめた。;The kitten briefly licked its paw.;ぺろん	ペロン	"stick out one's tongue, to briefly lick"	performing an action;frequency-70_001-80_000
+彼の顔はぷつぷつのにきびがいっぱいだ。;かれ の かお は ぷつぷつ の にきび が いっぱい だ。;His face is covered with bumpy acne.;ぷつぷつ	プツプツ	"bumpy, dimpled"	form;frequency-70_001-80_000
+彼女は毎日朝食をきちんと作ります。;かのじょ は まいにち ちょうしょく を きちん と つくります。;She makes breakfast properly every morning.;きちん	キチン	"precisely, properly"	action;frequency-70_001-80_000
+彼はきちんと座って礼儀正しかった。;かれ は きちん と すわって れいぎ ただしかった。;He sat properly and was well-mannered.;きちん	キチン	sitting properly	performing an action	sitting;frequency-70_001-80_000
+彼はきちんとした服装で会議に出席しました。;かれ は きちんと した ふくそう で かいぎ に しゅっせき しました。;He attended the meeting in proper attire.;きちん	キチン	"properly, neat"	personal attire;frequency-70_001-80_000
+彼はきちんとした服装でパーティーに行きました。;かれ は きちんと した ふくそう で ぱーてぃー に いきました。;He went to the party in a properly dressed manner.;きちん	キチン	"properly, orderly, neatly"	resultant state;frequency-70_001-80_000
+子供たちがドサドサと雪の中に飛び込んだ。;こどもたち が どさどさ と ゆき の なか に とびこんだ。;The children jumped into the snow with a series of thudding sounds.;どさどさ	ドサドサ	thudding	onomatopoeia;frequency-70_001-80_000
+彼女のぼってりとした唇が美しかった。;かのじょ の ぼってり と した くちびる が うつくしかった。;Her plump lips looked beautiful.;ぼってり	ボッテリ	"thick, fat, plump"	form;frequency-70_001-80_000
+彼の頬はぼってりとしている。;かれ の ほお は ぼってり と して いる。;His cheeks are plump.;ぼってり	ボッテリ	"plump, chubby"	the body;frequency-70_001-80_000
+その小さな馬はかっかっと草原を駆け抜けた。;その ちいさな うま は かっかっ と そうげん を かけぬけた。;The small horse trotted across the meadow.;かっかっ	カッカッ	trotting	onomatopoeia;frequency-70_001-80_000
+包丁で大根をザクッと切る。;ほうちょう で だいこん を ざくっ と きる。;I slice deep into the radish with a kitchen knife.;ざくっ	ザクッ	cutting deeply	performing an action	cutting;frequency-70_001-80_000
+ひよこがひよひよと鳴いている音が聞こえる。;ひよこ が ひよひよ と ないて いる おと が きこえる。;I can hear the sound of chicks peeping fuzzily.;ひよひよ	ヒヨヒヨ	super fuzzy peeping	onomatopoeia	chick;frequency-70_001-80_000
+枝を ポキポキ 折る 音が 聞こえた。;えだ を ぽきぽき おる おと が きこえた。;I heard the sound of branches breaking.;ぽきぽき	ポキポキ	"repetetively breaking something dry, fragile"	action	breaking;frequency-70_001-80_000
+彼は小枝をぽきぽき折った。;かれ は こえだ を ぽきぽき おった。;He snapped small twigs.;ぽきぽき	ポキポキ	"snapping small, fragile things"	action	snapping;frequency-70_001-80_000
+彼は指をぽきぽき鳴らした。;かれ は ゆび を ぽきぽき ならした。;He cracked his fingers.;ぽきぽき	ポキポキ	cracking	onomatopoeia;frequency-70_001-80_000
+その野菜はシャキシャキしてとても新鮮です。;その やさい は しゃきしゃき して とても しんせん です。;Those vegetables are brisk and very fresh.;しゃきしゃき	シャキシャキ	"brisk, vigorous"	action;frequency-70_001-80_000
+このサラダのレタスはしゃきしゃきしていて、とてもおいしいです。;この さらだ の れたす は しゃきしゃき していて 、 とても おいしい です 。;The lettuce in this salad is crunchy and very delicious.;しゃきしゃき	シャキシャキ	crunchy (vegetable or fruit)	texture;frequency-70_001-80_000
+彼女はしゃきしゃき仕事をこなしている。;かのじょ は しゃきしゃき しごと を こなして いる。;She is working efficiently and getting tasks done briskly.;しゃきしゃき	シャキシャキ	to work driven and efficiently 	work attitude;frequency-70_001-80_000
+彼は会議でぶりぶり怒った。;かれ は かいぎ で ぶりぶり おこった。;He fumed with anger during the meeting.;ぶりぶり	ブリブリ	"fume, fret (stronger than ぷりぷり)"	emotions	anger;frequency-70_001-80_000
+猫が寝ていると、ぐーぐーと音がします。;ねこ が ねている と、ぐーぐー と おと が します。;When the cat is sleeping, you can hear a snoring sound.;ぐーぐー	グーグー	snoring	body function	sleep;frequency-70_001-80_000
+お腹がぐーぐー鳴っている。;おなか が ぐーぐー なって いる。;My stomach is growling.;ぐーぐー	グーグー	growling stomach	onomatopoeia	human noises;frequency-70_001-80_000
+子供はぐーぐー寝ている。;こども は ぐーぐー ねて いる。;The child is sleeping soundly.;ぐーぐー	グーグー	sleeping noise	onomatopoeia	human noises;frequency-70_001-80_000
+お腹がぐーぐー鳴って恥ずかしい。;お なか が ぐーぐー なって はずかしい。;My stomach is rumbling and it's embarrassing.;ぐーぐー	グーグー	rumbling	onomatopoeia;frequency-70_001-80_000
+彼女の気持ちに気づいたとたん、心がきゅーんとなった。;かのじょ の きもち に きづいた とたん、こころ が きゅーん と なった。;The moment I realized how she felt, my heart was struck with a strong emotion.;きゅーん	キューン	a strong emotion set off by a touching scene or pathetic sight	emotions;frequency-70_001-80_000
+枝が折れると、パキッと音がしました。;えだ が おれる と、 ぱきっ と おと が しました。;There was a snapping sound when the branch broke.;ぱきっ	パキッ	snap	action	snapping;frequency-70_001-80_000
+彼女たちは昼休みにカフェでぺちゃくちゃ話していた。;かのじょ たち は ひるやすみ に カフェ で ぺちゃくちゃ はなしていた。;They were chattering away at the café during their lunch break.;ぺちゃくちゃ	ペチャクチャ	"chatter, babble (in voices less dull than べちゃくちゃ)"	speech;frequency-70_001-80_000
+プリンがたべられてしまって、彼はぷーんとしている。;ぷりん が たべられて しまって、かれ は ぷーん と して いる。;He was peeved because someone ate his pudding.;ぷーん	プーン	"look angry, look peeved"	emotions	anger;frequency-70_001-80_000
+彼女は彼の冗談にプーンと怒っていた。;かのじょ は かれ の じょうだん に ぷーん と おこっていた。;She was peeved at his joke.;ぷーん	プーン	"peeved, angry"	facial expression	anger;frequency-70_001-80_000
+猫がどてっとソファに座っている。;ねこ が どてっと そふぁ に すわっている。;The cat is sitting lethargically on the sofa.;どてっ	ドテッ	sitting lethargically	performing an action	sitting;frequency-70_001-80_000
+彼はどてっとソファに倒れ込んだ。;かれ は どてっと ソファに たおれこんだ。;He collapsed onto the sofa with a thud and stayed there.;どてっ	ドテッ	"to collapse, to fall over and stay there (lethargically)"	performing an action;frequency-70_001-80_000
+彼の言葉は、突然どどっと心に響きました。;かれ の ことば は、とつぜん どどっと こころ に ひびきました。;His words suddenly resonated powerfully in my heart.;どどっ	ドドッ	burst with force	motions;frequency-70_001-80_000
+滝の水の音がどどっと響き渡った。;たき の みず の おと が どどっと ひびきわたった。;The sound of the waterfall roared loudly.;どどっ	ドドッ	roaring	onomatopoeia	water;frequency-70_001-80_000
+獅子がどどっと吠えた。;しし が どどっと ほえた 。;The lion roared loudly.;どどっ	ドドッ	roaring	onomatopoeia;frequency-70_001-80_000
+川の水がどどっと流れ出した。;かわ の みず が どどっと ながれだした。;The river's water gushed out all of a sudden.;どどっ	ドドッ	gushing all of a sudden	state	liquids;frequency-70_001-80_000
+彼女は上司に挨拶するためにぺこっとお辞儀をした。;かのじょ は じょうし に あいさつ する ため に ぺこっと おじぎ を した。;She made a quick bow to greet her boss.;ぺこっ	ペコッ	making a quick bow	performing an action;frequency-70_001-80_000
+彼のちゃらんぽらんな態度にはもう我慢できない。;かれ の ちゃらんぽらん な たいど に は もう がまん できない 。;I can't tolerate his irresponsible attitude anymore.;ちゃらんぽらん	チャランポラン	irresponsible	personal traits	undesirable;frequency-70_001-80_000
+彼は試験勉強を全くしないで、ちゃらんぽらんに答えた。;かれ は しけん べんきょう を まったく しない で、ちゃらんぽらん に こたえた。;He didn't study for the exam at all and answered off-hand.;ちゃらんぽらん	チャランポラン	"off-hand, irresponsible"	speech;frequency-70_001-80_000
+彼女たちはカフェでぺちゃぺちゃとおしゃべりをしている。;かのじょたちは かふぇで ぺちゃぺちゃと おしゃべりを している。;They are chattering away at the café.;ぺちゃぺちゃ	ペチャペチャ	"chatter, babble (in voices less dull than べちゃべちゃ)"	speech;frequency-70_001-80_000
+そのじょうろが水をしゅっしゅっと出す。;その じょうろ が みず を しゅっしゅっ と だす。;The watering can spurts out water.;しゅっしゅっ	シュッシュッ	spurting	onomatopoeia;frequency-70_001-80_000
+カエルが水の中にドボンと入りました。;かえる が みず の なか に ド ボン と はいりました。;The frog plunged into the water with a small plop.;どぼん	ドボン	something small plopping into water	action	plunging;frequency-70_001-80_000
+カメラのフラッシュがちかっと光った。;カメラ の ふらっしゅ が ちかっ と ひかった。;The camera flash dazzled momentarily.;ちかっ	チカッ	momentarily dazzling	state	light;frequency-70_001-80_000
+彼はドアをひょっくり開けた。;かれ は どあ を ひょっくり あけた。;He opened the door suddenly and unexpectedly.;ひょっくり	ヒョックリ	unexpected	action	sudden;frequency-70_001-80_000
+彼の目はとろっとしていて、眠りに落ちそうだった。;かれ の め は とろっと して いて、ねむり に おち そう だった。;His eyes were sleepy and it looked like he was about to fall asleep.;とろっ	トロッ	"sleepy, dull eyes"	body function	sleep;frequency-70_001-80_000
+彼は眠くて、とろっした目をしている。;かれ は ねむくて、 とろっ した め を している。;He looks sleepy, with dull eyes.;とろっ	トロッ	"sleepy, dull eyes"	eye expressions;frequency-70_001-80_000
+このケーキは口の中でとろけるようにトロッとした食感があります。;この けーき は くち の なか で とろける ように とろっ と した しょっかん が あります。;This cake has a syrupy texture that melts in your mouth.;とろっ	トロッ	syrupy	flavour;frequency-70_001-80_000
+チーズがとろっととける。;ちーず が とろっ と とける。;The cheese melts into a gooey consistency.;とろっ	トロッ	"sticky, viscous, molten"	physical state	sticky;frequency-70_001-80_000
+チーズがとろっと溶けて、美味しいソースになった。;ちーず が とろっ と とけて 、 おいしい そーす に なった 。;The cheese melted into a rich sauce, making it delicious.;とろっ	トロッ	melt into a (viscous) liquid	state	liquids;frequency-70_001-80_000
+子供がシールをぺたっと貼った。;こども が しーる を ぺたっと はった。;The child firmly pasted the sticker.;ぺたっ	ペタッ	firmly	performing an action	pasting;frequency-70_001-80_000
+彼はぺたっと床に座った。;かれ は ぺたっと ゆか に すわった。;He sat flat on the floor.;ぺたっ	ペタッ	flat	performing an action	sitting;frequency-70_001-80_000
+強い風で枝がぶつっと折れた。;つよい かぜ で えだ が ぶつっと おれた。;The branch snapped off in the strong wind.;ぶつっ	ブツッ	"snapping off, breaking off (suddenly)"	motions	desintegrate;frequency-70_001-80_000
+ドアがみしっと音を立てた。;どあ が みしっ と おと を たてた．;The door creaked.;みしっ	ミシッ	creaking	onomatopoeia;frequency-70_001-80_000
+庭は雨上がりでべちゃべちゃだ。;にわ は あめ あがり で べちゃべちゃ だ。;The garden is muddy after the rain.;べちゃべちゃ	ベチャベチャ	muddy	physical state	wet;frequency-70_001-80_000
+彼女は電話でずっとべちゃべちゃ話していた。;かのじょ は でんわ で ずっと べ ちゃ べ ちゃ はなして いた 。;She was chattering away on the phone for ages.;べちゃべちゃ	ベチャベチャ	"chatter, babble"	speech;frequency-70_001-80_000
+雨の日に外に置いておいた靴が、ベチャベチャになってしまった。;あめ の ひ に そと に おいておいた くつ が、べちゃべちゃ に なってしまった。;The shoes I left outside on a rainy day became all soggy.;べちゃべちゃ	ベチャベチャ	"mushy, soggy"	texture;frequency-70_001-80_000
+火がごうごうと燃えている。;ひ が ごうごう と もえている。;The fire is roaring.;ごーごー	ゴーゴー	roaring	onomatopoeia	fire;frequency-70_001-80_000
+電車はごーごーと走っています。;でんしゃ は ごーごー と はしって います。;The train is rumbling loudly as it runs along.;ごーごー	ゴーゴー	heavy rumbling	onomatopoeia	train;frequency-70_001-80_000
+滝の水がごーごーと流れる音が聞こえた。;たき の みず が ごーごー と ながれる おと が きこえた。;I heard the sound of the waterfall's water roaring.;ごーごー	ゴーゴー	roaring	onomatopoeia	water;frequency-70_001-80_000
+ライオンがごーごーと鳴いている。;らいおん が ごーごー と ないている。;The lion is roaring.;ごーごー	ゴーゴー	roaring	onomatopoeia;frequency-70_001-80_000
+彼は昨晩、飲みすぎてぐでんぐでんになった。;かれ は さくばん、 のみすぎて ぐでんぐでん に なった。;He drank too much last night and passed out drunk.;ぐでんぐでん	グデングデン	drunk and passing out	body function	drunk;frequency-70_001-80_000
+涙がぽたりぽたりと頬を伝った。;なみだ が ぽたり ぽたり と ほほ を つたった。;Tears trickled down her cheeks in intervals.;ぽたりぽたり	ポタリポタリ	the sound of light tears dropping at intervals	crying;frequency-70_001-80_000
+雨の滴が屋根からぽたりぽたりと落ちている。;あめ の しずく が やね から ぽたりぽたり と おちて いる 。;Raindrops are continuously dripping from the roof.;ぽたりぽたり	ポタリポタリ	"continuously dropping drops, with pauses between drops"	state	liquids;frequency-70_001-80_000
+彼はごみをぽいぽい捨てる。;かれは ごみを ぽいぽい すてる。;He tosses the garbage away casually.;ぽいぽい	ポイポイ	toss away or dispose of casually	performing an action	throwing;frequency-70_001-80_000
+彼の頭にボールがガツッと当たった。;かれ の あたま に ぼーる が がつっ と あたった 。;The ball hit his head with a thud.;がつっ	ガツッ	something heavy hitting something hard accidentally	action	hitting something;frequency-70_001-80_000
+彼はリンゴをひとかじりすると、ガツッという音がした。;かれ は りんご を ひと かじり すると 、 がつっ という おと が した 。;He took a bite of the apple, and it made a crunching sound.;がつっ	ガツッ	crunching	onomatopoeia;frequency-70_001-80_000
+海岸に行くと、足の下でじゃりじゃりした感触がしました。;かいがん に いく と、あし の した で じゃりじゃり した かんしょく が しました。;When I went to the beach, I felt a sandy sensation under my feet.;じゃりじゃり	ジャリジャリ	"sandy, gritty"	texture;frequency-70_001-80_000
+彼は水たまりに飛び込んで、バシャッと音を立てた。;かれ は みず たまり に とびこんで、ばしゃっ と おと を たてた。;He jumped into the puddle, making a loud splashing sound.;ばしゃっ	バシャッ	a single forcefull splash	action	splashing;frequency-70_001-80_000
+ねずみが夜中にちゅーちゅーと鳴いていた。;ねずみ が よなか に ちゅーちゅー と ないて いた。;The mouse was squeaking during the night.;ちゅーちゅー	チューチュー	squeak	onomatopoeia	rodent;frequency-70_001-80_000
+猫がチューチュー飲んでいる。;ねこ が ちゅーちゅー のんで いる。;The cat is sucking (drinking) noisily.;ちゅーちゅー	チューチュー	sucking	onomatopoeia;frequency-70_001-80_000
+子猫がスタコラと庭を走り回っていた。;こねこ が すたこら と にわ を はしりまわっていた。;The kitten scampered around the garden.;すたこら	スタコラ	scampering off	performing an action	walking;frequency-70_001-80_000
+古い木の枝がぷつっと折れた。;ふるい き の えだ が ぷつっと おれた。;The old tree branch snapped off suddenly.;ぷつっ	プツッ	"snapping off, breaking off (suddenly)"	motions	desintegrate;frequency-70_001-80_000
+彼は針で指をぷつっと刺してしまった。;かれ は はり で ゆび を ぷつっと さして しまった。;He pricked his finger with a needle.;ぷつっ	プツッ	"prick, sting, pierce"	performing an action	stabbing;frequency-70_001-80_000
+彼は急に口から水をぷーっと吹き出した。;かれ は きゅうに くち から みず を ぷーっと ふきだした。;He suddenly spat out water with a 'puu!' sound.;ぷーっ	プーッ	spitting	onomatopoeia	human noises;frequency-70_001-80_000
+彼は大きくぷーっと息を吐いた。;かれ は おおきく ぷーっと いき を はいた。;He forcefully exhaled a big breath.;ぷーっ	プーッ	forcefully exhaling	performing an action;frequency-70_001-80_000
+彼は風船をぷーっと膨らませた。;かれ は ふうせん を ぷーっと ふくらませた。;He puffed up the balloon.;ぷーっ	プーッ	"puff up, inflate"	state	air;frequency-70_001-80_000
+彼女は何かを隠している気がして、いじいじと彼の目を見ていた。;かのじょ は なにか を かくしている き が して、いじいじ と かれ の め を みていた。;She felt like she was hiding something and was looking at him with paranoid eyes.;いじいじ	イジイジ	paranoid	eye expressions;frequency-70_001-80_000
+彼はいつもいじいじしていて、堂々と話せない。;かれ は いつも いじいじ していて どうどう と はなせない。;He is always in a down mood and can't speak confidently.;いじいじ	イジイジ	down	mood	down;frequency-70_001-80_000
+彼はいつもいじいじしていて、人前で話すのが苦手だ。;かれ は いつも いじいじ していて、 ひとまえ で はなす の が にがて だ。;He is always introverted and timid, and struggles with speaking in front of people.;いじいじ	イジイジ	"introvert, timid"	personal traits;frequency-70_001-80_000
+彼はぴょーんと跳び上がって、手を振っている。;かれ は ぴょーん と とびあがって、て を ふっている。;He jumped up and down, waving his hands.;ぴょーん	ピョーン	"bouncing up and down, jumping up and down"	performing an action;frequency-70_001-80_000
+重い本がドタリと床に落ちた。;おもい ほん が どたり と ゆか に おちた。;The heavy book fell to the floor with a thud.;どたり	ドタリ	thudding	onomatopoeia;frequency-70_001-80_000
+彼は新しいばくふの絵に青いぽちぽちをつけた。;かれ は あたらしい ばくふ の え に あおい ぽちぽち を つけた。;He added blue splotches to the new shogi painting.;ぽちぽち	ポチポチ	splotched	form;frequency-70_001-80_000
+夜空に星がピカリと光った。;よぞら に ほし が ぴかり と ひかった。;A star sparkled momentarily in the night sky.;ぴかり	ピカリ	a momentary sparkle	state	light;frequency-70_001-80_000
+彼はジュースをがぶっと飲んだ。;かれ は ジュース を がぶっと のんだ。;He gulped down the juice in one go.;がぶっ	ガブッ	swallow in one gulp	performing an action	drinking;frequency-70_001-80_000
+りんごをがぶっとかじった。;りんご を がぶっと かじった。;I took a big bite out of the apple.;がぶっ	ガブッ	bite something in one chomp (focus on the in-the-mouth aspect)	performing an action;frequency-70_001-80_000
+雨がしゅーしゅーと降っています。;あめ が しゅーしゅー と ふって います。;The rain is pouring down.;しゅーしゅー	シューシュー	pouring down	onomatopoeia	water;frequency-70_001-80_000
+カーボン飲料が開けられて、シューシューと音を立てた。;かーぼん いんりょう が あけられて、しゅーしゅー と おと を たてた。;The carbonated drink was opened, making a hissing sound.;しゅーしゅー	シューシュー	spurting	onomatopoeia;frequency-70_001-80_000
+ストーブの上に置いたやかんがしゅーしゅー音を立てています。;すとーぶ の うえ に おいた やかん が しゅーしゅー おと を たてて います。;The kettle placed on the stove is making a hissing noise.;しゅーしゅー	シューシュー	spurting out	state	liquids;frequency-70_001-80_000
+彼はビジネスでがっぽり儲けた。;かれ は びじねす で がっぽり もうけた。;He made a large amount of money through his business.;がっぽり	ガッポリ	making a large amount of money	quantity;frequency-70_001-80_000
+犬が暑さでだらっと' ダラッ'と舌を出している。;いぬ が あつさ で だらっと' ダラッ'と した を だしている。;The dog is lolling its tongue out 'dara' from the heat.;だらっ	ダラッ	lolling out the tongue	performing an action;frequency-70_001-80_000
+彼はだらっとした服を着ていた。;かれ は だらっと した ふく を きて いた。;He was wearing sloppy clothes.;だらっ	ダラッ	"sloppily, loosely"	personal attire;frequency-70_001-80_000
+洗濯物がベランダでだらっと垂れている。;せんたくもの が べらんだ で だらっと たれて いる。;The laundry is hanging down untidily on the balcony.;だらっ	ダラッ	hanging down (untidily)	spacial orientation;frequency-70_001-80_000
+雨が葉っぱからダラッと落ちた。;あめ が はっぱ から だらっ と おちた。;A thick drop of rain dripped from the leaf.;だらっ	ダラッ	a thick drop dripping	state	liquids;frequency-70_001-80_000
+彼は仕事中にダラッと座っていて、やる気が全く感じられません。;かれ は しごとちゅう に だらっ と すわっていて 、 やるき が まったく かんじられません 。;He sits lazily during work, showing absolutely no motivation.;だらっ	ダラッ	"lazily, slacking"	work attitude;frequency-70_001-80_000
+地震で家がスポッと動いた。;じしん で いえ が すぽっ と うごいた。;The house jolted strongly during the earthquake.;すぽっ	スポッ	jolt strongly	motions;frequency-70_001-80_000

@@ -1,0 +1,70 @@
+このりんごはとてもしゃりしゃりしておいしい。;この りんご は とても しゃりしゃり して おいしい。;This apple is very crisp and delicious.;しゃりしゃり	シャリシャリ	"tangy taste, crisp feel"	texture;frequency-80_001-90_000
+彼は頬を膨らませて、ぶーっと息を吐いた。;かれ は ほお を ふくらませて、ぶーっといきをはきた。;He puffed out his cheeks and blew out his breath in a huff.;ぶーっ	ブーッ	to puff out	performing an action;frequency-80_001-90_000
+彼は笑い出して、ジュースをぶーっと吹き出してしまった。;かれ は わらいだして、ジュース を ぶーっと ふきだして しまった。;He burst into laughter and ended up blowing out juice.;ぶーっ	ブーッ	"blowing something out of the mouth, bursting into laughter"	performing an action;frequency-80_001-90_000
+毎朝、窓の外で鳥がちゅんちゅんとさえずる声が聞こえる。;まいあさ、 まど の そと で とり が ちゅんちゅん と さえずる こえ が きこえる。;Every morning, I hear the chiming chirps of birds outside the window.;ちゅんちゅん	チュンチュン	chiming	onomatopoeia	bird;frequency-80_001-90_000
+スズメは朝になると、ちゅんちゅんと鳴きます。;すずめ は あさ に なる と、ちゅんちゅん と なきます。;Sparrows chirp 'chun chun' in the morning.;ちゅんちゅん	チュンチュン	song of a sparrow	onomatopoeia	sparrow;frequency-80_001-90_000
+洗濯物が強風でバーッと飛ばされた。;せんたくもの が きょうふう で ばーっ と とばされた。;The laundry was scattered wildly by the strong wind.;ばーっ	バーッ	"spread out, scatter"	motions	disassociate;frequency-80_001-90_000
+彼の目は私を見た瞬間にギラッと光った。;かれ の め は わたし を みた しゅんかん に ぎらっと ひかった。;The moment he looked at me, his eyes glared intensely.;ぎらっ	ギラッ	"momentary glare, stronger than ぎらり"	eye expressions	glaring;frequency-80_001-90_000
+彼の目がギラッと光った。;かれ　の　め　が　ぎらっ　と　ひかった。;His eyes glittered momentarily with light.;ぎらっ	ギラッ	a momentary glitter	state	light;frequency-80_001-90_000
+彼が水に飛び込んだ瞬間、バシャンと音がした。;かれ が みず に とびこんだ しゅんかん、 ばしゃん と おと が した。;The moment he jumped into the water, there was a loud splash.;ばしゃん	バシャン	the impact of a forcefull splash	action	splashing;frequency-80_001-90_000
+雨で靴がびしゃびしゃになった。;あめ で くつ が びしゃびしゃ に なった。;My shoes got soaking wet from the rain.;びしゃびしゃ	ビシャビシャ	splashing	onomatopoeia	water;frequency-80_001-90_000
+彼が帰宅したとき、彼の服はびしゃびしゃでした。;かれ が きたく した とき、かれ の ふく は びしゃびしゃ でした。;When he got home, his clothes were soggy.;びしゃびしゃ	ビシャビシャ	"slushy, soggy"	physical state	wet;frequency-80_001-90_000
+彼の服はびしゃびしゃになった。;かれ の ふく は びしゃびしゃ に なった。;His clothes got soaked.;びしゃびしゃ	ビシャビシャ	covered in water	physical state	wet;frequency-80_001-90_000
+雨が窓にびしゃびしゃと跳ね返った。;あめ が まど に びしゃびしゃ と はねかえった。;The rain continually splashed against the window.;びしゃびしゃ	ビシャビシャ	continualy splashing against an object	state	liquids;frequency-80_001-90_000
+雨がびしゃびしゃ降っている。;あめ が びしゃびしゃ ふっている。;It's raining heavily splashing down.;びしゃびしゃ	ビシャビシャ	splashing down	weather	rain;frequency-80_001-90_000
+彼女はぬーっと現れた。;かのじょ は ぬーっと あらわれた。;She appeared out of the blue.;ぬーっ	ヌーッ	appearing out of the blue	action	sudden;frequency-80_001-90_000
+カエルがピョイとジャンプした。;かえる が ぴょい と じゃんぷ した。;The frog made a quick jump.;ぴょい	ピョイ	single short jump	performing an action;frequency-80_001-90_000
+にょろにょろ蛇が地面を這っている。;にょろにょろ へび が じめん を はっている。;The snake is wriggling about on the ground.;にょろにょろ	ニョロニョロ	wriggling about	performing an action;frequency-80_001-90_000
+猫は嬉しそうにベロンと舌を出した。;ねこ は うれしそう に べろん と した を だした。;The cat happily stuck its tongue out.;べろん	ベロン	having one's tongue sticking out	performing an action;frequency-80_001-90_000
+その絵はとてもべろんとした形をしている。;その え は とても べろんと した かたち を している。;That drawing has a very flat shape.;べろん	ベロン	flat	shape;frequency-80_001-90_000
+落ち葉を踏むとカサコソと音がした。;おちば を ふむ と かさこそ と おと が した。;The leaves made a rustling sound as they were stepped on.;かさこそ	カサコソ	rumbling	onomatopoeia;frequency-80_001-90_000
+彼女はその考えを巡らせてニタッと微笑んだ。;かのじょ は その かんがえ を めぐらせて にたっと ほほえんだ。;She flashed a smile as she dwelled on that thought.;にたっ	ニタッ	flashing a smile brought on by ones own thoughts	smiling;frequency-80_001-90_000
+子供たちは海辺でピシャピシャと水をはねて遊んでいます。;こどもたちは うみべで ぴしゃぴしゃと みずを はねて あそんでいます。;The children are splashing water continuously at the beach.;ぴしゃぴしゃ	ピシャピシャ	continuous splashing	action	splashing;frequency-80_001-90_000
+雨が窓にぴしゃぴしゃと当たっている。;あめ が まど に ぴしゃぴしゃ と あたっている。;The rain is continually splashing against the window.;ぴしゃぴしゃ	ピシャピシャ	continualy splashing against an object	state	liquids;frequency-80_001-90_000
+彼はその知らせにギョッとした。;かれ は その しらせ に ぎょっと した。;He was shocked by the news.;ぎょっ	ギョッ	"shocked, aghast"	mental state	scared;frequency-80_001-90_000
+アヒルは池の周りでガーガー鳴いている。;あひる は いけ の まわり で がーがー ないて いる。;The duck is quacking around the pond.;がーがー	ガーガー	quack	onomatopoeia	duck;frequency-80_001-90_000
+雨のしずくがバケツに落ちて、ぽちゃんと音がした。;あめ の しずく が ばけつ に おちて、ぽちゃん と おと が した。;A raindrop fell into the bucket with a plop sound.;ぽちゃん	ポチャン	plopping	onomatopoeia;frequency-80_001-90_000
+彼の手はにちゃにちゃしていて、触るのに躊躇する。;かれ の て は にちゃにちゃ して いて 、 さわる の に ちゅうちょ する 。;His hands feel sticky and I hesitate to touch them.;にちゃにちゃ	ニチャニチャ	a gluey feeling	feelings;frequency-80_001-90_000
+このタコ焼きは油でニチャニチャしている。;この たこやき は あぶら で にちゃにちゃ している。;This takoyaki is greasy and sticky with oil.;にちゃにちゃ	ニチャニチャ	"adhesive, like glue, viscous, greasy"	physical state;frequency-80_001-90_000
+彼の手は蜜でにちゃにちゃしていた。;かれ の て は みつ で にちゃにちゃ して いた。;His hands were sticky with honey.;にちゃにちゃ	ニチャニチャ	viscous	texture;frequency-80_001-90_000
+彼の顔はモサッとしていて、今日の会議には興味がなさそうだった。;かれ の かお は もさっと して いて、 きょう の かいぎ に は きょうみ が なさそう だった。;His face looked absentminded, and he seemed uninterested in today's meeting.;もさっ	モサッ	"to look abscentminded, not alert"	facial expression;frequency-80_001-90_000
+彼は授業中もさっとして、先生の質問に答えられませんでした。;かれ は じゅぎょうちゅう もさっと して、せんせい の しつもん に こたえられません でした。;He was absent-minded in class and couldn't answer the teacher's question.;もさっ	モサッ	"slow-witted, dull"	mental state	not with it;frequency-80_001-90_000
+彼の部屋はこせこせしていて、ほとんど動けない。;かれ の へや は こせこせ していて、ほとんど うごけない。;His room is so confined that you can barely move.;こせこせ	コセコセ	confined	available space;frequency-80_001-90_000
+彼はいつもこせこせしているので、周りの人は疲れています。;かれ は いつも こせこせ している ので、まわり の ひと は つかれています。;He is always being fussy, so the people around him are tired.;こせこせ	コセコセ	"fussy, make a big deal out of nothing"	personal traits;frequency-80_001-90_000
+彼はきちきちと毎朝ジョギングに出かける。;かれ は きちきち と まいあさ ジョギング に でかける 。;He sets out for a jog punctually every morning.;きちきち	キチキチ	"regularly, punctual"	action;frequency-80_001-90_000
+電車はきちきちに満員だったので、次のに乗ることにした。;でんしゃ は きちきち に まんいん だった ので、つぎ の に のる こと に した。;The train was jam-packed, so I decided to take the next one.;きちきち	キチキチ	jam-packed	available space;frequency-80_001-90_000
+彼はいつもきちきちと仕事をしているので、私たちのプロジェクトを任せるのに安心です。;かれは いつも きちきちと しごとを しているので、 わたしたちの プロジェクトを まかせるのに あんしんです。;He always works diligently, so we feel confident entrusting him with our project.;きちきち	キチキチ	not letting [someone] down	personal traits;frequency-80_001-90_000
+彼のワイシャツはいつもきちきちにアイロンかけられている。;かれ の わいしゃつ は いつも きちきち に あいろん かけられている。;His shirt is always ironed to be perfectly crisp.;きちきち	キチキチ	(pure) exact	quantity;frequency-80_001-90_000
+このスーツケースは、きちきちに服が入っています。;この　すーつけーす　は、きちきち　に　ふく　が　はいって　います。;The clothes are packed tightly into this suitcase.;きちきち	キチキチ	"tight, exact"	size;frequency-80_001-90_000
+彼は朝8時にきちきちに到着した。;かれ は あさ はちじ に きちきち に とうちゃく した 。;He arrived exactly at 8 AM.;きちきち	キチキチ	"exactly, just in time"	temporal aspect;frequency-80_001-90_000
+彼は毎朝キチキチに職場に到着します。;かれ は まいあさ きちきち に しょくば に とうちゃく します。;He arrives at the workplace punctually every morning.;きちきち	キチキチ	"regularly, punctualy"	work attitude;frequency-80_001-90_000
+雨がザーザー降っています。;あめ が ざーざー ふって います。;It's pouring rain.;ざーざー	ザーザー	showering down	onomatopoeia	water;frequency-80_001-90_000
+雨がざーざー降っています。;あめ が ざーざー ふっています。;It is pouring rain.;ざーざー	ザーザー	"spraying, pouring"	onomatopoeia;frequency-80_001-90_000
+外の雨はザーザー降っています。;そとの あめは ざーざー ふっています。;The rain outside is pouring down heavily.;ざーざー	ザーザー	showering down (like rain)	state	liquids;frequency-80_001-90_000
+雨がザーザー降っています。;あめ が ざーざー ふっています。;It is raining cats and dogs.;ざーざー	ザーザー	raining cats and dogs	weather	rain;frequency-80_001-90_000
+空き瓶が床に転がって、からころと音を立てた。;あきびん が ゆか に ころがって、からころ と おと を たてた。;The empty bottle rolled on the floor, making a clattering sound.;からころ	カラコロ	clattering	onomatopoeia;frequency-80_001-90_000
+大きな石が山の斜面をゴロッと落ちてきた。;おおき な いし が やま の しゃめん を ごろっ と おちてきた。;A large rock suddenly rolled down the mountain slope.;ごろっ	ゴロッ	"sudden, single, roll"	motions	rolling;frequency-80_001-90_000
+彼は日曜日にソファの上で一日中ゴロッとしています。;かれ は にちようび に ソファ の うえ で いちにちじゅう ゴロッと して います。;He is lying lazily on the sofa all day on Sunday.;ごろっ	ゴロッ	lieing down lazily 	performing an action;frequency-80_001-90_000
+彼はクニャリと背中を曲げて、柔軟なポーズを取った。;かれ は くにゃり と せなか を まげて、じゅうなん な ぽーず を とった。;He slowly bent his back into a flexible pose.;くにゃり	クニャリ	"bending slowly, gently"	performing an action;frequency-80_001-90_000
+ヘビがにょろりと草むらを通り抜ける。;へび が にょろり と くさむら を とおりぬける。;The snake slithered smoothly through the grass.;にょろり	ニョロリ	"a single, fast, squirming movement (more gentle than にょろり)"	performing an action;frequency-80_001-90_000
+このシャツは質が良くて、しなしなしている。;この しゃつ は しつ が よくて、しな しな している。;This shirt is high quality and very supple.;しなしな	シナシナ	"flexible, supple"	form;frequency-80_001-90_000
+彼の古い車はがたぴしと音を立てて走っている。;かれ の ふるい くるま は がたぴし と おと を たてて はしっている。;His old car is running making clattering noises.;がたぴし	ガタピシ	falling apart	form;frequency-80_001-90_000
+古い車が走るたびにがたぴし音を立てます。;ふるい くるま が はしる たび に がたぴし おと を たてます。;The old car makes a rattling sound every time it runs.;がたぴし	ガタピシ	rattling	onomatopoeia;frequency-80_001-90_000
+彼らの関係はがたぴししている。;かれら の かんけい は がたぴし している。;Their relationship is disorderly and lacking smoothness.;がたぴし	ガタピシ	"disorderly, lacking smoothness"	personal relations;frequency-80_001-90_000
+彼の体がガタピシしているので、歩くのが難しい。;かれ の からだ が がたぴし している ので、あるく のが むずかしい。;His body is falling apart, making it difficult for him to walk.;がたぴし	ガタピシ	"to fall apart, to move less easy"	physical health	poor;frequency-80_001-90_000
+二人の関係はがたぴししている。;ふたり の かんけい は がたぴし している。;The relationship between the two is falling apart.;がたぴし	ガタピシ	a human relation (or system) going to shambles	resultant state;frequency-80_001-90_000
+この古い家はがたぴしと音を立てながら、強い風に耐えている。;この ふるい いえ は がたぴし と おと を たてながら 、 つよい かぜ に たえて いる 。;This old house is creaking as it withstands the strong wind.;がたぴし	ガタピシ	poor	structure;frequency-80_001-90_000
+ドアを開けると、ぎーっという音がした。;どあ を あける と ぎーっ と いう おと が した。;When I opened the door, it made a creaking sound.;ぎーっ	ギーッ	creaking	onomatopoeia;frequency-80_001-90_000
+彼は何度も目をパシパシと瞬かせた。;かれ は なんど も め を ぱしぱし と またたかせた。;He blinked his eyes rapidly several times.;ぱしぱし	パシパシ	blinking	eye expressions	blinking;frequency-80_001-90_000
+風で洗濯物がぶらんぶらん揺れている。;かぜ で せんたくもの が ぶらんぶらん ゆれている。;The laundry is hanging down and swaying in the wind.;ぶらんぶらん	ブランブラン	hanging down and swaying	spacial orientation;frequency-80_001-90_000
+枝をぽきりと折る音がした。;えだ を ぽきり と おる おと が した。;There was a sound of a branch breaking.;ぽきり	ポキリ	"breaking something dry, fragile"	action	breaking;frequency-80_001-90_000
+ドアがバタッと閉まった。;ど あ が ばたっ と しまっ た。;The door slammed shut with a bang.;ばたっ	バタッ	with a bang	action	slamming;frequency-80_001-90_000
+彼は急に立ち止まってバタッと倒れた。;かれ は きゅう に たちどまって ばたっ と たおれた。;He suddenly stopped and collapsed with a thud.;ばたっ	バタッ	stop suddenly	motions;frequency-80_001-90_000
+突然本が床に落ちて、バタッと音がした。;とつぜん ほん が ゆか に おちて、ばたっ と おと が した。;Suddenly, the book fell to the floor with a bang.;ばたっ	バタッ	with a bang	onomatopoeia;frequency-80_001-90_000
+彼がドアをばたっと閉めた。;かれ が ドア を ばたっ と しめた。;He slammed the door shut.;ばたっ	バタッ	slamming	onomatopoeia;frequency-80_001-90_000
+彼は階段で足を滑らせて、ばたっと転んだ。;かれ は かいだん で あし を すべらせて、ばたっと ころんだ。;He slipped on the stairs and fell down with a thud.;ばたっ	バタッ	"fall flat, fall with a thud"	performing an action	falling;frequency-80_001-90_000
+クリスマスに、ベルがしゃんしゃんと鳴りました。;くりすます に 、 べる が しゃんしゃん と なりました 。;On Christmas, the bells jingled.;しゃんしゃん	シャンシャン	"""jingle jingle"""	onomatopoeia	bells;frequency-80_001-90_000
+風鈴がしゃんしゃんと鳴っている。;ふうりん が しゃんしゃん と なっている。;The wind chime is jangling.;しゃんしゃん	シャンシャン	jangling	onomatopoeia;frequency-80_001-90_000
+祖母は今年もしゃんしゃんして元気に過ごしています。;そぼ は ことし も しゃんしゃん して げんき に すごして います。;My grandmother is alive and well, spending another year in good spirits.;しゃんしゃん	シャンシャン	alive and well (elderly)	physical health	good;frequency-80_001-90_000
+プールに飛び込むと水がばしゃりと音を立てた。;ぷーる に とびこむ と みず が ばしゃり と おとを たてた。;When I jumped into the pool, the water made a forceful splashing sound.;ばしゃり	バシャリ	the impact of a forcefull splash	action	splashing;frequency-80_001-90_000
+彼の予測はどんぴしゃり当たった。;かれ の よそく は どんぴしゃり あたった。;His prediction was right on the mark.;どんぴしゃり	ドンピシャリ	on the mark	resultant state;frequency-80_001-90_000
